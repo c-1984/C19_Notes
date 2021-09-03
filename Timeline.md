@@ -1,3 +1,8 @@
+2 September 2021
+- Vaccine passport rules are released in Ontario, Canada and will be effective 22 September. A vaccine passport will be needed to enter restaurants, bars, nightclubs, gyms, theatres. Not required for retail shopping. https://www.cbc.ca/news/canada/toronto/ontario-covid-vaccine-passport-certificate-proof-1.6160728
+
+- Orwellian app coming to South Australia: "People in South Australia will be forced to download an app that combines facial recognition and geolocation. The state will text them at random times, and thereafter they will have 15 minutes to take a picture of their face in the location where they are supposed to be. Should they fail, the local police department will be sent to follow up in person." https://www.theatlantic.com/ideas/archive/2021/09/pandemic-australia-still-liberal-democracy/619940/
+
 1 September 2021
 - /r/NoNewNormal subreddit banned for "community interference". /r/NoNewNormal was a discussion forum focused on all things beyond the mainstream narrative surrounding COVID-19. It was previously "quarantined" on Reddit (unsearchable via search bar) due to "misinformation". There are some subreddits out there with very questionable and arguably unethical content which I won't mention here, yet they are still allowed to persist under free speech, so it is unbelievable that this community was banned. The new forum has moved to https://communities.win/c/NoNewNormal/
 
@@ -12,6 +17,8 @@
 - Alex Berenson brings attention to an interesting trend whereby countries that have a large number of their population receive the first dose of a SARS-CoV2 vaccination, are associated with a large number of COVID-19 cases soon thereafter. Vietnam is used as a case study here, and this trend is similar to that seen in Israel and Britain in January. https://alexberenson.substack.com/p/insanity-in-vietnam 
 
 - Mathew Crawford also has a great writeup going into more detail in what happened in Vietnam, with statistics to back it up too. Interestingly, before mass vaccination was started, HCQ appeared to have been used quite effectively to control case numbers.  https://roundingtheearth.substack.com/p/vietnams-tale-of-covid-19-medicine 
+
+- San Diego County ‘Declares Health Misinformation To Be A Public Health Crisis’ https://www.technocracy.news/san-diego-county-declares-health-misinformation-to-be-a-public-health-crisis/
 
 29 August 2021
 - 1000+ church leaders in Australia take a stance against vaccine passports by signing an letter to the Prime Minister Scott Morrison, which “presents five objections to the introduction of vaccine passports in Australia. That is, (1) The risk of creating an unethical two-tiered society; (2) The added burden on an already burdened society; (3) Government should never coerce conscience; (4) Arbitrary implementation and questionable science; (5) The inability of churches to exclude people from worship based on their medical status.” https://caldronpool.com/over-400-church-leaders-take-a-stand-against-vaccine-passports-in-open-letter-to-prime-minister-scott-morrison/?fbclid=IwAR1OJ2MklbB1M9XUoM0x43XG_o0A5VnwzCGJ2uMLXBsW1pmyDhJFaJLFHTY
@@ -134,18 +141,11 @@ https://investors.modernatx.com/news-releases/news-release-details/moderna-provi
 1 April 2021
 - Pfizer and BioNTech releases 6 month data for mRNA vaccine, BNT162b2, claiming 91.3% vaccine efficacy and 100% effectiveness for preventing severe hospitalisation. https://investors.pfizer.com/investor-news/press-release-details/2021/Pfizer-and-BioNTech-Confirm-High-Efficacy-and-No-Serious-Safety-Concerns-Through-Up-to-Six-Months-Following-Second-Dose-in-Updated-Topline-Analysis-of-Landmark-COVID-19-Vaccine-Study/default.aspx
 
-22 March 2021
-- Preprint research find that a second dose of Pfizer SARS-CoV2 vaccine has different effects on naive vs COVID-recovered patients. “On the contrary, the second BNT162b2 vaccine dose results in a reduction of cellular immunity in COVID-19 recovered individuals, which suggests that a second dose, according to the current standard regimen of vaccination, may be not necessary in individuals previously infected with SARS-CoV-2.” https://www.biorxiv.org/content/10.1101/2021.03.22.436441v1
-
 11 March 2021
-- Getting vaccinated with Pfizer after recovering with natural immunity actually reduces immunity. This suggests that people who have natural immunity should not be further immunised through vaccination: https://www.biorxiv.org/content/10.1101/2021.03.22.436441v1
+- Pre-print research finds that getting vaccinated with Pfizer after recovering with natural immunity actually reduces immunity. This suggests that people who have natural immunity should not be further immunised through vaccination: https://www.biorxiv.org/content/10.1101/2021.03.22.436441v1
 
 10 December 2020
 - Research comes out showing that using N protein as antigen rather than spike protein is likely better, since mutations don’t occur there often (whereas the spike protein is the most quickly evolving):  https://theconversation.com/covid-vaccines-focus-on-the-spike-protein-but-heres-another-target-150315
 
 - FDA on importance of the placebo group referring to vaccine clinical trials: “Placebo controlled follow-up can be very important in showing that whatever happened in the vaccine group also happened in the placebo group. Because that’s our best way of knowing.”
 https://www.fda.gov/media/144859/download
-
-
-
-
