@@ -1,14 +1,27 @@
+5 September 2021
+- Israel warns that eventual 4th dose of SARS-CoV-2 vaccines will be needed and that regular boosters will be the new “way of life”. https://www.timesofisrael.com/virus-czar-calls-to-begin-readying-for-eventual-4th-vaccine-dose/
+
+4 September 2021
+- Joe Rogan has recovered from COVID-19 in just 2 days and his test result is now negative. The treatment he used included ivermectin, monoclonal antibodies, azithromycin. https://www.instagram.com/p/CTXnpK7FrKv/?utm_medium=copy_link
+
+3 September 2021
+- Report released by Public Health Ontario. There were 106 incidents of myocarditis in those aged 25 years and younger. The vast majority of these (80%) were in males. https://torontosun.com/news/provincial/over-100-ontario-youth-have-been-sent-to-hospital-for-vaccine-related-heart-problems
+
+- Alberta, Canada, is offering a $100 incentive for individuals who receive a vaccine within the next 6 weeks. https://calgaryherald.com/news/local-news/alberta-offering-100-incentive-to-people-who-receive-covid-19-vaccine-between-sept-3-and-oct-14
+
 2 September 2021
 - Vaccine passport rules are released in Ontario, Canada and will be effective 22 September. A vaccine passport will be needed to enter restaurants, bars, nightclubs, gyms, theatres. Not required for retail shopping. https://www.cbc.ca/news/canada/toronto/ontario-covid-vaccine-passport-certificate-proof-1.6160728
 
 - Orwellian app coming to South Australia: "People in South Australia will be forced to download an app that combines facial recognition and geolocation. The state will text them at random times, and thereafter they will have 15 minutes to take a picture of their face in the location where they are supposed to be. Should they fail, the local police department will be sent to follow up in person." https://www.theatlantic.com/ideas/archive/2021/09/pandemic-australia-still-liberal-democracy/619940/
+
+- Joe Rogan gets COVID-19. https://www.instagram.com/tv/CTSsA8wAR2-/?utm_medium=copy_link
 
 1 September 2021
 - /r/NoNewNormal subreddit banned for "community interference". /r/NoNewNormal was a discussion forum focused on all things beyond the mainstream narrative surrounding COVID-19. It was previously "quarantined" on Reddit (unsearchable via search bar) due to "misinformation". There are some subreddits out there with very questionable and arguably unethical content which I won't mention here, yet they are still allowed to persist under free speech, so it is unbelievable that this community was banned. The new forum has moved to https://communities.win/c/NoNewNormal/
 
 - The New England Journal of Medicine published a letter reporting waning  SARS-CoV-2 vaccine protection in 19,000 healthcare workers in San Diego, which decreased from 94%+ in March through June to 65% in July. Also reported that vaccinated and unvaccinated individuals were about as likely to be symptomatic (which is consistent with previous studies showing they had similar viral loads and transmission). https://www.nejm.org/doi/full/10.1056/NEJMc2112981
 
-- After a bus driver vaccine mandate in Chicago, many bus drivers resign, so the Mayor is looking to Uber/Lyft for help in getting kids to school. The district now has 770 drivers which is 500 drivers short. https://jalopnik.com/after-school-bus-drivers-quit-over-vaccine-mandate-chi-1847593162
+- After a bus driver vaccine mandate in Chicago, many bus drivers resign, so the Mayor is looking to Uber/Lyft for help in getting kids to school. 😂 The district now has 770 drivers which is 500 drivers short. https://jalopnik.com/after-school-bus-drivers-quit-over-vaccine-mandate-chi-1847593162
 
 31 August 2021
 - Two of the FDA's most senior vaccine leaders are retiring from their positions. The apparent reason? "A former senior FDA leader told Endpoints that they’re departing because they’re frustrated that CDC and their ACIP committee are involved in decisions that they think should be up to the FDA (...) What finally did it for them was the White House getting ahead of FDA on booster shots." https://endpts.com/breaking-in-a-major-blow-to-vaccine-efforts-senior-fda-leaders-stepping-down-report/
@@ -19,6 +32,8 @@
 - Mathew Crawford also has a great writeup going into more detail in what happened in Vietnam, with statistics to back it up too. Interestingly, before mass vaccination was started, HCQ appeared to have been used quite effectively to control case numbers.  https://roundingtheearth.substack.com/p/vietnams-tale-of-covid-19-medicine 
 
 - San Diego County ‘Declares Health Misinformation To Be A Public Health Crisis’ https://www.technocracy.news/san-diego-county-declares-health-misinformation-to-be-a-public-health-crisis/
+
+- CDC report released summarising findings from VAERS relating to myocarditis after vaccination. As of the time of reporting, there were 2,574 reports of myocarditis or pericarditis in the system, most were reported in young males after the 2nd dose. https://www.cdc.gov/vaccines/acip/meetings/downloads/slides-2021-08-30/03-COVID-Su-508.pdf
 
 29 August 2021
 - 1000+ church leaders in Australia take a stance against vaccine passports by signing an letter to the Prime Minister Scott Morrison, which “presents five objections to the introduction of vaccine passports in Australia. That is, (1) The risk of creating an unethical two-tiered society; (2) The added burden on an already burdened society; (3) Government should never coerce conscience; (4) Arbitrary implementation and questionable science; (5) The inability of churches to exclude people from worship based on their medical status.” https://caldronpool.com/over-400-church-leaders-take-a-stand-against-vaccine-passports-in-open-letter-to-prime-minister-scott-morrison/?fbclid=IwAR1OJ2MklbB1M9XUoM0x43XG_o0A5VnwzCGJ2uMLXBsW1pmyDhJFaJLFHTY
@@ -35,11 +50,15 @@
 - 1.6 million doses of Moderna vaccine are withdrawn in Japan due to contamination of “a substance that reacts with magnets”. 
 https://asia.nikkei.com/Spotlight/Coronavirus/COVID-vaccines/1.6m-Moderna-doses-withdrawn-in-Japan-over-contamination
 
+- Preprint research finds that the Lambda variant is likely to escape vaccines due to mutations in the RBD of the spike protein. https://www.biorxiv.org/content/10.1101/2021.08.25.457692v1?fbclid=IwAR0gVMcovymZ9PZFw6MtSroddAs13FfwTtvcNyMrNl1AccMMwKyIvljkCDc
+
 25 August 2021
 - Preprint research in Israel finds that individuals vaccinated with Pfizer have 13 fold increased risk of a breakthrough infection as well as 27 fold risk of symptoms when they were infected compared to those with natural immunity. https://www.medrxiv.org/content/10.1101/2021.08.24.21262415v1
 - News coverage in the mainstream media!  https://www.bloomberg.com/news/articles/2021-08-27/previous-covid-prevents-delta-infection-better-than-pfizer-shot
 - 364 million doses of SARS-CoV2 vaccines have been given so far in the US https://www.bloomberg.com/graphics/covid-vaccine-tracker-global-distribution/
 - 595,620 adverse events in VAERS from SARS-CoV2 vaccination, so the adverse rate per million vaccines given is 1,636.
+
+- Ministry of Health in Canada updates its COVID-19 Provincial Testing Guidance document to indicate that “testing is generally not recommended for individuals who are not fully vaccinated.” 🤯 https://www.health.gov.on.ca/en/pro/programs/publichealth/coronavirus/docs/2019_testing_guidance.pdf https://twitter.com/sylvainl_cote/status/1434284541615788034?s=21
 
 24 August 2021
 - CDC Study Counts People Hospitalized within 14 days of recieving the Vaccine as “Unvaccinated”, so of you take the vaccine and end up in the hospital 2 days later with COVID-19, you are an unvaccinated person in the hospital according to this study that is being used to fearmonger!
@@ -70,6 +89,9 @@ https://www.bbc.com/news/health-58270098
 
 19th August 2021
 - New Zealand goes into snap 3 day lockdown (yes the whole country) due to 1 case detected: https://www.spiked-online.com/2021/08/19/new-zealands-zero-covid-trap/amp/
+
+18 August 2021
+- Three young male athletes develop heart complications after their second vaccine dose. Doctors say “no need to panic, but we recommend taking it easy for at least one week after receiving a vaccine dose.” https://www.brusselstimes.com/belgium/181660/doctors-advise-against-intensive-sport-after-covid-vaccination/
 
 17th August 2021 
 - Scottish government seeks to make emergency COVID powers including lockdowns and mandates permanent so that they can apparently control “incidence or spread of infection or contamination which presents, or could present, significant harm to human health in Scotland, not just Covid”. Just unbelievable. 
@@ -141,11 +163,16 @@ https://investors.modernatx.com/news-releases/news-release-details/moderna-provi
 1 April 2021
 - Pfizer and BioNTech releases 6 month data for mRNA vaccine, BNT162b2, claiming 91.3% vaccine efficacy and 100% effectiveness for preventing severe hospitalisation. https://investors.pfizer.com/investor-news/press-release-details/2021/Pfizer-and-BioNTech-Confirm-High-Efficacy-and-No-Serious-Safety-Concerns-Through-Up-to-Six-Months-Following-Second-Dose-in-Updated-Topline-Analysis-of-Landmark-COVID-19-Vaccine-Study/default.aspx
 
+22 March 2021
+- A GP from Celbridge was suspended for refusing to administer SARS-CoV-2 vaccines to his patients. “My problem primarily is that I don’t think the pathogenicity of Covid is sufficiently severe to a. cause lockdowns or b. use a messenger RNA [vaccine],” he said as he expressed concern over the safety of the shots” https://www.irishtimes.com/news/health/gp-suspended-by-medical-council-over-refusal-to-give-covid-19-vaccine-1.4516239
+
 11 March 2021
-- Pre-print research finds that getting vaccinated with Pfizer after recovering with natural immunity actually reduces immunity. This suggests that people who have natural immunity should not be further immunised through vaccination: https://www.biorxiv.org/content/10.1101/2021.03.22.436441v1
+- Getting vaccinated with Pfizer after recovering with natural immunity actually reduces immunity. This suggests that people who have natural immunity should not be further immunised through vaccination: https://www.biorxiv.org/content/10.1101/2021.03.22.436441v1
 
 10 December 2020
 - Research comes out showing that using N protein as antigen rather than spike protein is likely better, since mutations don’t occur there often (whereas the spike protein is the most quickly evolving):  https://theconversation.com/covid-vaccines-focus-on-the-spike-protein-but-heres-another-target-150315
 
 - FDA on importance of the placebo group referring to vaccine clinical trials: “Placebo controlled follow-up can be very important in showing that whatever happened in the vaccine group also happened in the placebo group. Because that’s our best way of knowing.”
 https://www.fda.gov/media/144859/download
+
+
