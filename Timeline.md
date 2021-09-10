@@ -1,20 +1,38 @@
+7 September 2021
+- NIH orders $1.67M study on COVID-19 vaccine impacts on menstrual cycle https://nypost.com/2021/09/07/nih-to-study-how-covid-19-vaccine-impacts-menstrual-cycle/
+
+- 900+ pages of documents describing US-funded research of gain-of-function viruses in China were released due to a FOIA lawsuit. The evidence in these documents contain funded grant proposals to do research which could have plausibly led to a lab leak. https://theintercept.com/2021/09/06/new-details-emerge-about-coronavirus-research-at-chinese-lab/
+
+- Australian government introduces new surveillance laws that allow authorities to quietly modify or delete Twitter and Facebook posts. https://insiderpaper.com/australian-government-new-surveillance-laws-modify-twitter-facebook-posts/amp/
+
+6 September 2021
+- Victoria, Australia. Premier Dan Andrew’s announces that restrictions in the economy will apply to unvaccinated. https://www.rt.com/news/534078-australia-victoria-vaccinated-economy/?fbclid=IwAR3i0SgH3ybZhpBe1G9bVUWCavG7fWXcl76-MAv7spyJ0CySPdh0RdU3XdI
+
 5 September 2021
 - Israel warns that eventual 4th dose of SARS-CoV-2 vaccines will be needed and that regular boosters will be the new “way of life”. https://www.timesofisrael.com/virus-czar-calls-to-begin-readying-for-eventual-4th-vaccine-dose/
 
 4 September 2021
-- Joe Rogan has recovered from COVID-19 in just 2 days and his test result is now negative. The treatment he used included ivermectin, monoclonal antibodies, azithromycin. https://www.instagram.com/p/CTXnpK7FrKv/?utm_medium=copy_link
+- Joe Rogan has recovered from COVID-19 in just 3 days and his test result is now negative. The treatment he used included ivermectin, monoclonal antibodies, azithromycin. https://www.instagram.com/p/CTXnpK7FrKv/?utm_medium=copy_link https://www.rt.com/usa/533694-joe-rogan-covid-ivermectin/
 
 3 September 2021
 - Report released by Public Health Ontario. There were 106 incidents of myocarditis in those aged 25 years and younger. The vast majority of these (80%) were in males. https://torontosun.com/news/provincial/over-100-ontario-youth-have-been-sent-to-hospital-for-vaccine-related-heart-problems
 
 - Alberta, Canada, is offering a $100 incentive for individuals who receive a vaccine within the next 6 weeks. https://calgaryherald.com/news/local-news/alberta-offering-100-incentive-to-people-who-receive-covid-19-vaccine-between-sept-3-and-oct-14
 
+- UK’s Joint Committee on Vaccination and Immunisation (JCVI) thinks it’s too early to recommend that all young people aged 12-15 are given the covid-19 vaccination. Instead, they recommend “assessing the broader impact of universal covid-19 vaccination in the 12-15 age group” first. https://www.bmj.com/content/374/bmj.n2180
+
+- A response is released from the authors of an IVM meta-analysis showing that there was sufficient evidence for use of IVM in the treatment of COVID-19. The response is directed at a more recent article, a Cochrane review, that rebuts their findings. In this response, flaws and incorrect assumptions from the Cochrane review are pointed out. https://osf.io/peqcj/
+
 2 September 2021
-- Vaccine passport rules are released in Ontario, Canada and will be effective 22 September. A vaccine passport will be needed to enter restaurants, bars, nightclubs, gyms, theatres. Not required for retail shopping. https://www.cbc.ca/news/canada/toronto/ontario-covid-vaccine-passport-certificate-proof-1.6160728
+- Vaccine passport rules are released in Ontario, Canada and will be effective 22 September. A vaccine passport will be needed to enter restaurants, bars, nightclubs, gyms, theatres. Not required for retail shopping (yet). https://www.cbc.ca/news/canada/toronto/ontario-covid-vaccine-passport-certificate-proof-1.6160728
+
+- Labor and Liberal both show their support for Domestic COVID-19 Vaccine Passports, by voting against the “No COVID Vaccine Passports Bill 2021”. https://youtu.be/sBbz04Oiu-4 George Christensen MP and Craig Kelly MP were the only two in the federal parliament to support the bill, which would have made it illegal to discriminate based on vaccination status in Australia. https://t.me/gchristensen/579
 
 - Orwellian app coming to South Australia: "People in South Australia will be forced to download an app that combines facial recognition and geolocation. The state will text them at random times, and thereafter they will have 15 minutes to take a picture of their face in the location where they are supposed to be. Should they fail, the local police department will be sent to follow up in person." https://www.theatlantic.com/ideas/archive/2021/09/pandemic-australia-still-liberal-democracy/619940/
 
-- Joe Rogan gets COVID-19. https://www.instagram.com/tv/CTSsA8wAR2-/?utm_medium=copy_link
+- Joe Rogan tests positive for symptomatic COVID-19. https://www.instagram.com/tv/CTSsA8wAR2-/?utm_medium=copy_link
+
+- The CDC changes the definition of a “vaccine” on its website, downgrading it from “a product that produces immunity” to a “preparation that stimulates the body’s immune response”. https://mobile.twitter.com/DominateREALITY/status/1435450618219466754
 
 1 September 2021
 - /r/NoNewNormal subreddit banned for "community interference". /r/NoNewNormal was a discussion forum focused on all things beyond the mainstream narrative surrounding COVID-19. It was previously "quarantined" on Reddit (unsearchable via search bar) due to "misinformation". There are some subreddits out there with very questionable and arguably unethical content which I won't mention here, yet they are still allowed to persist under free speech, so it is unbelievable that this community was banned. The new forum has moved to https://communities.win/c/NoNewNormal/
@@ -23,8 +41,14 @@
 
 - After a bus driver vaccine mandate in Chicago, many bus drivers resign, so the Mayor is looking to Uber/Lyft for help in getting kids to school. 😂 The district now has 770 drivers which is 500 drivers short. https://jalopnik.com/after-school-bus-drivers-quit-over-vaccine-mandate-chi-1847593162
 
+- Growing reports that hospitals refusing to use ivermectin are being sued by patients’ families in lawsuits. https://www.medpagetoday.com/special-reports/exclusives/94325
+
+- Israel registers close to 11,000 COVID-19 cases, marking a new record since the start of the pandemic https://www.jpost.com/health-and-wellness/israel-registers-almost-11000-cases-in-a-day-marking-new-record-678227
+
 31 August 2021
-- Two of the FDA's most senior vaccine leaders are retiring from their positions. The apparent reason? "A former senior FDA leader told Endpoints that they’re departing because they’re frustrated that CDC and their ACIP committee are involved in decisions that they think should be up to the FDA (...) What finally did it for them was the White House getting ahead of FDA on booster shots." https://endpts.com/breaking-in-a-major-blow-to-vaccine-efforts-senior-fda-leaders-stepping-down-report/
+- Two of the FDA's most senior vaccine leaders are retiring from their positions. The apparent reason? "A former senior FDA leader told Endpoints that they’re departing because they’re frustrated that CDC and their ACIP committee are involved in decisions that they think should be up to the FDA (...) What finally did it for them was the White House getting ahead of FDA on booster shots." https://endpts.com/breaking-in-a-major-blow-to-vaccine-efforts-senior-fda-leaders-stepping-down-report/ https://www.lifesitenews.com/news/top-fda-officials-quit-following-disagreement-with-bidens-rushed-covid-booster-shot-plan/
+
+- Announcement that Israel vaccine passports to expire 6 months after the second dose of a SARS-CoV-2 vaccination is received. https://www.visiontimes.com/2021/08/31/israel-vaccine-passport-booster.html
 
 30 August 2021
 - Alex Berenson brings attention to an interesting trend whereby countries that have a large number of their population receive the first dose of a SARS-CoV2 vaccination, are associated with a large number of COVID-19 cases soon thereafter. Vietnam is used as a case study here, and this trend is similar to that seen in Israel and Britain in January. https://alexberenson.substack.com/p/insanity-in-vietnam 
@@ -116,6 +140,9 @@ https://covid19criticalcare.com/wp-content/uploads/2020/11/FLCCC-Alliance-I-MASK
 - UK reports that two thirds of COVID deaths are in the vaccinated. See page 18 of technical briefing from Public Health England here: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1009243/Technical_Briefing_20.pdf and news coverage here: https://www.globalresearch.ca/bombshell-uk-data-destroys-entire-premise-vaccine-push/5754173
 
 - FOX News comes out with a segment interviewing Dr Byram Bridle about the false claims that the CDC and Biden are saying about this being a “pandemic of the unvaccinated”. It's amazing that to find legit, uncensored information in the mainstream media, one must now go to Fox News of all places... https://video.foxnews.com/v/6266738894001#sp=show-clips
+
+4 August 2021
+- The WHO calls for a moratorium on booster shots until the end of the year, citing concerns about disparity between richer and poorer countries in terms of their access to vaccines. https://www.washingtonpost.com/nation/2021/08/04/coronavirus-covid-live-updates-us/
 
 1 August 2021
 - Pre-publication release of a study showing that COVID-19 vaccination is associated with myocarditis: https://pediatrics.aappublications.org/content/early/2021/08/12/peds.2021-053427
