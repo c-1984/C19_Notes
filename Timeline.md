@@ -1,3 +1,16 @@
+11 September 2021
+- Gorillas at Zoo Atlanta have been diagnosed with COVID-19 and are being treated with monoclonal antibodies. Somewhat of a WTF moment, considering that the US supply of monoclonal antibodies has been restricted by the Biden administration (see 10 September 2021). https://edition.cnn.com/2021/09/11/us/zoo-gorillas-covid-trnd/index.html
+
+10 September 2021
+- TGA announces new restrictions on prescribing IVM in Australia. Doctors are no longer allowed to prescribe it off-label for COVID-19 anymore, except for certain “TGA-approved conditions”, like scabies or parasitic infections. https://www.tga.gov.au/media-release/new-restrictions-prescribing-ivermectin-covid-19 https://www.theguardian.com/australia-news/2021/sep/10/australian-drug-regulator-bans-ivermectin-as-covid-treatment-after-sharp-rise-in-prescriptions
+
+- The Spectator releases a "just the statistics" article. Amongst various statistics on COVID-19 cases, vaccine adverse reactions, and flu statistics for comparison, this one stands out: “Covid has had an extremely negligible impact on the overall average number of deaths in Australia and the average age at death.” https://www.spectator.com.au/2021/09/just-the-facts-coronavirus-in-australia-by-the-numbers/?fbclid=IwAR1FQMOVjglzqQVv4vs_LnYfk5n7IdryjimXeiS_dfbMft0mi4xZlPl_BXU
+
+- Signs that the Biden administration is increasing control and supervision of the distribution of monoclonal antibodies, a highly effective form of COVID-19 treatment currently in widespread use, especially in Florida and Texas. In Alabama, the allocation of monoclonal antibodies has been cut by 30%: https://www.al.com/news/2021/09/state-health-officer-dr-scott-harris-to-update-covid-19-status-in-alabama.html This is apparently happening in seven Southern states (https://www.forbes.com/sites/jemimamcevoy/2021/09/10/nation-short-on-supply-of-key-covid-treatment-desperate-states-told-to-reduce-requests/?sh=39fdae376737) 
+
+9 September 2021
+- Corruption? A company part-owned by a former vice-president of the Victorian Labor Party was awarded an $86.4 million contract by the current government, to provide COVID-19 medical and health services for quarantine hotels. This was done without the proper procurement process. https://www.theage.com.au/politics/victoria/auditor-general-queries-86-4m-hotel-quarantine-contract-20210909-p58qb7.html
+
 7 September 2021
 - NIH orders $1.67M study on COVID-19 vaccine impacts on menstrual cycle https://nypost.com/2021/09/07/nih-to-study-how-covid-19-vaccine-impacts-menstrual-cycle/
 
@@ -76,6 +89,7 @@ https://asia.nikkei.com/Spotlight/Coronavirus/COVID-vaccines/1.6m-Moderna-doses-
 
 - Preprint research finds that the Lambda variant is likely to escape vaccines due to mutations in the RBD of the spike protein. https://www.biorxiv.org/content/10.1101/2021.08.25.457692v1?fbclid=IwAR0gVMcovymZ9PZFw6MtSroddAs13FfwTtvcNyMrNl1AccMMwKyIvljkCDc
 
+
 25 August 2021
 - Preprint research in Israel finds that individuals vaccinated with Pfizer have 13 fold increased risk of a breakthrough infection as well as 27 fold risk of symptoms when they were infected compared to those with natural immunity. https://www.medrxiv.org/content/10.1101/2021.08.24.21262415v1
 - News coverage in the mainstream media!  https://www.bloomberg.com/news/articles/2021-08-27/previous-covid-prevents-delta-infection-better-than-pfizer-shot
@@ -124,6 +138,9 @@ https://www.thenational.scot/news/19518599.scottish-government-seeks-make-emerge
 16 August 2021
 - Australian clinical research published showing that the clinical course of COVID-19 in children was mild with similar symptoms to cold/flu. https://www.mja.com.au/journal/2021/clinical-course-2020-covid-19-children-was-mild
 
+15 August 2021
+- Australian Government announced the purchase of an additional 1 million Pfizer doses from the Republic of Poland. https://www.pm.gov.au/media/one-million-doses-pfizer-vaccine-europe-boosting-australian-supplies As of now, Australian government has now secured 280 million doses of COVID-19 vaccines, enough for >3 doses per person in Australia. 
+
 14 August 2021
 - Construction of “quarantine camp” in Melbourne starts, will be operational with 500 beds later this year and plans to contain up to 3000 people by finish in a couple of years time - which begs the question... how long are they intending for this pandemic to last!? https://www.theage.com.au/national/victoria/construction-of-mickleham-quarantine-camp-is-under-way-20210812-p58i50.html
 
@@ -165,6 +182,9 @@ https://covid19criticalcare.com/wp-content/uploads/2020/11/FLCCC-Alliance-I-MASK
 - EU reports 1.5 million vaccine injuries in Eudravigilance database https://www.technocracy.news/shock-european-union-reports-1-5-million-vaccine-injuries-15472-deaths/
 https://www.globalresearch.ca/15472-dead-1-5-million-injured-50-serious-reported-european-union-database-adverse-drug-reactions-covid-19-shots/5748346
 
+22 June 2021
+- Wall Street Journal: “Public-health authorities are making a mistake and risking the public’s trust by not being forthcoming about the possibility of harm from certain vaccine side effects.” Will this start a trend of mainstream media being more open to discussion? https://www.wsj.com/amp/articles/are-covid-vaccines-riskier-than-advertised-11624381749
+
 21 June 2021
 - The "No Domestic COVID Vaccine Passports Bill 2021" in Australia was presented and read for the first time in the House of Representatives. The Bill proposes an Act which prohibits government/states/territories on issuing COVID vaccine passports and employers from discrimination on the basis of vaccination. https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6724_first-reps/toc_pdf/21084b01.pdf;fileType=application%2Fpdf
 
@@ -190,16 +210,27 @@ https://investors.modernatx.com/news-releases/news-release-details/moderna-provi
 1 April 2021
 - Pfizer and BioNTech releases 6 month data for mRNA vaccine, BNT162b2, claiming 91.3% vaccine efficacy and 100% effectiveness for preventing severe hospitalisation. https://investors.pfizer.com/investor-news/press-release-details/2021/Pfizer-and-BioNTech-Confirm-High-Efficacy-and-No-Serious-Safety-Concerns-Through-Up-to-Six-Months-Following-Second-Dose-in-Updated-Topline-Analysis-of-Landmark-COVID-19-Vaccine-Study/default.aspx
 
+23 March 2021
+- Pfizer announces phase 1 trials for its new antiviral drug which will be in a pill form. The drug has showed potent inhibition of the SARS-CoV-2 virus in vitro but not yet in vivo. “Tackling the COVID-19 pandemic requires both prevention via vaccine and targeted treatment for those who contract the virus.” Wow. If only we already had drugs with antiviral activity and effectiveness shown through 40+ peer reviewed studies! 🤦‍♀️ https://www.pfizer.com/news/press-release/press-release-detail/pfizer-initiates-phase-1-study-novel-oral-antiviral
+
 22 March 2021
+- Preprint research find that a second dose of Pfizer SARS-CoV2 vaccine has different effects on naive vs COVID-recovered patients. “On the contrary, the second BNT162b2 vaccine dose results in a reduction of cellular immunity in COVID-19 recovered individuals, which suggests that a second dose, according to the current standard regimen of vaccination, may be not necessary in individuals previously infected with SARS-CoV-2.” https://www.biorxiv.org/content/10.1101/2021.03.22.436441v1
+
 - A GP from Celbridge was suspended for refusing to administer SARS-CoV-2 vaccines to his patients. “My problem primarily is that I don’t think the pathogenicity of Covid is sufficiently severe to a. cause lockdowns or b. use a messenger RNA [vaccine],” he said as he expressed concern over the safety of the shots” https://www.irishtimes.com/news/health/gp-suspended-by-medical-council-over-refusal-to-give-covid-19-vaccine-1.4516239
 
-11 March 2021
-- Getting vaccinated with Pfizer after recovering with natural immunity actually reduces immunity. This suggests that people who have natural immunity should not be further immunised through vaccination: https://www.biorxiv.org/content/10.1101/2021.03.22.436441v1
+9 March 2021
+- AHPRA puts out a position statement to discourage registered health practitioners and students from speaking out on potential concerns regarding the SARS-CoV-2 vaccinations: "Any promotion of anti-vaccination statements or health advice which contradicts the best available scientific evidence or seeks to actively undermine the national immunisation campaign (including via social media) is not supported by National Boards and may be in breach of the codes of conduct and subject to investigation and possible regulatory action." 
+https://www.ahpra.gov.au/documents/default.aspx?record=WD21%2F30751&dbid=AP&chksum=zrOQ56xJaaLbasNxLDyqMA%3D%3D&TSPD_101_R0=08c403b005ab2000762c6494c4afaeef3e0b400a75a3ae75a3b23ff4bd293ecf302867c5568a0f610871432fbc1430005d979400c652fa06bef674ebfe80703c79a6ddb8701d7d9db431958015b98c7c66603db5b8f3210e50dbcb2a03bd6311 Backup: https://www.docdroid.net/q3LC0Nl/ahpra-position-statement-covid-19-vaccination-position-statement-pdf
 
 10 December 2020
 - Research comes out showing that using N protein as antigen rather than spike protein is likely better, since mutations don’t occur there often (whereas the spike protein is the most quickly evolving):  https://theconversation.com/covid-vaccines-focus-on-the-spike-protein-but-heres-another-target-150315
 
 - FDA on importance of the placebo group referring to vaccine clinical trials: “Placebo controlled follow-up can be very important in showing that whatever happened in the vaccine group also happened in the placebo group. Because that’s our best way of knowing.”
 https://www.fda.gov/media/144859/download
+
+20 November 2020
+- WHO recommends against the use of remdesivir in COVID-19 patients, finding no evidence that it works. https://www.who.int/news-room/feature-stories/detail/who-recommends-against-the-use-of-remdesivir-in-covid-19-patients
+
+
 
 
