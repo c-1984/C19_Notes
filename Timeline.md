@@ -1,3 +1,6 @@
+12 September 2021
+- UK abandons plans for the vaccine passport (compulsory vaccination certification scheme) that would have forced venues to check people's vaccine status. https://www.thetimes.co.uk/article/covid-vaccine-passports-scrapped-for-winter-by-boris-johnson-5g2fdb2zn
+
 11 September 2021
 - Gorillas at Zoo Atlanta have been diagnosed with COVID-19 and are being treated with monoclonal antibodies. Somewhat of a WTF moment, considering that the US supply of monoclonal antibodies has been restricted by the Biden administration (see 10 September 2021). https://edition.cnn.com/2021/09/11/us/zoo-gorillas-covid-trnd/index.html
 
