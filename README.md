@@ -1,6 +1,6 @@
 ## Timeline of some relevant news events
 
-See: https://github.com/c-1984/Awesome-COVID-19/blob/main/Timeline.md
+See: https://github.com/c-1984/C19_Reading_List/blob/main/Timeline.md
 
 ## Introduction - Information worth thinking about
 
