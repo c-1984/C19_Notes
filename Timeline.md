@@ -1,5 +1,10 @@
+13 September 2021
+- Deputy Premier of NSW revealed that vaccine passports will only be mandatory when the percentage of people vaccinated is between 70-80%. Once the 80% target is hit, vaccine passports will become optional for businesses. 80% target expected in approx 3 weeks. https://www.dailymail.co.uk/news/article-9983945/Covid-19-Unvaccinated-Australians-locked-pubs-THREE-WEEKS-NSW.html
+
+- Data from Israel surfaces, showing that 1,400 active COVID-19 cases in partially-vaccinated 12-15 year-olds suddenly disappear after the definition of being "fully vaccinated" is changed. The new definition of "fully vaccinated" now requires 3 doses in Israel, with 2 doses considered "partially vaccinated". However, the 1,400 COVID-19 cases in those previously considered to be "partially vaccinated" (1 dose, before the definition changed) have disappeared and they have not been "moved" to the "unvaccinated" group either. This raises questions regarding the lack of data transparency and whether the data are being potentially manipulated to make it appear that COVID-19 cases in 12-15 year olds are not increasing after vaccination. https://twitter.com/connolly_s/status/1437366313689796611/photo/1 
+
 12 September 2021
-- UK abandons plans for the vaccine passport (compulsory vaccination certification scheme) that would have forced venues to check people's vaccine status. https://www.thetimes.co.uk/article/covid-vaccine-passports-scrapped-for-winter-by-boris-johnson-5g2fdb2zn
+- Good news for once! UK abandons plans for the vaccine passport (compulsory vaccination certification scheme) that would have forced venues to check people's vaccine status. https://www.thetimes.co.uk/article/covid-vaccine-passports-scrapped-for-winter-by-boris-johnson-5g2fdb2zn
 
 11 September 2021
 - Gorillas at Zoo Atlanta have been diagnosed with COVID-19 and are being treated with monoclonal antibodies. Somewhat of a WTF moment, considering that the US supply of monoclonal antibodies has been restricted by the Biden administration (see 10 September 2021). https://edition.cnn.com/2021/09/11/us/zoo-gorillas-covid-trnd/index.html
@@ -9,7 +14,7 @@
 
 - The Spectator releases a "just the statistics" article. Amongst various statistics on COVID-19 cases, vaccine adverse reactions, and flu statistics for comparison, this one stands out: “Covid has had an extremely negligible impact on the overall average number of deaths in Australia and the average age at death.” https://www.spectator.com.au/2021/09/just-the-facts-coronavirus-in-australia-by-the-numbers/?fbclid=IwAR1FQMOVjglzqQVv4vs_LnYfk5n7IdryjimXeiS_dfbMft0mi4xZlPl_BXU
 
-- Signs that the Biden administration is increasing control and supervision of the distribution of monoclonal antibodies, a highly effective form of COVID-19 treatment currently in widespread use, especially in Florida and Texas. In Alabama, the allocation of monoclonal antibodies has been cut by 30%: https://www.al.com/news/2021/09/state-health-officer-dr-scott-harris-to-update-covid-19-status-in-alabama.html This is apparently happening in seven Southern states (https://www.forbes.com/sites/jemimamcevoy/2021/09/10/nation-short-on-supply-of-key-covid-treatment-desperate-states-told-to-reduce-requests/?sh=39fdae376737) 
+- Signs that the Biden administration is increasing control and supervision of the distribution of monoclonal antibodies, a highly effective form of COVID-19 treatment currently in widespread use, especially in Florida and Texas. In Alabama, the allocation of monoclonal antibodies has been cut by 30%: https://www.al.com/news/2021/09/state-health-officer-dr-scott-harris-to-update-covid-19-status-in-alabama.html This is apparently happening in seven Southern states: https://www.forbes.com/sites/jemimamcevoy/2021/09/10/nation-short-on-supply-of-key-covid-treatment-desperate-states-told-to-reduce-requests/?sh=39fdae376737
 
 9 September 2021
 - Corruption? A company part-owned by a former vice-president of the Victorian Labor Party was awarded an $86.4 million contract by the current government, to provide COVID-19 medical and health services for quarantine hotels. This was done without the proper procurement process. https://www.theage.com.au/politics/victoria/auditor-general-queries-86-4m-hotel-quarantine-contract-20210909-p58qb7.html
@@ -24,6 +29,14 @@
 6 September 2021
 - Victoria, Australia. Premier Dan Andrew’s announces that restrictions in the economy will apply to unvaccinated. https://www.rt.com/news/534078-australia-victoria-vaccinated-economy/?fbclid=IwAR3i0SgH3ybZhpBe1G9bVUWCavG7fWXcl76-MAv7spyJ0CySPdh0RdU3XdI
 
+- NSW Policewoman is challenging the mandatory vaccination Public Health Order in the Supreme Court of Australia. Her lawyer is Charly Tannous from Sage Solicitors. https://www.heraldsun.com.au/coronavirus/nsw-policewoman-challenges-mandatory-vaccine-order/news-story/2781fe4db6d0102d5b991370cbbbd7a9?fbclid=IwAR1oWORL6UXK1iREP1J0sFKkVJGFC4rlFrjjSiAUhDBh6XFa-Hqe0db7Td0 PDF: https://t.me/covidmedicalnetworkaus/1684
+
+- YouTube bans videos from Sky News citing its “covid misinformation policy”. “So, the question becomes, why does a tech giant, YouTube, and faceless, nameless individuals backed by an algorithm, based in California, get to decide that holding governments and decision makers to account is ‘misinformation’? Why do they get to decide what is and isn’t allowed to be news?” https://www.theaustralian.com.au/business/media/youtube-ban-on-sky-news-videos-ridiculous-tech-giant-under-fire-at-senate-media-inquiry/news-story/02a5fe0c9704f4566e7ea1b1ca8ed781 PDF: https://t.me/covidmedicalnetworkaus/1691
+
+- Australian anaesthetist’s medical license is suspended over promoting IVM and questioning the risks and benefits of the COVID-19 mRNA vaccines in social media posts. https://www.ausdoc.com.au/news/anaesthetist-suspended-over-covid19-vax-social-media-posts https://www.theaustralian.com.au/nation/covid19-antivax-doctor-loses-fight-to-practice-medicine/news-story/e7d8a32a4965008239a21b9028f72901 PDF: https://t.me/covidmedicalnetworkaus/1732
+
+- Australian Health Chief Officer Dr. Kerry Chant: “I can assure you that the commonwealth government has purchased large quantities of vaccine into 2022 and this will be a regular cycle of vaccination and revaccination as we learn more about when immunity wanes.” https://summit.news/2021/09/06/dr-chant-covid-will-be-with-us-forever-people-will-have-to-get-used-to-endless-booster-vaccines/
+
 5 September 2021
 - Israel warns that eventual 4th dose of SARS-CoV-2 vaccines will be needed and that regular boosters will be the new “way of life”. https://www.timesofisrael.com/virus-czar-calls-to-begin-readying-for-eventual-4th-vaccine-dose/
 
@@ -37,7 +50,7 @@
 
 - UK’s Joint Committee on Vaccination and Immunisation (JCVI) thinks it’s too early to recommend that all young people aged 12-15 are given the covid-19 vaccination. Instead, they recommend “assessing the broader impact of universal covid-19 vaccination in the 12-15 age group” first. https://www.bmj.com/content/374/bmj.n2180
 
-- A response is released from the authors of an IVM meta-analysis showing that there was sufficient evidence for use of IVM in the treatment of COVID-19. The response is directed at a more recent article, a Cochrane review, that rebuts their findings. In this response, flaws and incorrect assumptions from the Cochrane review are pointed out. https://osf.io/peqcj/
+- In UK, 61% of deaths from the Delta variant are in the fully vaccinated. https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1014926/Technical_Briefing_22_21_09_02.pdf https://t.me/covidmedicalnetworkaus/1696
 
 2 September 2021
 - Vaccine passport rules are released in Ontario, Canada and will be effective 22 September. A vaccine passport will be needed to enter restaurants, bars, nightclubs, gyms, theatres. Not required for retail shopping (yet). https://www.cbc.ca/news/canada/toronto/ontario-covid-vaccine-passport-certificate-proof-1.6160728
@@ -92,7 +105,6 @@ https://asia.nikkei.com/Spotlight/Coronavirus/COVID-vaccines/1.6m-Moderna-doses-
 
 - Preprint research finds that the Lambda variant is likely to escape vaccines due to mutations in the RBD of the spike protein. https://www.biorxiv.org/content/10.1101/2021.08.25.457692v1?fbclid=IwAR0gVMcovymZ9PZFw6MtSroddAs13FfwTtvcNyMrNl1AccMMwKyIvljkCDc
 
-
 25 August 2021
 - Preprint research in Israel finds that individuals vaccinated with Pfizer have 13 fold increased risk of a breakthrough infection as well as 27 fold risk of symptoms when they were infected compared to those with natural immunity. https://www.medrxiv.org/content/10.1101/2021.08.24.21262415v1
 - News coverage in the mainstream media!  https://www.bloomberg.com/news/articles/2021-08-27/previous-covid-prevents-delta-infection-better-than-pfizer-shot
@@ -138,6 +150,8 @@ https://www.bbc.com/news/health-58270098
 - Scottish government seeks to make emergency COVID powers including lockdowns and mandates permanent so that they can apparently control “incidence or spread of infection or contamination which presents, or could present, significant harm to human health in Scotland, not just Covid”. Just unbelievable. 
 https://www.thenational.scot/news/19518599.scottish-government-seeks-make-emergency-covid-powers-permanent/
 
+- The Telegraph reports that the idea of vaccine passports in the UK is no longer supported by the evidence. This is due to new variants as well as waning immunity from the current vaccines, which have now dropped to <40% in Israel. Article behind paywall, so see here: https://archive.ph/sIRUA
+
 16 August 2021
 - Australian clinical research published showing that the clinical course of COVID-19 in children was mild with similar symptoms to cold/flu. https://www.mja.com.au/journal/2021/clinical-course-2020-covid-19-children-was-mild
 
@@ -146,6 +160,9 @@ https://www.thenational.scot/news/19518599.scottish-government-seeks-make-emerge
 
 14 August 2021
 - Construction of “quarantine camp” in Melbourne starts, will be operational with 500 beds later this year and plans to contain up to 3000 people by finish in a couple of years time - which begs the question... how long are they intending for this pandemic to last!? https://www.theage.com.au/national/victoria/construction-of-mickleham-quarantine-camp-is-under-way-20210812-p58i50.html
+
+13 August 2021
+- Chairman of the Tokyo Metropolitan Medical Association in Japan acknowledges benefits of prophylactic ivermectin, encouraging doctors to prescribe it for COVID-19 with their patients’ informed consent. https://trialsitenews.com/chairman-of-tokyo-metropolitan-medical-association-declares-during-surge-time-for-ivermectin-is-now/ https://twitter.com/covid19crusher/status/1426453460753473537?s=21 https://t.me/FLCCC_Alliance/282
 
 11 August 2021
 - Dosage of ivermectin has been updated by FLCCC, increased from 0.2-0.4mg/kg to 0.4-0.6mg/kg on the IMASK protocol, to better deal with the increased infectivity of Delta strain: 
@@ -164,19 +181,33 @@ https://covid19criticalcare.com/wp-content/uploads/2020/11/FLCCC-Alliance-I-MASK
 4 August 2021
 - The WHO calls for a moratorium on booster shots until the end of the year, citing concerns about disparity between richer and poorer countries in terms of their access to vaccines. https://www.washingtonpost.com/nation/2021/08/04/coronavirus-covid-live-updates-us/
 
+2 August 2021
+- Double blind small randomised control trial led by Prof Eli Schwartz finds that IVM is effective at reducing viral load in COVID-19 patients. The Jerusalem Post reports that they ran into controversy while trying to publish their results (see 31 May 2021): “There is a lot of opposition,” he said. “We tried to publish it, and it was kicked away by three journals. No one even wanted to hear about it”.
+https://www.jpost.com/health-science/israeli-scientist-says-covid-19-could-be-treated-for-under-1day-675612 
+
 1 August 2021
 - Pre-publication release of a study showing that COVID-19 vaccination is associated with myocarditis: https://pediatrics.aappublications.org/content/early/2021/08/12/peds.2021-053427
 
 30 July 2021
+- CDC announces that unvaccinated and vaccinated who have been infected with Delta variant have the same viral load, indicating that the vaccines do not prevent transmission. https://www.cdc.gov/media/releases/2021/s0730-mmwr-covid-19.html
+
 - About three-quarters of people infected in a Massachusetts COVID-19 outbreak were fully vaccinated, according to new data published Friday by the CDC: https://www.cnbc.com/2021/07/30/cdc-study-shows-74percent-of-people-infected-in-massachusetts-covid-outbreak-were-fully-vaccinated.html
 
 - Sweden has essentially reached herd immunity which is not dependent on vaccines. "Thus the country the media loved to hate is reaping the best of all worlds: Few current cases and deaths, stronger economic growth than the lockdown countries, and its people never experienced the yoke of tyranny." https://www.aier.org/article/sweden-despite-variants-no-lockdowns-no-daily-covid-deaths/
 
+- “In India, where the Delta variant was first identified & caused a huge outbreak — cases have plunged over the past two months…There is no clear explanation for these declines.” 🙄
+https://www.nytimes.com/2021/07/30/briefing/coronavirus-delta-mysteries.html (See also - FLCCC response here: https://covid19criticalcare.com/ivermectin-in-covid-19/epidemiologic-analyses-on-covid19-and-ivermectin/ )
+
 29 July 2021
 - Physicians who post COVID-19 misinformation may lose license, medical panel says. (The censorship is absolutely astounding to witness):  https://www.beckershospitalreview.com/digital-marketing/physicians-who-post-covid-19-vaccine-misinformation-may-lose-license-medical-panel-says.html (and commentary here: https://boriquagato.substack.com/p/fun-fact-government-occupational/comments)
 
+- Pfizer: “Alongside vaccines, success against COVID19 will likely require antiviral treatments for those who contract the virus. If successful, this oral antiviral therapy could be prescribed at the first sign of infection and provide a new treatment option that can be taken at home.” You literally cannot be making this shit up. 😂 https://twitter.com/pfizer/status/1420474141686255624?s=21
+
 22 July 2021
 - Efficacy of vaccines is already waning after a matter of months according to data in Israel: "New Health Ministry statistics indicated that, on average, the Pfizer shot — the vaccine given to nearly all Israelis — is now just 39% effective against infection, while being only 41% effective in preventing symptomatic COVID. Previously, the Pfizer-BioNTech vaccine was well over 90% effective against infection". https://www.timesofisrael.com/israeli-uk-data-offer-mixed-signals-on-vaccines-potency-against-delta-strain/
+
+2 July 2021
+- Yoga breathing technique “jalneti” is used to rinse nostrils using warm water. Doctors using this technique in a hospital in India have not gotten sick or infected despite the high risk environment they work in. https://punemirror.indiatimes.com/pune/cover-story/deenanath-docs-claim-jalneti-is-helping-them-steer-clear-of-covid-19/articleshow/76737827.cms FLCCC updates its protocol to include nasal rinsing https://t.me/FLCCC_Alliance/264
 
 30 June 2021
 - Preprint of an interim analysis of data contained within the VAERS database indicates that approx 5% of the reported deaths were consistent with the vaccine causing them. For 81% of the deaths, the evidence is consistent with the vaccine being a contributing factor. https://www.researchgate.net/profile/Scott-Mclachlan-2/publication/352837543_Analysis_of_COVID-19_vaccine_death_reports_from_the_Vaccine_Adverse_Events_Reporting_System_VAERS_Database_Interim_Results_and_Analysis/links/60dc44c9a6fdccb745f48fc7/Analysis-of-COVID-19-vaccine-death-reports-from-the-Vaccine-Adverse-Events-Reporting-System-VAERS-Database-Interim-Results-and-Analysis.pdf?origin=publication_detail
@@ -188,11 +219,15 @@ https://www.globalresearch.ca/15472-dead-1-5-million-injured-50-serious-reported
 22 June 2021
 - Wall Street Journal: “Public-health authorities are making a mistake and risking the public’s trust by not being forthcoming about the possibility of harm from certain vaccine side effects.” Will this start a trend of mainstream media being more open to discussion? https://www.wsj.com/amp/articles/are-covid-vaccines-riskier-than-advertised-11624381749
 
+- Craig Kelly MP suggests that prophylactic IVM has potential, in the House of Representatives in the Australian Parliament. The video was taken off YouTube for “misinformation”. However a reupload can be found here: https://rumble.com/vjbmg7-the-case-for-ivermectin-craig-kelly-mp.html
+
 21 June 2021
 - The "No Domestic COVID Vaccine Passports Bill 2021" in Australia was presented and read for the first time in the House of Representatives. The Bill proposes an Act which prohibits government/states/territories on issuing COVID vaccine passports and employers from discrimination on the basis of vaccination. https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6724_first-reps/toc_pdf/21084b01.pdf;fileType=application%2Fpdf
 
 31 May 2021
 - Research based in Japan notices that incidence of brain haemorrhage in Japanese women is disproportionately higher than expected after vaccination with Pfizer. They warn that further studies are needed to exclude a causal link. https://joppp.biomedcentral.com/articles/10.1186/s40545-021-00326-7
+
+- Double-blind, small randomised control trial in Israel found IVM to effectively reduce the viral load in COVID-19 patients. https://www.medrxiv.org/content/10.1101/2021.05.31.21258081v1
 
 21 May 2021
 - SARS-CoV2 spike protein found to interact with heparin proteins, which favour aggregation of amyloidβ in brain. The S1 RBD can also bind directly to Aβ. “Heparin-binding site on the S1 might assist the binding of amyloid proteins to the viral surface and thus could leads to neurodegeneration in brain.” https://www.sciencedirect.com/science/article/abs/pii/S0006291X2100499X
@@ -221,6 +256,9 @@ https://investors.modernatx.com/news-releases/news-release-details/moderna-provi
 
 - A GP from Celbridge was suspended for refusing to administer SARS-CoV-2 vaccines to his patients. “My problem primarily is that I don’t think the pathogenicity of Covid is sufficiently severe to a. cause lockdowns or b. use a messenger RNA [vaccine],” he said as he expressed concern over the safety of the shots” https://www.irishtimes.com/news/health/gp-suspended-by-medical-council-over-refusal-to-give-covid-19-vaccine-1.4516239
 
+11 March 2021
+- Getting vaccinated with Pfizer after recovering with natural immunity actually reduces immunity. This suggests that people who have natural immunity should not be further immunised through vaccination: https://www.biorxiv.org/content/10.1101/2021.03.22.436441v1
+
 9 March 2021
 - AHPRA puts out a position statement to discourage registered health practitioners and students from speaking out on potential concerns regarding the SARS-CoV-2 vaccinations: "Any promotion of anti-vaccination statements or health advice which contradicts the best available scientific evidence or seeks to actively undermine the national immunisation campaign (including via social media) is not supported by National Boards and may be in breach of the codes of conduct and subject to investigation and possible regulatory action." 
 https://www.ahpra.gov.au/documents/default.aspx?record=WD21%2F30751&dbid=AP&chksum=zrOQ56xJaaLbasNxLDyqMA%3D%3D&TSPD_101_R0=08c403b005ab2000762c6494c4afaeef3e0b400a75a3ae75a3b23ff4bd293ecf302867c5568a0f610871432fbc1430005d979400c652fa06bef674ebfe80703c79a6ddb8701d7d9db431958015b98c7c66603db5b8f3210e50dbcb2a03bd6311 Backup: https://www.docdroid.net/q3LC0Nl/ahpra-position-statement-covid-19-vaccination-position-statement-pdf
@@ -233,7 +271,4 @@ https://www.fda.gov/media/144859/download
 
 20 November 2020
 - WHO recommends against the use of remdesivir in COVID-19 patients, finding no evidence that it works. https://www.who.int/news-room/feature-stories/detail/who-recommends-against-the-use-of-remdesivir-in-covid-19-patients
-
-
-
 
