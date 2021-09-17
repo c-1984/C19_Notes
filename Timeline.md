@@ -1,10 +1,20 @@
+16 September 2021
+- Young woman from Sydney who is a Network 10 employee gets pericarditis after her first Pfizer vaccination. https://www.news.com.au/lifestyle/health/health-problems/sydney-woman-reveals-rare-side-effect-after-getting-pfizer-vaccine/news-story/a5b5791cc5e824ad4c5cdcae94921b75 Also see 27 August and 22 August for other news-affiliated employees who also coincidentally get pericarditis after the Pfizer vaccine. 
+
+15 September 2021
+- Hospital in Texas may be forced to close, due to 20-25% of healthcare workers choosing to remain unvaccinated despite the vaccine mandate. Brownfield Regional Medical Center CEO Jerry Jasper: “I think the mandate is just a terrible message because if the vaccinations are working, why do you have to mandate people to get the vaccines?” Gray asked. “What happens to individual choice and medical decisions between the patient and their doctor, which is all of the things that we’re trying to support.” https://www.theepochtimes.com/mkt_breakingnews/texas-hospital-faces-closure-over-covid-19-vaccine-mandate-ceo_3998746.html
+
+- CNN: Woman dies because “she was vaccinated but was infected by others who chose not to be”. 🤯 https://www.instagram.com/p/CT3JOoxta9H/?utm_medium=copy_link
+
 13 September 2021
 - Deputy Premier of NSW revealed that vaccine passports will only be mandatory when the percentage of people vaccinated is between 70-80%. Once the 80% target is hit, vaccine passports will become optional for businesses. 80% target expected in approx 3 weeks. https://www.dailymail.co.uk/news/article-9983945/Covid-19-Unvaccinated-Australians-locked-pubs-THREE-WEEKS-NSW.html
 
-- Data from Israel surfaces, showing that 1,400 active COVID-19 cases in partially-vaccinated 12-15 year-olds suddenly disappear after the definition of being "fully vaccinated" is changed. The new definition of "fully vaccinated" now requires 3 doses in Israel, with 2 doses considered "partially vaccinated". However, the 1,400 COVID-19 cases in those previously considered to be "partially vaccinated" (1 dose, before the definition changed) have disappeared and they have not been "moved" to the "unvaccinated" group either. This raises questions regarding the lack of data transparency and whether the data are being potentially manipulated to make it appear that COVID-19 cases in 12-15 year olds are not increasing after vaccination. https://twitter.com/connolly_s/status/1437366313689796611/photo/1 
+- Data from Israel surfaces, showing that 1,400 active COVID-19 cases in partially-vaccinated 12-15 year-olds suddenly disappear after the definition of being "fully vaccinated" is changed. The new definition of "fully vaccinated" now requires 3 doses in Israel, with 2 doses considered "partially vaccinated". However, the 1,400 COVID-19 cases in those previously considered to be "partially vaccinated" (1 dose, before the definition changed) have disappeared and they have not been "moved" to the "unvaccinated" group either. This raises questions regarding the lack of data transparency and whether the data are being potentially manipulated to make it appear that COVID-19 cases in 12-15 year olds are not increasing after vaccination. https://twitter.com/connolly_s/status/1437366313689796611/photo/1 Archive: https://archive.md/JN78y
 
 12 September 2021
 - Good news for once! UK abandons plans for the vaccine passport (compulsory vaccination certification scheme) that would have forced venues to check people's vaccine status. https://www.thetimes.co.uk/article/covid-vaccine-passports-scrapped-for-winter-by-boris-johnson-5g2fdb2zn
+
+- Approx 20.3% of adult Australians have some form of vaccine hesitancy, “8.6 per cent don’t yet know if they will get vaccinated while 11.7 per cent have said they will not.” The current roadmap back to normal may involve creating a “two-tiered society”. https://apple.news/AQ9_Mns2FQCWu_euaDBg5iQ
 
 11 September 2021
 - Gorillas at Zoo Atlanta have been diagnosed with COVID-19 and are being treated with monoclonal antibodies. Somewhat of a WTF moment, considering that the US supply of monoclonal antibodies has been restricted by the Biden administration (see 10 September 2021). https://edition.cnn.com/2021/09/11/us/zoo-gorillas-covid-trnd/index.html
@@ -99,6 +109,8 @@
 27 August 2021
 - Observational study in JAMA published, presenting data that shows increased obesity in adolescents in California during the COVID-19 pandemic. “These findings, if generalizable to the US suggest an increase in pediatric obesity due to the pandemic.” Likely due to school closures and lockdowns. https://jamanetwork.com/journals/jama/fullarticle/2783690
 
+- Channel 7 News reporter Denham Hitchcock gets pericarditis after the Pfizer vaccine. https://www.news.com.au/lifestyle/health/health-problems/channel-7-journalist-hospitalised-with-pericarditis-after-pfizer-vaccine/news-story/43e3d637eeea6827962aa973db8cda7e
+
 26 August 2021
 - 1.6 million doses of Moderna vaccine are withdrawn in Japan due to contamination of “a substance that reacts with magnets”. 
 https://asia.nikkei.com/Spotlight/Coronavirus/COVID-vaccines/1.6m-Moderna-doses-withdrawn-in-Japan-over-contamination
@@ -130,6 +142,8 @@ https://www.biorxiv.org/content/10.1101/2021.08.22.457114v1?fbclid=IwAR2TWCXcHnv
 
 22 August 2021
 - Preprint research of a large scale study of antibody titres shows that individuals vaccinated with Pfizer have exponential decrease in antibody titres compared to those with natural immunity. https://www.medrxiv.org/content/10.1101/2021.08.19.21262111v1
+
+- Healthy 27 year old woman who is a reporter with The Daily Telegraph gets pericarditis from the Pfizer vaccine. https://www.news.com.au/lifestyle/health/health-problems/nsw-journalist-hospitalised-after-covid-jab-backs-vaccine/news-story/e7dd26630ed72699318bd3df7c35e339
 
 21 August 2021
 - From the BBC, “You get a broader immune response after being infected with the virus than vaccination”. Now the BBC are conspiracy theorists as well 😂
@@ -271,4 +285,3 @@ https://www.fda.gov/media/144859/download
 
 20 November 2020
 - WHO recommends against the use of remdesivir in COVID-19 patients, finding no evidence that it works. https://www.who.int/news-room/feature-stories/detail/who-recommends-against-the-use-of-remdesivir-in-covid-19-patients
-
