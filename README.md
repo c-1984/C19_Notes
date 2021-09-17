@@ -8,7 +8,7 @@ See: https://github.com/c-1984/C19_Reading_List/blob/main/Timeline.md
 >
 > When the “peripheral” route is engaged, we pay more attention to cues apart from the actual information or content or the message. For example, we might evaluate someone’s argument based on how attractive they are or where they were educated, without considering the actual merits of their message.
 > 
-> [...] And people are typically less motivated to scrutinize a message if the source is considered to be an expert. We interpret the message through the peripheral route.
+> [...] And people are typically less motivated to scrutinize a message **if the source is considered to be an expert. We interpret the message through the peripheral route**.
 
 -- [Persuasion and the Prestige Paradox: Are High Status People More Likely to Lie?](https://quillette.com/2021/04/03/persuasion-and-the-prestige-paradox-are-high-status-people-more-likely-to-lie/), published in *Quillette*, 3 April 2021. 
 
