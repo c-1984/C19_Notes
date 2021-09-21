@@ -1,3 +1,15 @@
+21 September 2021
+- NSW Government announces removal of the 50% cap for all construction sites starting next week, allowing tradies to return to work regardless of their vaccination status. https://www.instagram.com/p/CUEuTWXNH1b/?utm_medium=copy_link
+
+20 September 2021
+- Woolworths is converting two Big W stores into vaccination hubs for Woolworths employees in western Sydney. https://www.news.com.au/finance/business/retail/woolworths-to-turn-big-w-stores-into-coronavirus-vaccination-hubs/news-story/451db3c137cd457ef436070e3e690978
+
+- Project Veritas releases their first video related to the COVID-19 pandemic on vaccine adverse effects, featuring a nurse and doctor whistleblower.  Dr. Maria Gonzales, ER Doctor, U.S. Department of Health and Human Services: “All this is bullshit. Now, [a patient] probably [has] myocarditis due to the [COVID] vaccine. But now, they [government] are not going to blame the vaccine.”
+https://www.projectveritas.com/news/federal-govt-whistleblower-goes-public-with-secret-recordings-government/
+
+19 September 2021
+- Pre-print research: University of Ottawa Heart Institute retrospective study finds 1 in 1,000 mRNA vaccinations is associated with myopericarditis, typically within the first few days after vaccination. This number is higher than has previously been reported (10-20 per 100,000 vaccinations as reported in https://www.ncbi.nlm.nih.gov/books/NBK459259/) https://www.medrxiv.org/content/10.1101/2021.09.13.21262182v1.full https://trialsitenews.com/university-of-ottawa-heart-institute-retrospective-study-finds-1-in-1000-mrna-vaccinations-leads-to-myopericarditis/
+
 18 September 2021
 - FDA panel recommends limiting Pfizer booster shots to Americans 65 and older, and those at high risk of severe COVID-19 – not for everyone. (At least someone has some common sense in the FDA! Looks like the resignation of those two FDA vaccine experts on 31 August 2021 wasn’t for nothing.) https://news.yahoo.com/fda-panel-recommends-limiting-pfizer-213030169.html
 
@@ -330,6 +342,8 @@ https://investors.modernatx.com/news-releases/news-release-details/moderna-provi
 1 April 2021
 - Pfizer and BioNTech releases 6 month data for mRNA vaccine, BNT162b2, claiming 91.3% vaccine efficacy and 100% effectiveness for preventing severe hospitalisation. https://investors.pfizer.com/investor-news/press-release-details/2021/Pfizer-and-BioNTech-Confirm-High-Efficacy-and-No-Serious-Safety-Concerns-Through-Up-to-Six-Months-Following-Second-Dose-in-Updated-Topline-Analysis-of-Landmark-COVID-19-Vaccine-Study/default.aspx
 
+- FOIA request filed by a group of Australian doctors (Covid Medical Network) reveals that the TGA never saw or requested patient data from Pfizer and simply assumed their reporting on safety data was true. https://covidmedicalnetwork.com/open-letters/FOI-2289-relevant-documents_Redacted.pdf
+
 23 March 2021
 - Pfizer announces phase 1 trials for its new antiviral drug which will be in a pill form. The drug has showed potent inhibition of the SARS-CoV-2 virus in vitro but not yet in vivo. “Tackling the COVID-19 pandemic requires both prevention via vaccine and targeted treatment for those who contract the virus.” Wow. If only we already had drugs with antiviral activity and effectiveness shown through 40+ peer reviewed studies! 🤦‍♀️ https://www.pfizer.com/news/press-release/press-release-detail/pfizer-initiates-phase-1-study-novel-oral-antiviral
 
@@ -344,6 +358,9 @@ https://investors.modernatx.com/news-releases/news-release-details/moderna-provi
 9 March 2021
 - AHPRA puts out a position statement to discourage registered health practitioners and students from speaking out on potential concerns regarding the SARS-CoV-2 vaccinations: "Any promotion of anti-vaccination statements or health advice which contradicts the best available scientific evidence or seeks to actively undermine the national immunisation campaign (including via social media) is not supported by National Boards and may be in breach of the codes of conduct and subject to investigation and possible regulatory action." 
 https://www.ahpra.gov.au/documents/default.aspx?record=WD21%2F30751&dbid=AP&chksum=zrOQ56xJaaLbasNxLDyqMA%3D%3D&TSPD_101_R0=08c403b005ab2000762c6494c4afaeef3e0b400a75a3ae75a3b23ff4bd293ecf302867c5568a0f610871432fbc1430005d979400c652fa06bef674ebfe80703c79a6ddb8701d7d9db431958015b98c7c66603db5b8f3210e50dbcb2a03bd6311 Backup: https://www.docdroid.net/q3LC0Nl/ahpra-position-statement-covid-19-vaccination-position-statement-pdf
+
+2 February 2020
+- NPR on waning vaccine immunity due to evolution of the SARS-CoV-2 virus: “We're not going to fall off a cliff tomorrow in terms of vaccine efficacy. What we're likely to see is a slow, steady erosion of efficacy over, perhaps, quite a long period of time.” https://www.npr.org/2021/02/09/965703047/vaccines-could-drive-the-evolution-of-more-covid-19-mutants
 
 10 December 2020
 - Research comes out showing that using N protein as antigen rather than spike protein is likely better, since mutations don’t occur there often (whereas the spike protein is the most quickly evolving):  https://theconversation.com/covid-vaccines-focus-on-the-spike-protein-but-heres-another-target-150315
