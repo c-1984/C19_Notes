@@ -1,3 +1,18 @@
+25 September 2021
+- Pre-print research released indicating that Vitamin D3 levels are a moderate predictor (Pearson r=-0.4) of COVID-19 mortality. The authors used a systematic literature search to identify retrospective cohort as well as clinical studies on COVID-19 mortality rates vs. D3 blood levels. https://www.medrxiv.org/content/10.1101/2021.09.22.21263977v1
+
+24 September 2021
+- Leaked EcoHealth grant proposal details the insertion of human-specific cleavage sites to SARS-related bat coronaviruses. This provides support for the “lab leak” theory of the origins of SARS-CoV-2. https://theintercept.com/2021/09/23/coronavirus-research-grant-darpa/ Dr Chris Martenson has a great analysis/commentary of the situation here: https://odysee.com/@Chris_Martenson:2/odds-increase-that-sars-cov-2-was-lab:f 
+
+- Thousands of hospital employees in New York will soon be fired as they have chosen not to be vaccinated with the SARS-CoV-2 vaccines. “In Buffalo, the Erie County Medical Center plans to suspend elective in-patient surgeries and not take intensive-care patients from other hospitals because it may soon fire about 400 employees who have chosen not to get vaccinated against the coronavirus. Officials at Northwell Health, New York’s largest provider of health care, estimate that they might have to fire thousands of people who have refused to get vaccinated.” https://www.nytimes.com/2021/09/24/nyregion/coronavirus-hospitals-vaccines.html
+
+23 September 2021
+- The number of deaths from all causes registered in Scotland in this week was 1,257. This is 249 or 25%, more than the five year average. Those 1,257 deaths include 135 deaths that mentioned COVID-19 - the highest weekly total since March (because vaccines work!). But even excluding those, non-Covid deaths are running more than 10% above normal. Interesting considering that 91 percent of people 16 and over in Scotland have received at least one dose and 84 percent have received two doses. https://www.nrscotland.gov.uk/news/2021/deaths-involving-covid-19-week-37-13-to-19-september-2021 https://alexberenson.substack.com/p/fair-is-foul-and-foul-is-fair 
+
+- Project Veritas video released, featuring an FDA economist who has extremist views on forced vaccination of the unvaccinated.  https://t.me/project_veritas/975 https://youtu.be/4oWWcqGk1m4
+
+- Professors Norman Fenton and Martin Neil from Queen Mary University of London reanalyse the UK government data and find that it does not support the claims being made about vaccine efficacy. “It turns out that, even using this age adjusted mortality rate, the death rate is currently higher among the vaccinated than the unvaccinated.” https://probabilityandlaw.blogspot.com/2021/09/all-cause-mortality-rates-in-england.html 
+
 21 September 2021
 - NSW Government announces removal of the 50% cap for all construction sites starting next week, allowing tradies to return to work regardless of their vaccination status. https://www.instagram.com/p/CUEuTWXNH1b/?utm_medium=copy_link
 
@@ -9,6 +24,9 @@ https://www.projectveritas.com/news/federal-govt-whistleblower-goes-public-with-
 
 19 September 2021
 - Pre-print research: University of Ottawa Heart Institute retrospective study finds 1 in 1,000 mRNA vaccinations is associated with myopericarditis, typically within the first few days after vaccination. This number is higher than has previously been reported (10-20 per 100,000 vaccinations as reported in https://www.ncbi.nlm.nih.gov/books/NBK459259/) https://www.medrxiv.org/content/10.1101/2021.09.13.21262182v1.full https://trialsitenews.com/university-of-ottawa-heart-institute-retrospective-study-finds-1-in-1000-mrna-vaccinations-leads-to-myopericarditis/
+
+- Uttar Pradesh, India’s largest state of 230 million people, is almost COVID-19 free despite low vaccination rates. This is due to the availability of early treatment including IVM. The use of IVM was information that was omitted in most reporting, including in the WHO’s own coverage of the situation. For the first time, a mainstream news source (Microsoft News / MSN) has finally reported on the use of IVM here. 
+https://trialsitenews.com/msn-showcases-the-amazing-uttar-pradesh-turnaround-the-ivermectin-based-home-medicine-kits/ https://www.msn.com/en-in/news/other/uttar-pradesh-government-says-early-use-of-ivermectin-helped-to-keep-positivity-deaths-low/ar-BB1gDp5U
 
 18 September 2021
 - FDA panel recommends limiting Pfizer booster shots to Americans 65 and older, and those at high risk of severe COVID-19 – not for everyone. (At least someone has some common sense in the FDA! Looks like the resignation of those two FDA vaccine experts on 31 August 2021 wasn’t for nothing.) https://news.yahoo.com/fda-panel-recommends-limiting-pfizer-213030169.html
@@ -28,6 +46,8 @@ https://www.projectveritas.com/news/federal-govt-whistleblower-goes-public-with-
 - More than half of people with long Covid may not actually have long Covid, according to new study based in Britain.  https://dailysceptic.org/2021/09/16/more-than-half-of-people-with-long-covid-might-not-have-long-covid-according-to-new-research/
 
 - Twenty-four states threatened to sue the Biden administration on Thursday over the new rule to require employers with more than 100 employees to mandate vaccinations and frequent testing for their workers. https://thehill.com/regulation/court-battles/572649-24-states-threaten-legal-action-over-bidens-vaccine-mandate
+
+- Guidelines say that health staff can decide whether children at school receive COVID jab without parental consent in UK. https://www.theguardian.com/education/2021/sep/15/covid-teams-can-vaccinate-pupils-against-parents-wishes-schools-told
 
 15 September 2021
 - Hospital in Texas may be forced to close, due to 20-25% of healthcare workers choosing to remain unvaccinated despite the vaccine mandate. Brownfield Regional Medical Center CEO Jerry Jasper: “I think the mandate is just a terrible message because if the vaccinations are working, why do you have to mandate people to get the vaccines?” Gray asked. “What happens to individual choice and medical decisions between the patient and their doctor, which is all of the things that we’re trying to support.” https://www.theepochtimes.com/mkt_breakingnews/texas-hospital-faces-closure-over-covid-19-vaccine-mandate-ceo_3998746.html
@@ -83,8 +103,6 @@ https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02046-8/fullt
 - Young female fitness influencer and doctoral student gets banned from Instagram for sharing how she developed myocarditis after her vaccination. On Facebook, she writes “I am going to get my story out there. And others' stories, too. I received close to ONE THOUSAND messages from previously active, fit, healthy young people in their 20s-30s who experienced the EXACT same symptoms and received the EXACT same medical diagnosis. Yet reported cases of vaccine-induced myocarditis are "extremely rare".” https://www.facebook.com/story.php?story_fbid=4438953662828252&id=100001409871149
 
 7 September 2021
-- NIH orders $1.67M study on COVID-19 vaccine impacts on menstrual cycle https://nypost.com/2021/09/07/nih-to-study-how-covid-19-vaccine-impacts-menstrual-cycle/
-
 - 900+ pages of documents describing US-funded research of gain-of-function viruses in China were released due to a FOIA lawsuit. The evidence in these documents contain funded grant proposals to do research which could have plausibly led to a lab leak. https://theintercept.com/2021/09/06/new-details-emerge-about-coronavirus-research-at-chinese-lab/
 
 - Australian government introduces new surveillance laws that allow authorities to quietly modify or delete Twitter and Facebook posts. https://insiderpaper.com/australian-government-new-surveillance-laws-modify-twitter-facebook-posts/amp/
@@ -145,6 +163,8 @@ https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02046-8/fullt
 - Two of the FDA's most senior vaccine leaders are retiring from their positions. The apparent reason? "A former senior FDA leader told Endpoints that they’re departing because they’re frustrated that CDC and their ACIP committee are involved in decisions that they think should be up to the FDA (...) What finally did it for them was the White House getting ahead of FDA on booster shots." https://endpts.com/breaking-in-a-major-blow-to-vaccine-efforts-senior-fda-leaders-stepping-down-report/ https://www.lifesitenews.com/news/top-fda-officials-quit-following-disagreement-with-bidens-rushed-covid-booster-shot-plan/
 
 - Announcement that Israel vaccine passports to expire 6 months after the second dose of a SARS-CoV-2 vaccination is received. https://www.visiontimes.com/2021/08/31/israel-vaccine-passport-booster.html
+
+- NIH awards $1.67M to researchers studying COVID-19 vaccine impacts on menstrual cycle https://nypost.com/2021/09/07/nih-to-study-how-covid-19-vaccine-impacts-menstrual-cycle/ https://www.nichd.nih.gov/newsroom/news/083021-COVID-19-vaccination-menstruation
 
 30 August 2021
 - Alex Berenson brings attention to an interesting trend whereby countries that have a large number of their population receive the first dose of a SARS-CoV2 vaccination, are associated with a large number of COVID-19 cases soon thereafter. Vietnam is used as a case study here, and this trend is similar to that seen in Israel and Britain in January. https://alexberenson.substack.com/p/insanity-in-vietnam 
@@ -282,6 +302,9 @@ https://www.nytimes.com/2021/07/30/briefing/coronavirus-delta-mysteries.html (Se
 
 30 June 2021
 - Preprint of an interim analysis of data contained within the VAERS database indicates that approx 5% of the reported deaths were consistent with the vaccine causing them. For 81% of the deaths, the evidence is consistent with the vaccine being a contributing factor. https://www.researchgate.net/profile/Scott-Mclachlan-2/publication/352837543_Analysis_of_COVID-19_vaccine_death_reports_from_the_Vaccine_Adverse_Events_Reporting_System_VAERS_Database_Interim_Results_and_Analysis/links/60dc44c9a6fdccb745f48fc7/Analysis-of-COVID-19-vaccine-death-reports-from-the-Vaccine-Adverse-Events-Reporting-System-VAERS-Database-Interim-Results-and-Analysis.pdf?origin=publication_detail
+
+27 June 2021
+ Wuhan CDC makes a statement that about 2 tons of medical waste from the center has not been effectively disposed, “forming a certain safety hazard to the working environment of the center”. http://web.archive.org/web/20200510182006/https://www.whcdc.org/index.php/view/11147.html https://t.me/DrJohnB/278
 
 25 June 2021 
 - EU reports 1.5 million vaccine injuries in Eudravigilance database https://www.technocracy.news/shock-european-union-reports-1-5-million-vaccine-injuries-15472-deaths/
