@@ -1,5 +1,18 @@
+27 September 2021
+- Project Veritas Part 3 video released, showing two employees from Johnson & Johnson speaking their true thoughts about the vaccine they are helping to develop. They are refusing the J&J Janssen vaccine due to efficacy concerns and “blood clots” that are being reported “don’t get the Johnson & Johnson, I didn’t tell you though." https://youtu.be/hNIj83XNNeE 
+https://t.me/project_veritas/999 
+
+- In reviewing a case of an unfair dismissal of an employee refusing a mandated flu vaccine, Lyndell Dean, Deputy President of Fair Work Australia, stated: "Never have I more strenuously disagreed with an outcome in an unfair dismissal application", and that "all Australians should vigorously oppose the introduction of a system of medical apartheid and segregation in Australia", as "blanket rules, such as mandating vaccinations for everyone across a whole profession or industry regardless of the actual risk, fail the tests of proportionality, necessity and reasonableness."  https://www.abc.net.au/news/2021-09-27/a-fair-work-ruling-on-the-flu-jab-shows-the-divide-on-vaccin/100495596
+
+26 September 2021
+- Lancet taskforce investigating origins of the SARS-CoV-2 virus is disbanded, due to ties to discredited Peter Daszak just days after bombshell documents revealed his 2018 proposal to help Wuhan lab engineer more deadly bat coronaviruses: https://www.dailymail.co.uk/news/article-10028443/Lancets-COVID-origins-panel-disbands-ties-Peter-Daszaks-EcoHealth-Alliance.html
+
 25 September 2021
 - Pre-print research released indicating that Vitamin D3 levels are a moderate predictor (Pearson r=-0.4) of COVID-19 mortality. The authors used a systematic literature search to identify retrospective cohort as well as clinical studies on COVID-19 mortality rates vs. D3 blood levels. https://www.medrxiv.org/content/10.1101/2021.09.22.21263977v1
+
+- Tennis player Jeremy Chardy: “I regret getting vaccinated, I have series of problems now”. https://www.tennisworldusa.org/amp_tennis/news/Tennis_Interviews/102836/jeremy-chardy-i-regret-getting-vaccinated-i-have-series-of-problems-now/
+
+- Natural immunity is posing a potential legal challenge to federal COVID-19 vaccination mandates. Interesting how natural immunity is considered long-lasting and robust from an evidence-based perspective, but they do not seem conducive to the political nature of “vaccine passports” and mandates, leading to the current situation: https://finance.yahoo.com/news/natural-immunity-covid-19-legality-substitute-vaccination-123106323.html
 
 24 September 2021
 - Leaked EcoHealth grant proposal details the insertion of human-specific cleavage sites to SARS-related bat coronaviruses. This provides support for the “lab leak” theory of the origins of SARS-CoV-2. https://theintercept.com/2021/09/23/coronavirus-research-grant-darpa/ Dr Chris Martenson has a great analysis/commentary of the situation here: https://odysee.com/@Chris_Martenson:2/odds-increase-that-sars-cov-2-was-lab:f 
@@ -261,6 +274,10 @@ https://covid19criticalcare.com/wp-content/uploads/2020/11/FLCCC-Alliance-I-MASK
 
 - Preprint research finds that viral loads in vaccinated and unvaccinated individuals infected with Delta strain are indistinguishable.  https://www.medrxiv.org/content/10.1101/2021.07.31.21261387v3.full
 
+10 August 2021
+- Study of breakthrough infections in healthcare workers in Vietnam finds a sizable number of breakthrough infections due to the Delta variant. In addition, “There was no correlation between vaccine-induced neutralizing antibody levels [from vaccination] and viral loads or the development of symptoms,” and vaccinated individuals tended to be carrying higher viral loads compared to the unvaccinated. 
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3897733 https://theexpose.uk/2021/08/24/oxford-university-study-finds-fully-vaccinated-healthcare-workers-carry-251-times-viral-load-compared-to-the-unvaccinated/ 
+
 9 August 2021
 - A letter to the editor of the Journal of Infection is released, with the authors bringing attention to how "ADE may be a concern for people receiving vaccines based on the original Wuhan strain spike sequence (either mRNA or viral vectors" when then exposed to the Delta strain: https://www.journalofinfection.com/article/S0163-4453(21)00392-3/fulltext
 
@@ -391,8 +408,14 @@ https://www.ahpra.gov.au/documents/default.aspx?record=WD21%2F30751&dbid=AP&chks
 - FDA on importance of the placebo group referring to vaccine clinical trials: “Placebo controlled follow-up can be very important in showing that whatever happened in the vaccine group also happened in the placebo group. Because that’s our best way of knowing.”
 https://www.fda.gov/media/144859/download
 
+2 December 2020
+- CDC says that people without COVID-19 symptoms do not need testing. https://www.nytimes.com/2020/08/25/health/covid-19-testing-cdc.html
+
 20 November 2020
 - WHO recommends against the use of remdesivir in COVID-19 patients, finding no evidence that it works. https://www.who.int/news-room/feature-stories/detail/who-recommends-against-the-use-of-remdesivir-in-covid-19-patients
+
+April 2020
+ CDC changes definition of a COVID-19 case to mean 
 
 
 
