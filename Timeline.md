@@ -1,8 +1,61 @@
+7 October 2021
+- Finland follows in Sweden’s footsteps, with their Institute for Health and Welfare suspending use of the Moderna vaccine among men under the age of 30. https://www.wsj.com/articles/some-european-countries-are-limiting-the-use-of-modernas-covid-19-vaccine-11633610069
+
+- Biden’s speech remarks are sounding increasingly authoritarian, blaming the unvaccinated using blatantly divisive language: “The fact is, this has been a pandemic of the unvaccinated. Unvaccinated. The unvaccinated overcrowd our hospitals, overrunning emergency rooms and intensive care units. The unvaccinated patients are — are leaving no room for someone with a heart attack or in need of a cancer operation and so much more because they can’t get into the ICU”. He even blames the unvaccinated for the worsening economy: “The unvaccinated also put our economy at risk because people are reluctant to go out.” He appears proud that people have gotten fired over their refusal to be vaccinated: “Let’s be clear: When you see headlines and reports of “mass firings” and “hundreds” of people losing their jobs, look at the bigger story.” https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/10/07/remarks-by-president-biden-on-the-importance-of-covid-19-vaccine-requirements/ https://www.reddit.com/r/conspiracy/comments/q4b4bv/im_getting_super_worried_about_joe_bidens/
+
+6 October 2021
+- Sweden suspends use of Moderna vaccine for those under 30, Denmark said those under 18 won’t be offered the Moderna vaccine, and Norway urged those under 30 to get the Pfizer vaccine instead of Moderna. “All three countries based their decision on an unpublished study with Sweden’s Public Health Agency saying that it signals “an increased risk of side effects such as inflammation of the heart muscle or the pericardium” with those under 30 at particularly higher risk. https://apnews.com/article/coronavirus-pandemic-business-denmark-public-health-health-453163d8f93618fde90c06d3474921a0 This is interesting considering that a single dose of the Moderna vaccine contains 100ug of spike protein mRNA while a single dose of the Pfizer vaccine contains only 30ug of spike protein mRNA, suggesting spike protein mRNA may have dose-dependent toxicity. https://kamal-mokeddem.medium.com/spike-protein-a-dose-dependent-killer-2e26ec28de3f Also see 29 September 2021 for a similar decision by Ontario, Canada. 
+
+- Unvaccinated Australians who are stood down for refusing to get the jab will still be able to claim $750 weekly cash handout from the government. https://www.dailymail.co.uk/news/article-10066491/Aussies-refuse-vaccinated-sack-eligible-receive-750-weekly-handout.html
+
+5 October 2021
+- The evidence for the lab leak theory is becoming so difficult to ignore that even mainstream news is reporting that it is likely feasible. WSJ: “Four studies—including two from WHO—provide powerful evidence favoring the lab-leak theory.” https://www.wsj.com/articles/covid-19-coronavirus-lab-leak-virology-origins-pandemic-11633462827?redirect=amp#click=https://t.co/A4qRquHJjt
+
+- Project Veritas video Part 4 released, showing three Pfizer scientists who admit that natural immunity is better than vaccine-mediated immunity. https://t.me/project_veritas/1017 https://www.youtube.com/watch?v=On5RYFbcxWY One of the scientists has deleted his LinkedIn profile but an archived version is here: https://archive.is/97tLQ
+
+4 October 2021
+- Waning immunity of the Pfizer vaccine has now made it into mainstream media. (I guess the difference between a conspiracy theory and fact is only 6 months 🙃) CNBC: “The effectiveness of Pfizer and BioNTech’s Covid-19 vaccine against infection tumbles over several months, falling from a peak of 88% a month after receiving the two-shot series to 47% six months later.” https://www.cnbc.com/2021/10/04/pfizer-covid-vaccine-protection-against-infection-tumbles-to-47percent-study-confirms.html
+
+- Multiple strands of evidence of adverse effects from the COVID-19 vaccines have now become evident. From dose-dependent increases in cytokines/chemokines, to the high correlation between mRNA dose and fatality rate (particularly relevant as mRNA dose is higher in Moderna than Pfizer), some of the recent evidence is summarised here: https://roundingtheearth.substack.com/p/mechanistic-evidence-of-vaccine-induced
+
+3 October 2021
+- Israel pushing ahead with its redefinition of “fully vaccinated” to mean 3 doses. Previously fully-vaccinated (2 dose) Israelis will now lose their vaccine passports as they have not received the third dose: “As of Thursday, some 1.6 million Israelis who are entitled to receive the third dose of the coronavirus vaccine still have not done so, meaning they will be ineligible for the new green passport.” https://www.haaretz.com/israel-news/covid-vaccination-pass-israel-about-to-expire-here-s-how-to-get-a-new-one-1.10255927
+
+- Vaccine effectiveness is dropping in the UK according to a Public Health England report recently released. A commentary on the results by The Daily Sceptic reports that: “For the 60s age group, infection rates are 63% higher in the vaccinated than in the unvaccinated, up from 53% last week, giving an (unadjusted) vaccine effectiveness of minus-63%.” https://dailysceptic.org/2021/10/03/vaccine-effectiveness-hits-as-low-as-minus-66-in-the-over-40s-new-phe-data-shows
+
+2 October 2021
+- Peter McCullough, MD, MPH speaks at the 78th Annual Meeting of the American Association of Physicians and Surgeons (AAPS). Drawing from a variety of sources including published scientific literature, as well as the CDC and WHO’s own data, McCullough highlights how the evidence supports that the COVID-19 vaccines are not safe. https://rumble.com/vnbv86-winning-the-war-against-therapeutic-nihilism-and-trusted-treatments-vs-unte.html
+
+1 October 2021
+- Evidence of ADE is emerging. Project Salus analyses of data from 5.6 million Medicare beneficiaries aged 65 or older, indicate: “The alarming findings show that the vast majority of covid hospitalizations are occurring among fully-vaccinated individuals and that outcomes among the fully vaccinated are growing worse with each passing week.” https://www.afinalwarning.com/559002.html https://www.humetrix.com/powerpoint-vaccine.html
+
+- Merck has announced a new oral antiviral pill for COVID-19 treatment. Its stock surged 10% Friday after it said its investigational pill cuts the risk of hospitalization and death in COVID-19 patients...The pill apparently reduced the risk of hospitalization or death by about 50%. https://markets.businessinsider.com/news/stocks/merck-stock-price-antiviral-pill-cuts-covid-19-hospitalizations-and-deaths-2021-10 Commentary here: https://www.thedesertreview.com/opinion/columnists/ivermectin---truth-and-totalitarianism/article_2e03f334-252f-11ec-a086-eb72bc65ec02.html
+
+- NSW Premier Gladys Berejiklian resigns as NSW Premier as the Independent Commission Against Corruption (ICAC) announces an investigation. The investigation is not related to COVID-19, but it is interesting to note that information about how her pandemic policies have been apparently influenced by lobbyists who have been paid millions by Pfizer and AstraZeneca to drive vaccine policy are also coming to light. 
+https://www.abc.net.au/news/2021-10-01/nsw-premier-gladys-berejiklian-resignation-icac-explained/100507412 https://theconversation.com/gladys-berejiklian-quits-premiership-amid-icac-inquiry-into-links-with-former-mp-169099 https://twitter.com/13orangesbc/status/1443860140806098950?s=21 https://cairnsnews.org/2021/09/15/palmer-exposes-corrupt-big-pharma-politics-and-blackmail-in-nsw/
+
+30 September 2021
+- Health experts have been left baffled by a big rise in a common and potentially fatal type of heart attack in the west of Scotland. “During the summer there was a 25 per cent rise in the number of people rushed to the Golden Jubilee National Hospital in Clydebank with partially blocked arteries cutting blood supply to the heart.” https://www.thetimes.co.uk/article/mystery-rise-in-heart-attacks-from-blocked-arteries-m253drrnf
+
+29 September 2021
+- Ontario recommends adults 18 to 24 get Pfizer COVID-19 vaccine over Moderna due to increased risk of myocarditis. https://www.cp24.com/news/ontario-recommends-adults-18-to-24-get-pfizer-covid-19-vaccine-over-moderna-due-to-increased-risk-of-rare-heart-condition-1.5605400?cache=fbiziixwm%2F7.565129
+
+28 September 2021
+- New York State Governor Kathy Hochul said all healthcare workers in the state must be vaccinated by midnight and emphasized she was ready to order the National Guard to fill in for any shortfall in staffing. https://reut.rs/3o7g2Lg
+
+- Hospitals across Mumbai, India, are witnessing an almost 50% rise in emergency patients with heart attacks compared to the peak pandemic period in the second wave. https://www.hindustantimes.com/cities/mumbai-news/mumbai-hospitals-witness-50-rise-in-emergency-footfall-of-patients-with-heart-attacks-101632852542639-amp.html?__twitter_impression=true
+
 27 September 2021
 - Project Veritas Part 3 video released, showing two employees from Johnson & Johnson speaking their true thoughts about the vaccine they are helping to develop. They are refusing the J&J Janssen vaccine due to efficacy concerns and “blood clots” that are being reported “don’t get the Johnson & Johnson, I didn’t tell you though." https://youtu.be/hNIj83XNNeE 
 https://t.me/project_veritas/999 
 
-- In reviewing a case of an unfair dismissal of an employee refusing a mandated flu vaccine, Lyndell Dean, Deputy President of Fair Work Australia, stated: "Never have I more strenuously disagreed with an outcome in an unfair dismissal application", and that "all Australians should vigorously oppose the introduction of a system of medical apartheid and segregation in Australia", as "blanket rules, such as mandating vaccinations for everyone across a whole profession or industry regardless of the actual risk, fail the tests of proportionality, necessity and reasonableness."  https://www.abc.net.au/news/2021-09-27/a-fair-work-ruling-on-the-flu-jab-shows-the-divide-on-vaccin/100495596
+- In reviewing a case of an unfair dismissal of an employee refusing a mandated flu vaccine, Lyndell Dean, Deputy President of Fair Work Australia, stated: "Never have I more strenuously disagreed with an outcome in an unfair dismissal application", and that "all Australians should vigorously oppose the introduction of a system of medical apartheid and segregation in Australia", as "blanket rules, such as mandating vaccinations for everyone across a whole profession or industry regardless of the actual risk, fail the tests of proportionality, necessity and reasonableness."  https://www.abc.net.au/news/2021-09-27/a-fair-work-ruling-on-the-flu-jab-shows-the-divide-on-vaccin/100495596 https://www.perthnow.com.au/politics/fair-work-official-lashes-mandatory-jabs-c-4082552 https://www.fwc.gov.au/documents/decisionssigned/html/2021fwcfb6015.htm 
+
+- Some athletes are refusing to be vaccinated. Fortunately, exemptions are being granted at least in Toronto. “Visiting players who are unvaccinated can play in Toronto this season under a National Interest Exemption”. https://www.sportsnet.ca/nba/article/unvaccinated-nba-players-eligible-play-toronto-national-interest-exemption/
+
+- More than 17,000 Quebec health-care workers face suspension for refusing COVID-19 vaccine. https://www.cbc.ca/amp/1.6191433?__twitter_impression=true
+
+- UK government releases its Proposal for mandatory COVID certification in a Plan B scenario. https://www.gov.uk/government/publications/proposal-for-mandatory-covid-certification-in-a-plan-b-scenario/proposal-for-mandatory-covid-certification-in-a-plan-b-scenario
 
 26 September 2021
 - Lancet taskforce investigating origins of the SARS-CoV-2 virus is disbanded, due to ties to discredited Peter Daszak just days after bombshell documents revealed his 2018 proposal to help Wuhan lab engineer more deadly bat coronaviruses: https://www.dailymail.co.uk/news/article-10028443/Lancets-COVID-origins-panel-disbands-ties-Peter-Daszaks-EcoHealth-Alliance.html
@@ -26,6 +79,8 @@ https://t.me/project_veritas/999
 
 - Professors Norman Fenton and Martin Neil from Queen Mary University of London reanalyse the UK government data and find that it does not support the claims being made about vaccine efficacy. “It turns out that, even using this age adjusted mortality rate, the death rate is currently higher among the vaccinated than the unvaccinated.” https://probabilityandlaw.blogspot.com/2021/09/all-cause-mortality-rates-in-england.html 
 
+- ABC promotes Aboriginal Cherbourg Elder getting jab on camera and are then silent when he dies days later. https://rumble.com/vmw8ht-abc-promotes-aboriginal-cherbourg-elder-getting-jab-on-camera-then-silent-w.html?fbclid=IwAR15tu00pjeqY4Mzv6k2TwuhfE1WNVdlCEJkKQEKqaLzRkUQTQ_RmUcpFvg
+
 21 September 2021
 - NSW Government announces removal of the 50% cap for all construction sites starting next week, allowing tradies to return to work regardless of their vaccination status. https://www.instagram.com/p/CUEuTWXNH1b/?utm_medium=copy_link
 
@@ -34,6 +89,8 @@ https://t.me/project_veritas/999
 
 - Project Veritas releases their first video related to the COVID-19 pandemic on vaccine adverse effects, featuring a nurse and doctor whistleblower.  Dr. Maria Gonzales, ER Doctor, U.S. Department of Health and Human Services: “All this is bullshit. Now, [a patient] probably [has] myocarditis due to the [COVID] vaccine. But now, they [government] are not going to blame the vaccine.”
 https://www.projectveritas.com/news/federal-govt-whistleblower-goes-public-with-secret-recordings-government/
+
+- A major study from the National Bureau of Economic Research in June, based on all-causes mortality data from 44 countries and all US states, concluded that earlier and longer lockdowns do not reduce deaths and if anything, lockdowns may increase deaths. https://www.spectator.com.au/2021/09/coronavirus-has-become-endemic-making-australias-policy-settings-obsolete/
 
 19 September 2021
 - Pre-print research: University of Ottawa Heart Institute retrospective study finds 1 in 1,000 mRNA vaccinations is associated with myopericarditis, typically within the first few days after vaccination. This number is higher than has previously been reported (10-20 per 100,000 vaccinations as reported in https://www.ncbi.nlm.nih.gov/books/NBK459259/) https://www.medrxiv.org/content/10.1101/2021.09.13.21262182v1.full https://trialsitenews.com/university-of-ottawa-heart-institute-retrospective-study-finds-1-in-1000-mrna-vaccinations-leads-to-myopericarditis/
@@ -49,6 +106,8 @@ https://trialsitenews.com/msn-showcases-the-amazing-uttar-pradesh-turnaround-the
  
 - Some analysts warn that Pfizer, which is valued at more than $250 billion, will not replicate the blockbuster vaccine sales it has recorded this year, and that the company will have to manage a share price decline beyond 2023. https://www.ft.com/content/19543f26-f9f0-4075-9b71-ec86e06eaf88
 
+- Hospital Physician’s Assistant Deborah Conrad reveals that her hospital is “turning a blind eye” towards the many vaccine adverse effects in their patients. Upper management in her hospital are discouraging her from reporting adverse effects to VAERS and deliberately do not offer training to or make nurses/doctors aware that they are legally required to report adverse events into VAERS. https://thehighwire.com/videos/these-patients-deserve-to-be-heard-vaers-whistleblower/
+
 16 September 2021
 - Young woman from Sydney who is a Network 10 employee gets pericarditis after her first Pfizer vaccination. https://www.news.com.au/lifestyle/health/health-problems/sydney-woman-reveals-rare-side-effect-after-getting-pfizer-vaccine/news-story/a5b5791cc5e824ad4c5cdcae94921b75 Also see 27 August and 22 August for other news-affiliated employees who also coincidentally get pericarditis after the Pfizer vaccine. 
 
@@ -62,6 +121,8 @@ https://trialsitenews.com/msn-showcases-the-amazing-uttar-pradesh-turnaround-the
 
 - Guidelines say that health staff can decide whether children at school receive COVID jab without parental consent in UK. https://www.theguardian.com/education/2021/sep/15/covid-teams-can-vaccinate-pupils-against-parents-wishes-schools-told
 
+- Those coming into South Australia will now be offered the opportunity to participate in a home quarantine program through downloading an app on their phone, isolate at an approved location and be subjected to biometric and GPS data cross-examination on a daily basis. “For the duration of that quarantine, the app will require the detainee to scan their face and surroundings, to prove that they are locked in their home. The app uses the GPS features of the device to track their location and if the person fails to produce that evidence within fifteen minutes, the app will notify the police.” https://www.spectator.com.au/2021/09/south-australias-covid-app-the-last-straw/
+
 15 September 2021
 - Hospital in Texas may be forced to close, due to 20-25% of healthcare workers choosing to remain unvaccinated despite the vaccine mandate. Brownfield Regional Medical Center CEO Jerry Jasper: “I think the mandate is just a terrible message because if the vaccinations are working, why do you have to mandate people to get the vaccines?” Gray asked. “What happens to individual choice and medical decisions between the patient and their doctor, which is all of the things that we’re trying to support.” https://www.theepochtimes.com/mkt_breakingnews/texas-hospital-faces-closure-over-covid-19-vaccine-mandate-ceo_3998746.html
 
@@ -69,6 +130,8 @@ https://trialsitenews.com/msn-showcases-the-amazing-uttar-pradesh-turnaround-the
 
 14 September 2021
 - New York Federal Judge blocks the vaccine mandate from going ahead for those with religious exemptions, after a group of Christian healthcare workers sued, saying their Constitutional Rights were violated. https://abcnews.go.com/Health/wireStory/judge-blocks-medical-worker-vaccine-mandate-ny-state-80014754
+
+- “In the Australian corner of Twitter, the space is dominated by views that are militantly pro-lockdown, pro-COVID zero and pro-Labor premiers, and even the tamest of questions in those directions prompts an onslaught. Topics currently guaranteed to trigger a pile-on include data from official sources that highlights the minimal risks to children from COVID; reporting about the unintended costs of lockdowns including Australians stranded overseas and harm to mental health; information about how safe the AstraZeneca vaccine is” https://www.abc.net.au/news/2021-09-14/twitter-social-media-bullies-political-journalism/100458714
 
 13 September 2021
 - Deputy Premier of NSW revealed that vaccine passports will only be mandatory when the percentage of people vaccinated is between 70-80%. Once the 80% target is hit, vaccine passports will become optional for businesses. 80% target expected in approx 3 weeks. https://www.dailymail.co.uk/news/article-9983945/Covid-19-Unvaccinated-Australians-locked-pubs-THREE-WEEKS-NSW.html
@@ -94,6 +157,10 @@ https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02046-8/fullt
 
 - Group of Queensland police officers are crowdsourcing funding to hire a lawyer to challenge the vaccine mandate for Australian police. https://www.news.com.au/world/coronavirus/australia/queensland-police-officers-mount-legal-challenge-to-covid19-vaccine-mandate/news-story/819192aaf033248b6ded767f7edbf634
 
+- Whistleblower nurse from a US hospital comes forward with concerns that vaccine adverse effects are being attributed to the Delta variant at the hospital at which she works. https://theconservativetreehouse.com/blog/2021/09/11/an-articulate-nurse-dealing-with-covid-hospitalization-gives-honest-insight-about-what-really-is-happening-alarming-secondary-confirmation-of-details-provided-and-cited/
+
+- Local news Facebook page asks for stories of those who have lost an “unvaccinated loved one to COVID-19”. Instead, most of the comments are relating to those who have suffered vaccine injuries. https://m.facebook.com/wxyzdetroit/photos/after-the-vaccines-were-available-to-everyone-did-you-lose-an-unvaccinated-loved/10158207966696135/
+
 10 September 2021
 - TGA announces new restrictions on prescribing IVM in Australia. Doctors are no longer allowed to prescribe it off-label for COVID-19 anymore, because apparently it would discourage people from getting vaccinated. https://www.tga.gov.au/media-release/new-restrictions-prescribing-ivermectin-covid-19 News coverage: https://www.theguardian.com/australia-news/2021/sep/10/australian-drug-regulator-bans-ivermectin-as-covid-treatment-after-sharp-rise-in-prescriptions
 
@@ -114,6 +181,8 @@ https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02046-8/fullt
 
 8 September 2021
 - Young female fitness influencer and doctoral student gets banned from Instagram for sharing how she developed myocarditis after her vaccination. On Facebook, she writes “I am going to get my story out there. And others' stories, too. I received close to ONE THOUSAND messages from previously active, fit, healthy young people in their 20s-30s who experienced the EXACT same symptoms and received the EXACT same medical diagnosis. Yet reported cases of vaccine-induced myocarditis are "extremely rare".” https://www.facebook.com/story.php?story_fbid=4438953662828252&id=100001409871149
+
+- Article from the Financial Times highlights the 17,000 flu deaths in Australia over the past year that no one is talking about due to COVID-19 hysteria (which has only resulted in two deaths in Australia to date). It’s clear that the situation is no longer about public health at this stage… https://www.afr.com/politics/federal/the-17-000-flu-linked-deaths-no-one-is-talking-about-20210903-p58oqq
 
 7 September 2021
 - 900+ pages of documents describing US-funded research of gain-of-function viruses in China were released due to a FOIA lawsuit. The evidence in these documents contain funded grant proposals to do research which could have plausibly led to a lab leak. https://theintercept.com/2021/09/06/new-details-emerge-about-coronavirus-research-at-chinese-lab/
@@ -159,6 +228,8 @@ https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02046-8/fullt
 
 - The CDC changes the definition of a “vaccine” on its website, downgrading it from “a product that produces immunity” to a “preparation that stimulates the body’s immune response”. https://mobile.twitter.com/DominateREALITY/status/1435450618219466754
 
+- Study published in BMJ finds that teachers and their household members in Scotland were not at increased risk of COVID-19 hospitalisation compared to the general public. If anything, they were at lower risk due to the majority of teachers being young with no comorbidities. https://www.bmj.com/content/374/bmj.n2060
+
 1 September 2021
 - /r/NoNewNormal subreddit banned for "community interference". /r/NoNewNormal was a discussion forum focused on all things beyond the mainstream narrative surrounding COVID-19. It was previously "quarantined" on Reddit (unsearchable via search bar) due to "misinformation". There are some subreddits out there with very questionable and arguably unethical content which I won't mention here, yet they are still allowed to persist under free speech, so it is unbelievable that this community was banned. The new forum has moved to https://communities.win/c/NoNewNormal/
 
@@ -171,6 +242,8 @@ https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02046-8/fullt
 - Israel, with close to 80% of the population fully vaccinated, registers close to 11,000 COVID-19 cases, marking a new record since the start of the pandemic. https://www.jpost.com/health-and-wellness/israel-registers-almost-11000-cases-in-a-day-marking-new-record-678227
 
 - Risk of long COVID in children is likely less than 2%, according to study from University College London. https://www.bbc.com/news/health-58410584
+
+- Official data from Public Health Scotland indicates that there are more vaccine-associated deaths than COVID-associated deaths. This is also supported by the death statistics in the Yellow Card Reporting Scheme. https://theexpose.uk/2021/09/01/the-covid-19-vaccines-have-killed-more-people-in-8-months-than-covid-19-has-killed-in-18-months/?fbclid=IwAR12ME6y9tKrsvz91_bGnPlu_j_nBZEtoy9BFEqIAWUh4XYAsPmcXBO9G70
 
 31 August 2021
 - Two of the FDA's most senior vaccine leaders are retiring from their positions. The apparent reason? "A former senior FDA leader told Endpoints that they’re departing because they’re frustrated that CDC and their ACIP committee are involved in decisions that they think should be up to the FDA (...) What finally did it for them was the White House getting ahead of FDA on booster shots." https://endpts.com/breaking-in-a-major-blow-to-vaccine-efforts-senior-fda-leaders-stepping-down-report/ https://www.lifesitenews.com/news/top-fda-officials-quit-following-disagreement-with-bidens-rushed-covid-booster-shot-plan/
@@ -188,6 +261,8 @@ https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02046-8/fullt
 
 - CDC report released summarising findings from VAERS relating to myocarditis after vaccination. As of the time of reporting, there were 2,574 reports of myocarditis or pericarditis in the system, most were reported in young males after the 2nd dose. https://www.cdc.gov/vaccines/acip/meetings/downloads/slides-2021-08-30/03-COVID-Su-508.pdf
 
+- Japan temporarily suspends another million doses of Moderna vaccines in two prefectures (Gunma and Okinawa) after finding additional contamination in Moderna vials. https://www.cnbc.com/2021/08/30/japans-moderna-vaccine-contamination-woes-1-million-more-shots-suspended.html https://112.international/politics/japans-moderna-vaccine-contamination-woes-widen-64437.html (See also 26 August 2021).
+
 29 August 2021
 - 1000+ church leaders in Australia take a stance against vaccine passports by signing an letter to the Prime Minister Scott Morrison, which “presents five objections to the introduction of vaccine passports in Australia. That is, (1) The risk of creating an unethical two-tiered society; (2) The added burden on an already burdened society; (3) Government should never coerce conscience; (4) Arbitrary implementation and questionable science; (5) The inability of churches to exclude people from worship based on their medical status.” https://caldronpool.com/over-400-church-leaders-take-a-stand-against-vaccine-passports-in-open-letter-to-prime-minister-scott-morrison/?fbclid=IwAR1OJ2MklbB1M9XUoM0x43XG_o0A5VnwzCGJ2uMLXBsW1pmyDhJFaJLFHTY
 
@@ -203,12 +278,14 @@ https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02046-8/fullt
 
 26 August 2021
 - 1.6 million doses of Moderna vaccine are withdrawn in Japan due to contamination of “a substance that reacts with magnets”. 
-https://asia.nikkei.com/Spotlight/Coronavirus/COVID-vaccines/1.6m-Moderna-doses-withdrawn-in-Japan-over-contamination
+https://asia.nikkei.com/Spotlight/Coronavirus/COVID-vaccines/1.6m-Moderna-doses-withdrawn-in-Japan-over-contamination This led to the deaths of at least two men in their 30’s. https://www.reuters.com/business/healthcare-pharmaceuticals/two-die-japan-after-shots-suspended-moderna-vaccines-japan-govt-2021-08-28/ All Nippon Airways has halted its vaccination program in light of the news. https://www.nippon.com/en/news/yjj2021082600997/moderna-contamination-halts-workplace-vaccinations-in-japan.html
 
 - Preprint research finds that the Lambda variant is likely to escape vaccines due to mutations in the RBD of the spike protein. https://www.biorxiv.org/content/10.1101/2021.08.25.457692v1?fbclid=IwAR0gVMcovymZ9PZFw6MtSroddAs13FfwTtvcNyMrNl1AccMMwKyIvljkCDc
 
 25 August 2021
 - Preprint research in Israel finds that individuals vaccinated with Pfizer have 13 fold increased risk of a breakthrough infection as well as 27 fold risk of symptoms when they were infected compared to those with natural immunity. https://www.medrxiv.org/content/10.1101/2021.08.24.21262415v1 News coverage in the mainstream media! https://www.bloomberg.com/news/articles/2021-08-27/previous-covid-prevents-delta-infection-better-than-pfizer-shot
+
+- Preprint research based in San Francisco, California finds predominance of antibody-resistant SARS-CoV-2 variants in vaccine breakthrough cases in the area. This is the exact phenomenon that Dr Geert Vanden Bosche predicted, with the vaccines exerting selective pressure on the SARS-CoV-2 virus to become more virulent. https://theconservativetreehouse.com/blog/2021/10/03/there-it-is-study-finds-predominance-of-antibody-resistant-sars-cov-2-variants-in-vaccine-breakthrough-cases-in-san-francisco-bay-area/?utm_source=rss&utm_medium=rss&utm_campaign=there-it-is-study-finds-predominance-of-antibody-resistant-sars-cov-2-variants-in-vaccine-breakthrough-cases-in-san-francisco-bay-area https://www.medrxiv.org/content/10.1101/2021.08.19.21262139v1
 
 - 364 million doses of SARS-CoV2 vaccines have been given so far in the US https://www.bloomberg.com/graphics/covid-vaccine-tracker-global-distribution/
 - 595,620 adverse events in VAERS from SARS-CoV2 vaccination, so the adverse rate per million vaccines given is 1,636.
@@ -244,8 +321,12 @@ https://www.bbc.com/news/health-58270098
 20 August 2021
 - Burial costs covered for Canadians killed by vaccines, so that's good at least. “The department has budgeted $75 million for all claims”. https://torontosun.com/news/national/burial-costs-covered-for-canadians-killed-by-approved-vaccines/wcm/b88e097d-08da-46dc-9344-07001f9c1dc7/amp/#click=https://t.co/0tjmQSlx5K
 
+- Australian TGA approves sotrovimab, a monoclonal antibody treatment, for treatment of COVID-19. They have secured an allocation of 7,700 doses (each dose is over $2000). https://www.health.gov.au/ministers/the-hon-greg-hunt-mp/media/tga-approves-new-covid-19-treatment-for-use-in-australia?fbclid=IwAR0dT0L4-XFiQkcqLKnQ22HxpN52_Rb1IjBa-jEij1XkaaYUg7h18B_fxPE https://www.drugs.com/price-guide/sotrovimab
+
 19th August 2021
 - New Zealand goes into snap 3 day lockdown (yes the whole country) due to 1 case detected: https://www.spiked-online.com/2021/08/19/new-zealands-zero-covid-trap/amp/
+
+- Clear that Delta variant is the dominant variant now as of August, as reported in Science. The proportion of cases that are due to Delta has been increasing since April. https://www.science.org/news/2021/08/new-sars-cov-2-variants-have-changed-pandemic-what-will-virus-do-next
 
 18 August 2021
 - Three young male athletes develop heart complications after their second vaccine dose. Doctors say “no need to panic, but we recommend taking it easy for at least one week after receiving a vaccine dose.” https://www.brusselstimes.com/belgium/181660/doctors-advise-against-intensive-sport-after-covid-vaccination/
@@ -266,7 +347,7 @@ https://www.thenational.scot/news/19518599.scottish-government-seeks-make-emerge
 - Construction of “quarantine camp” in Melbourne starts, will be operational with 500 beds later this year and plans to contain up to 3000 people by finish in a couple of years time - which begs the question... how long are they intending for this pandemic to last!? https://www.theage.com.au/national/victoria/construction-of-mickleham-quarantine-camp-is-under-way-20210812-p58i50.html
 
 13 August 2021
-- Chairman of the Tokyo Metropolitan Medical Association in Japan acknowledges benefits of prophylactic ivermectin, encouraging doctors to prescribe it for COVID-19 with their patients’ informed consent. https://trialsitenews.com/chairman-of-tokyo-metropolitan-medical-association-declares-during-surge-time-for-ivermectin-is-now/ https://twitter.com/covid19crusher/status/1426453460753473537?s=21 https://t.me/FLCCC_Alliance/282
+- Chairman of the Tokyo Metropolitan Medical Association in Japan acknowledges benefits of prophylactic ivermectin, encouraging doctors to prescribe it for COVID-19 with their patients’ informed consent. https://trialsitenews.com/chairman-of-tokyo-metropolitan-medical-association-declares-during-surge-time-for-ivermectin-is-now/ https://twitter.com/covid19crusher/status/1426453460753473537?s=21 https://t.me/FLCCC_Alliance/282 https://covidcalltohumanity.org/2021/09/02/chairman-of-6000-strong-tokyo-medical-association-supports-giving-ivermectin-to-patients/
 
 11 August 2021
 - Dosage of ivermectin has been updated by FLCCC, increased from 0.2-0.4mg/kg to 0.4-0.6mg/kg on the IMASK protocol, to better deal with the increased infectivity of Delta strain: 
@@ -296,6 +377,8 @@ https://www.jpost.com/health-science/israeli-scientist-says-covid-19-could-be-tr
 1 August 2021
 - Pre-publication release of a study showing that COVID-19 vaccination is associated with myocarditis: https://pediatrics.aappublications.org/content/early/2021/08/12/peds.2021-053427
 
+- Patterson MD team finds that their machine learning approach classifies vaccine long-haulers as COVID-19 long-haulers, providing evidence that there may be common molecular pathology between these two conditions. They also found that S1 spike protein has been found in monocytes months after vaccination (see also 26 July 2021).  https://mobile.twitter.com/brucep13/status/1421669045267542016
+
 30 July 2021
 - CDC announces that unvaccinated and vaccinated who have been infected with Delta variant have the same viral load, indicating that the vaccines do not prevent transmission. https://www.cdc.gov/media/releases/2021/s0730-mmwr-covid-19.html
 
@@ -310,6 +393,9 @@ https://www.nytimes.com/2021/07/30/briefing/coronavirus-delta-mysteries.html (Se
 - Physicians who post COVID-19 misinformation may lose license, medical panel says. (The censorship is absolutely astounding to witness):  https://www.beckershospitalreview.com/digital-marketing/physicians-who-post-covid-19-vaccine-misinformation-may-lose-license-medical-panel-says.html (and commentary here: https://boriquagato.substack.com/p/fun-fact-government-occupational/comments)
 
 - Pfizer: “Alongside vaccines, success against COVID19 will likely require antiviral treatments for those who contract the virus. If successful, this oral antiviral therapy could be prescribed at the first sign of infection and provide a new treatment option that can be taken at home.”  https://twitter.com/pfizer/status/1420474141686255624?s=21
+
+26 July 2021
+- Pre-print research by Patterson et al. indicates that the spike protein persists on non classical monocytes for up to 15 months. https://www.biorxiv.org/content/10.1101/2021.06.25.449905v3
 
 22 July 2021
 - Efficacy of vaccines is already waning after a matter of months according to data in Israel: "New Health Ministry statistics indicated that, on average, the Pfizer shot — the vaccine given to nearly all Israelis — is now just 39% effective against infection, while being only 41% effective in preventing symptomatic COVID. Previously, the Pfizer-BioNTech vaccine was well over 90% effective against infection". https://www.timesofisrael.com/israeli-uk-data-offer-mixed-signals-on-vaccines-potency-against-delta-strain/
@@ -399,8 +485,14 @@ https://investors.modernatx.com/news-releases/news-release-details/moderna-provi
 - AHPRA puts out a position statement to discourage registered health practitioners and students from speaking out on potential concerns regarding the SARS-CoV-2 vaccinations: "Any promotion of anti-vaccination statements or health advice which contradicts the best available scientific evidence or seeks to actively undermine the national immunisation campaign (including via social media) is not supported by National Boards and may be in breach of the codes of conduct and subject to investigation and possible regulatory action." 
 https://www.ahpra.gov.au/documents/default.aspx?record=WD21%2F30751&dbid=AP&chksum=zrOQ56xJaaLbasNxLDyqMA%3D%3D&TSPD_101_R0=08c403b005ab2000762c6494c4afaeef3e0b400a75a3ae75a3b23ff4bd293ecf302867c5568a0f610871432fbc1430005d979400c652fa06bef674ebfe80703c79a6ddb8701d7d9db431958015b98c7c66603db5b8f3210e50dbcb2a03bd6311 Backup: https://www.docdroid.net/q3LC0Nl/ahpra-position-statement-covid-19-vaccination-position-statement-pdf
 
-2 February 2020
+11 February 2021
+- Harvard researchers find that overweight individuals are more likely to become “super spreaders”: “Those who were older with higher body mass indexes (BMI) and an increasing degree of covid-19 infection had three times the number of exhaled respiratory droplets as others in the study groups.” https://www.livemint.com/news/india/obese-and-aged-having-covid-19-you-can-be-a-super-spreader/amp-11613029343470.html
+
+2 February 2021
 - NPR on waning vaccine immunity due to evolution of the SARS-CoV-2 virus: “We're not going to fall off a cliff tomorrow in terms of vaccine efficacy. What we're likely to see is a slow, steady erosion of efficacy over, perhaps, quite a long period of time.” https://www.npr.org/2021/02/09/965703047/vaccines-could-drive-the-evolution-of-more-covid-19-mutants
+
+26 January 2021
+- Vaccine rollout in Israel results in new adverse events like paresthesia and facial nerve paralysis that were not picked up in the Pfizer-BioNTech clinical trial. Prof. Galia Rahav, chief of the Infectious Disease Unit and Laboratories at the Sheba Medical Center: “At the beginning, they [Pfizer] said that it was just hysterical women, but it doesn’t seem that way, because we’re seeing this with men as well.” https://www.israelnationalnews.com/News/News.aspx/295623 
 
 10 December 2020
 - Research comes out showing that using N protein as antigen rather than spike protein is likely better, since mutations don’t occur there often (whereas the spike protein is the most quickly evolving):  https://theconversation.com/covid-vaccines-focus-on-the-spike-protein-but-heres-another-target-150315
@@ -411,11 +503,17 @@ https://www.fda.gov/media/144859/download
 2 December 2020
 - CDC says that people without COVID-19 symptoms do not need testing. https://www.nytimes.com/2020/08/25/health/covid-19-testing-cdc.html
 
+26 November 2020
+- AstraZeneca vaccine initial results released and the “average efficacy” against COVID-19 infection is reported as a somewhat misleading 70%. “About 3,000 participants were given the half dose and then a full dose four weeks later, and this regime appeared to provide the most protection or efficacy in the trial - around 90%. In the larger group of nearly 9,000 volunteers, who were given two full doses also four weeks apart, efficacy was 62%. AstraZeneca reported these percentages and also said that its vaccine was, on average, 70% effective at preventing Covid-19 illness.” https://www.bbc.com/news/health-55086927
+
 20 November 2020
 - WHO recommends against the use of remdesivir in COVID-19 patients, finding no evidence that it works. https://www.who.int/news-room/feature-stories/detail/who-recommends-against-the-use-of-remdesivir-in-covid-19-patients
 
-April 2020
- CDC changes definition of a COVID-19 case to mean 
+13 November 2020
+- WHO changes the definition of herd immunity from “indirect protection that occurs when a population is immune either through vaccination or immunity developed through previous infection” to “a concept used for vaccination, in which a population can be protected from a certain virus if a threshold of vaccination is reached. Herd immunity is achieved by protecting people from a virus, not from exposing them to it”. https://www.aier.org/article/who-deletes-naturally-acquired-immunity-from-its-website/
+
+14 July 2019
+- A virology researcher (Dr. Xiangguo Qiu) with ties to China is escorted out of the National Microbiology Lab (NML), Canada’s only level-4 lab. "The National Microbiology Laboratory would have some pretty sensitive biological research material that ... could be shared either with or without authorization with foreign countries," said Gordon Houlden, director of the University of Alberta's China Institute.
 
 
 
