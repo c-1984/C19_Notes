@@ -1,3 +1,6 @@
+13 October 2021
+- Alex Berenson brings attention to Intel, one of the only companies that is using evidence-based policy regarding the COVID-19 vaccinations, including “vaccinated employees cannot say they do not want to work with unvaccinated employees. (Policy 8.4)”, how “Intel FORBIDS managers from asking for vaccination status. (Policy 8.13)”, and that “Intel ACCEPTS antibodies as a full substitute for vaccination for people who must quarantine after a Covid exposure or for travel requirements. (Policy 1.2)”. https://alexberenson.substack.com/p/guess-which-fortune-50-company-wont https://www.intel.com/content/dam/www/central-libraries/us/en/documents/coronavirus-communication.pdf
+
 7 October 2021
 - Finland follows in Sweden’s footsteps, with their Institute for Health and Welfare suspending use of the Moderna vaccine among men under the age of 30. https://www.wsj.com/articles/some-european-countries-are-limiting-the-use-of-modernas-covid-19-vaccine-11633610069
 
@@ -316,7 +319,7 @@ https://www.biorxiv.org/content/10.1101/2021.08.22.457114v1?fbclid=IwAR2TWCXcHnv
 - From the BBC, “You get a broader immune response after being infected with the virus than vaccination”. Now the BBC are conspiracy theorists as well 😂
 https://www.bbc.com/news/health-58270098
 
-- SARS-CoV-2 vaccines may affect women’s periods, with over 30,000 women in UK reporting changes to their menstrual cycles. https://www.spectator.co.uk/article/The-Covid-vaccines-may-affect-periods.-Are-we-allowed-to-talk-about-this
+- SARS-CoV-2 vaccines may affect women’s periods, with over 30,000 women in UK reporting changes to their menstrual cycles. https://www.spectator.co.uk/article/The-Covid-vaccines-may-affect-periods.-Are-we-allowed-to-talk-about-this 
 
 20 August 2021
 - Burial costs covered for Canadians killed by vaccines, so that's good at least. “The department has budgeted $75 million for all claims”. https://torontosun.com/news/national/burial-costs-covered-for-canadians-killed-by-approved-vaccines/wcm/b88e097d-08da-46dc-9344-07001f9c1dc7/amp/#click=https://t.co/0tjmQSlx5K
@@ -493,6 +496,9 @@ https://www.ahpra.gov.au/documents/default.aspx?record=WD21%2F30751&dbid=AP&chks
 
 26 January 2021
 - Vaccine rollout in Israel results in new adverse events like paresthesia and facial nerve paralysis that were not picked up in the Pfizer-BioNTech clinical trial. Prof. Galia Rahav, chief of the Infectious Disease Unit and Laboratories at the Sheba Medical Center: “At the beginning, they [Pfizer] said that it was just hysterical women, but it doesn’t seem that way, because we’re seeing this with men as well.” https://www.israelnationalnews.com/News/News.aspx/295623 
+
+6 January 2021
+- Agreement between the State of Israel , the Israeli Ministry of Health, and Pfizer Inc. is released, describing how Pfizer’s vaccine will be rolled out in Israel. This agreement indicates that Israel will provide data to Pfizer about its experimental novel-technology mRNA COVID-19 vaccine, so that Pfizer can determine "whether herd immunity is achieved after reaching a certain percentage of vaccination coverage in Israel". It is not clear what benefits Israel is getting in return for this agreement. https://govextra.gov.il/media/30806/11221-moh-pfizer-collaboration-agreement-redacted.pdf Backup: https://drive.google.com/file/d/1SyV0SBNDyg7259DDB3TZL99CNP2G33CG/view?usp=sharing 
 
 10 December 2020
 - Research comes out showing that using N protein as antigen rather than spike protein is likely better, since mutations don’t occur there often (whereas the spike protein is the most quickly evolving):  https://theconversation.com/covid-vaccines-focus-on-the-spike-protein-but-heres-another-target-150315
