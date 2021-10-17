@@ -16,6 +16,7 @@
 - [Adverse Effects - From Cohort Studies](Vaccine_Cohort_Studies.md)
 - [Waning Immunity and Breakthrough Cases](Waning_Immunity.md)
 - [SARS-CoV-2 Evolutionary Escape from Vaccines](Evolution.md)
+- See Also: [Long Covid > Long Covid (Vaccine-induced)](Long_Covid.md#long-covid-vaccine-induced)
 
 ## Societal Topics
 - [Political Influence in Medicine](Politics.md)
