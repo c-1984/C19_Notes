@@ -1,11 +1,16 @@
+17 October 2021
+- Healthy 37-year-old police officer from Western Australia suffers debilitating side effects from the first Pfizer shot, including a ruptured artery to her brain, causing a stroke. Doctor tells her it is worth the risk of having another stroke to get her second shot and be fully vaccinated. https://www.facebook.com/100014682258220/posts/1249618398870890/?d=n 
+
 15 October 2021
-- The Guardian asks people on Twitter for any stories about losing loved ones to COVID-19. This backfires, with the vast majority of replies overwhelmingly describing vaccine adverse effects. https://twitter.com/guardian/status/1448928379839864834?s=21 See 10 September for the exact same thing that happened with a different news company. 
+- The Guardian asks people on Twitter for any stories about losing loved ones to COVID-19. This backfires, as the vast majority of replies overwhelmingly describe vaccine adverse effects. https://twitter.com/guardian/status/1448928379839864834?s=21 See 10 September for the exact same thing that happened with a different news company. 
 
 14 October 2021
 - Australian government data begins to contradict the official narrative, revealing that 36 of the 49 aged care residents that died after contracting COVID-19 during NSW's Delta outbreak were fully vaccinated. https://amp.abc.net.au/article/100539620 
 
 13 October 2021
 - Alex Berenson brings attention to Intel, one of the only companies that is using evidence-based policy regarding the COVID-19 vaccinations, including “vaccinated employees cannot say they do not want to work with unvaccinated employees. (Policy 8.4)”. Also “Intel FORBIDS managers from asking for vaccination status. (Policy 8.13)”, and “Intel ACCEPTS antibodies as a full substitute for vaccination for people who must quarantine after a Covid exposure or for travel requirements. (Policy 1.2)”. https://alexberenson.substack.com/p/guess-which-fortune-50-company-wont https://www.intel.com/content/dam/www/central-libraries/us/en/documents/coronavirus-communication.pdf
+
+- Dr Sanjeev Gupta admits the CNN lied when they called IVM horse dewormer when referring to Joe Rogan’s treatment (2-4 September 2021). Gupta: “They shouldn’t have done that.” https://www.rev.com/blog/transcripts/joe-rogan-cnn-sanjay-gupta-podcast-transcript-ivermectin https://www.breitbart.com/health/2021/10/14/gupta-admits-cnn-should-not-have-framed-ivermectin-as-horse-dewormer/ 
 
 12 October 2021
 - High rate of menstrual side effects from vaccination surfaces. Pre-print research released detailing results from a survey of >39,000 women, with over half of them experiencing menstrual irregularities after COVID-19 vaccination. Notably, some groups of women who are not supposed to menstruate (those on the pill/contraceptives, women taking testosterone to transition into trans-men, women who are post-menopausal) are experiencing “breakthrough” periods at a startlingly high rate. No explanation as yet for why this is happening. https://www.medrxiv.org/content/10.1101/2021.10.11.21264863v1 
@@ -25,14 +30,12 @@ https://stephenc.substack.com/p/the-israeli-moh-caught-red-handed
 6 October 2021
 - Sweden suspends use of Moderna vaccine for those under 30, Denmark said those under 18 won’t be offered the Moderna vaccine, and Norway urged those under 30 to get the Pfizer vaccine instead of Moderna. “All three countries based their decision on an unpublished study with Sweden’s Public Health Agency saying that it signals “an increased risk of side effects such as inflammation of the heart muscle or the pericardium” with those under 30 at particularly higher risk. https://apnews.com/article/coronavirus-pandemic-business-denmark-public-health-health-453163d8f93618fde90c06d3474921a0 This is interesting considering that a single dose of the Moderna vaccine contains 100ug of spike protein mRNA while a single dose of the Pfizer vaccine contains only 30ug of spike protein mRNA, suggesting spike protein mRNA may have dose-dependent toxicity. https://kamal-mokeddem.medium.com/spike-protein-a-dose-dependent-killer-2e26ec28de3f Also see 29 September 2021 for a similar decision by Ontario, Canada. 
 
-- Unvaccinated Australians who are stood down for refusing to get the jab will still be able to claim $750 weekly cash handout from the government. https://www.dailymail.co.uk/news/article-10066491/Aussies-refuse-vaccinated-sack-eligible-receive-750-weekly-handout.html 
+- Good news for Australians: Unvaccinated Australians who are stood down for refusing to get the jab will still be able to claim $750 weekly cash handout from the government. https://www.dailymail.co.uk/news/article-10066491/Aussies-refuse-vaccinated-sack-eligible-receive-750-weekly-handout.html 
 
 5 October 2021
 - The evidence for the lab leak theory is becoming so difficult to ignore that even mainstream news is reporting that it is likely feasible. WSJ: “Four studies—including two from WHO—provide powerful evidence favoring the lab-leak theory.” https://www.wsj.com/articles/covid-19-coronavirus-lab-leak-virology-origins-pandemic-11633462827?redirect=amp#click=https://t.co/A4qRquHJjt
 
-- Project Veritas video Part 4 released, showing three Pfizer scientists who admit that natural immunity is better than vaccine-mediated immunity. https://t.me/project_veritas/1017 https://www.youtube.com/watch?v=On5RYFbcxWY One of the scientists has deleted his LinkedIn profile but an archived version is here: https://archive.is/97tLQ
-
-- An accepted and published manuscript by Jessica Rose, PhD, and Dr. Peter McCullough, MD, describing evidence of vaccine-induced myocarditis ("A Report on Myocarditis Adverse Events in the U.S. Vaccine Adverse Events Reporting System (VAERS) in Association with COVID-19 Injectable Biological Products"), was suddenly  "temporarily removed" from Elsevier, meaning that people are not able to view or download it. The reason is not given, and this was not communicated to the authors of the paper either. https://twitter.com/eduengineer/status/1445267447007879171?s=12 As of 18 October 2021, the paper is still not accessible. Fortunately, the pre-proof can be downloaded here: https://covidcalltohumanity.org/wp-content/uploads/2021/10/EA1CF9537A892BC5795D9BBE18154242-1190907.pdf Other manuscripts relating to controversial aspects of the COVID-19 pandemic have also been retracted, see: https://twitter.com/alexandrosM/status/1449054589437677568
+- Project Veritas video Part 4 released, showing three Pfizer scientists who admit that natural immunity is better than vaccine-mediated immunity. https://t.me/project_veritas/1017 https://www.youtube.com/watch?v=On5RYFbcxWY One of the scientists has deleted his LinkedIn profile but an archived version is here: https://archive.is/97tLQ 
 
 4 October 2021
 - Waning immunity of the Pfizer vaccine has now made it into mainstream media. (I guess the difference between a conspiracy theory and fact is only 6 months 🙃) CNBC: “The effectiveness of Pfizer and BioNTech’s Covid-19 vaccine against infection tumbles over several months, falling from a peak of 88% a month after receiving the two-shot series to 47% six months later.” https://www.cnbc.com/2021/10/04/pfizer-covid-vaccine-protection-against-infection-tumbles-to-47percent-study-confirms.html
@@ -56,10 +59,12 @@ https://stephenc.substack.com/p/the-israeli-moh-caught-red-handed
 https://www.abc.net.au/news/2021-10-01/nsw-premier-gladys-berejiklian-resignation-icac-explained/100507412 https://theconversation.com/gladys-berejiklian-quits-premiership-amid-icac-inquiry-into-links-with-former-mp-169099 https://twitter.com/13orangesbc/status/1443860140806098950?s=21 https://cairnsnews.org/2021/09/15/palmer-exposes-corrupt-big-pharma-politics-and-blackmail-in-nsw/ 
 
 30 September 2021
-- Health experts have been left baffled by a big rise in a common and potentially fatal type of heart attack in the west of Scotland. “During the summer there was a 25 per cent rise in the number of people rushed to the Golden Jubilee National Hospital in Clydebank with partially blocked arteries cutting blood supply to the heart.” Consistent with the idea put forward on 23 September 2021 by Prof. Fenton that all-cause mortality is increased in the vaccinated. https://www.thetimes.co.uk/article/mystery-rise-in-heart-attacks-from-blocked-arteries-m253drrnf 
+- Health experts have been left baffled by a big rise in a common and potentially fatal type of heart attack in the west of Scotland. “During the summer there was a 25 per cent rise in the number of people rushed to the Golden Jubilee National Hospital in Clydebank with partially blocked arteries cutting blood supply to the heart.” https://www.thetimes.co.uk/article/mystery-rise-in-heart-attacks-from-blocked-arteries-m253drrnf 
 
 29 September 2021
-- Ontario recommends adults 18 to 24 get Pfizer COVID-19 vaccine over Moderna due to increased risk of myocarditis. Pfizer has only 30ug of spike protein mRNA per shot while Moderna has 100ug per shot. https://www.cp24.com/news/ontario-recommends-adults-18-to-24-get-pfizer-covid-19-vaccine-over-moderna-due-to-increased-risk-of-rare-heart-condition-1.5605400?cache=fbiziixwm%2F7.565129 
+- Ontario recommends adults 18 to 24 get Pfizer COVID-19 vaccine over Moderna due to increased risk of myocarditis. https://www.cp24.com/news/ontario-recommends-adults-18-to-24-get-pfizer-covid-19-vaccine-over-moderna-due-to-increased-risk-of-rare-heart-condition-1.5605400?cache=fbiziixwm%2F7.565129 
+
+- US Army flight surgeon warns that myocarditis risks from the COVID-19 vaccines pose a potentially deadly risk to pilots and is alleging the Army isn’t following Department of Defense protocols to screen pilots for those potentially deadly side effects. https://americanmilitarynews.com/2021/09/army-flight-surgeon-says-pilots-risk-sudden-cardiac-death-from-covid-vaccine-side-effect/ 
 
 28 September 2021
 - New York State Governor Kathy Hochul said all healthcare workers in the state must be vaccinated by midnight and emphasized she was ready to order the National Guard to fill in for any shortfall in staffing. https://reut.rs/3o7g2Lg
@@ -521,25 +526,91 @@ https://www.ahpra.gov.au/documents/default.aspx?record=WD21%2F30751&dbid=AP&chks
 - Agreement between the State of Israel , the Israeli Ministry of Health, and Pfizer Inc. is released, describing how Pfizer’s vaccine will be rolled out in Israel. This agreement indicates that Israel will provide data to Pfizer about its experimental novel-technology mRNA COVID-19 vaccine, so that Pfizer can determine "whether herd immunity is achieved after reaching a certain percentage of vaccination coverage in Israel". It is not clear what benefits Israel is getting in return for this agreement. https://govextra.gov.il/media/30806/11221-moh-pfizer-collaboration-agreement-redacted.pdf Backup: https://drive.google.com/file/d/1SyV0SBNDyg7259DDB3TZL99CNP2G33CG/view?usp=sharing 
 
 10 December 2020
-- Research comes out showing that using N protein as antigen rather than spike protein is likely better, since mutations don’t occur there often (whereas the spike protein is the most quickly evolving):  https://theconversation.com/covid-vaccines-focus-on-the-spike-protein-but-heres-another-target-150315
+- Research comes out showing that using N protein as antigen rather than spike protein is likely better, since mutations don’t occur there often (whereas the spike protein is the most quickly evolving):  https://theconversation.com/covid-vaccines-focus-on-the-spike-protein-but-heres-another-target-150315 
 
-- FDA on importance of the placebo group referring to vaccine clinical trials: “Placebo controlled follow-up can be very important in showing that whatever happened in the vaccine group also happened in the placebo group. Because that’s our best way of knowing.”
-https://www.fda.gov/media/144859/download
+- FDA emphasises importance of the placebo group referring to vaccine clinical trials: “Placebo controlled follow-up can be very important in showing that whatever happened in the vaccine group also happened in the placebo group. Because that’s our best way of knowing.”
+https://www.fda.gov/media/144859/download 
 
 2 December 2020
-- CDC says that people without COVID-19 symptoms do not need testing. https://www.nytimes.com/2020/08/25/health/covid-19-testing-cdc.html
+- CDC says that people without COVID-19 symptoms do not need testing. https://www.nytimes.com/2020/08/25/health/covid-19-testing-cdc.html 
 
 26 November 2020
-- AstraZeneca vaccine initial results released and the “average efficacy” against COVID-19 infection is reported as a somewhat misleading 70%. “About 3,000 participants were given the half dose and then a full dose four weeks later, and this regime appeared to provide the most protection or efficacy in the trial - around 90%. In the larger group of nearly 9,000 volunteers, who were given two full doses also four weeks apart, efficacy was 62%. AstraZeneca reported these percentages and also said that its vaccine was, on average, 70% effective at preventing Covid-19 illness.” https://www.bbc.com/news/health-55086927
+- AstraZeneca vaccine initial results released and the “average efficacy” against COVID-19 infection is reported as a somewhat misleading 70%. “About 3,000 participants were given the half dose and then a full dose four weeks later, and this regime appeared to provide the most protection or efficacy in the trial - around 90%. In the larger group of nearly 9,000 volunteers, who were given two full doses also four weeks apart, efficacy was 62%. AstraZeneca reported these percentages and also said that its vaccine was, on average, 70% effective at preventing Covid-19 illness.” https://www.bbc.com/news/health-55086927 
 
 20 November 2020
 - WHO recommends against the use of remdesivir in COVID-19 patients, finding no evidence that it works. https://www.who.int/news-room/feature-stories/detail/who-recommends-against-the-use-of-remdesivir-in-covid-19-patients
 
 13 November 2020
-- WHO changes the definition of herd immunity from “indirect protection that occurs when a population is immune either through vaccination or immunity developed through previous infection” to “a concept used for vaccination, in which a population can be protected from a certain virus if a threshold of vaccination is reached. Herd immunity is achieved by protecting people from a virus, not from exposing them to it”. https://www.aier.org/article/who-deletes-naturally-acquired-immunity-from-its-website/
+- WHO changes the definition of herd immunity from “indirect protection that occurs when a population is immune either through vaccination or immunity developed through previous infection” to “a concept used for vaccination, in which a population can be protected from a certain virus if a threshold of vaccination is reached. Herd immunity is achieved by protecting people from a virus, not from exposing them to it”. https://www.aier.org/article/who-deletes-naturally-acquired-immunity-from-its-website/ 
+
+15 October 2019
+- A group of 17 athletes from the U.S. Armed Forces has arrived at the airport in the central Chinese city of Wuhan for the upcoming 2019 Military World Games. About 300 athletes from the United States are expected to arrive in the next 2 days.
+http://www.xinhuanet.com/english/2019-10/15/c_138473332.htm 
+
+18 October 2019
+- EVENT 201: Johns Hopkins Center for Health Security in partnership with WEF & the Bill and Melinda Gates Foundation sponsor a high-level pandemic exercise, illustrating areas where public/private partnerships will be necessary during the response to a severe pandemic.
+https://www.youtube.com/watch?v=Vm1-DnxRiPM 
+
+1 October 2019
+- Dr. Xiangguo Qiu turns out to be a Chinese biological warfare agent. She has been confirmed to be smuggling Coronavirus and other lethal viruses from Canada’s National Microbiology Laboratory to China in a case of a Biological Espionage.
+https://greatgameindia.com/dr-xiangguo-qiu-chinese-biological-warfare-agent/ 
 
 14 July 2019
-- A virology researcher (Dr. Xiangguo Qiu) with ties to China is escorted out of the National Microbiology Lab (NML), Canada’s only level-4 lab. "The National Microbiology Laboratory would have some pretty sensitive biological research material that ... could be shared either with or without authorization with foreign countries," said Gordon Houlden, director of the University of Alberta's China Institute.
+- A virology researcher (Dr. Xiangguo Qiu) with ties to China is escorted out of the National Microbiology Lab (NML), Canada’s only level-4 lab. "The National Microbiology Laboratory would have some pretty sensitive biological research material that ... could be shared either with or without authorization with foreign countries," said Gordon Houlden, director of the University of Alberta's China Institute. https://www.cbc.ca/news/canada/manitoba/chinese-researcher-escorted-from-infectious-disease-lab-amid-rcmp-investigation-1.5211567 
+
+27 June 2019
+- Dr. Scott Gottlieb, former US FDA Commissioner, joins Pfizer's Board of Directors.
+https://en.wikipedia.org/wiki/Scott_Gottlieb#FDA_commissioner_(2017%E2%80%932019) 
+https://web.archive.org/web/20190701033117/https://www.bloomberg.com/news/articles/2019-06-27/pfizer-names-former-fda-chief-gottlieb-to-board-of-directors 
+
+January 2019
+- Start of Crimson Contagion, a joint exercise conducted from January to August 2019, in which numerous national, state and local, private and public organizations in the US participated. The aim was to test the capacity of the federal government and twelve states to respond to a severe pandemic of influenza originating in China.
+https://en.wikipedia.org/wiki/Crimson_Contagion 
+https://ia801901.us.archive.org/30/items/crimson-contagion-2019/Crimson_Contagion_2019.pdf 
+https://www.governmentattic.org/38docs/HHSaarCrimsonContAAR_2020.pdf 
+
+29 August 2018
+- Parker Crutchfield: "Compulsory moral bioenhancement should be covert".
+https://pubmed.ncbi.nlm.nih.gov/30157295/ 
+
+24 May 2018
+- WHO and World Bank Group Join Forces to Strengthen Global Health Security. WHO would later declare a pandemic which meant World Bank would not return investors money in the World Pandemic Bonds (as much as 1 billion dollars). Maybe a money laundering operation to fund the Covid-19 WEF/WB/WHO agenda? 
+https://www.worldbank.org/en/news/press-release/2018/05/24/who-and-world-bank-group-join-forces-to-strengthen-global-health-security 
+
+23 October 2017
+- John Hopkins Center for Health Security releases fictional pandemic scenario called SPARS aimed to teach policymakers appropriate pandemic responses. The pandemic does not end up killing as many people as originally forecasted through modelling. Moreover, the vaccines have severe side effects. The pandemic ends with the President apologizing to the brave and patriotic Americans that took these experimental and harmful vaccines during a time of national crisis.
+https://www.centerforhealthsecurity.org/news/center-news/2017/2017-10-23_spars-scenario.html 
+https://jhsphcenterforhealthsecurity.s3.amazonaws.com/spars-pandemic-scenario.pdf 
+
+28 June 2017
+- World Bank Launches First-Ever Pandemic Bonds to Support $500 Million Pandemic Emergency Financing Facility: “In an effort to fight the next pandemic faster, the World Bank has turned to global financial markets, issuing $425 million in “pandemic bonds” and related derivatives to pay for emergency relief. The World Bank’s bond sale was 200% oversubscribed, with investors eager to get their hands on the high-yield returns on offer. The majority of buyers were from Europe and included dedicated catastrophe-bond investors, pension funds, and asset managers.” Note investors lose their money if a pandemic is declared in 2020. 
+https://www.worldbank.org/en/news/press-release/2017/06/28/world-bank-launches-first-ever-pandemic-bonds-to-support-500-million-pandemic-emergency-financing-facilityhttps://qz.com/1017805/the-world-bank-issued-425-million-in-pandemic-bonds-and-derivatives-designed-so-investors-pay-in-the-event-of-an-outbreak/ 
+https://web.archive.org/web/20180614050123/http://pubdocs.worldbank.org/en/882831509568634367/PEF-Final-Prospectus-PEF.pdf  (PROSPECTUS - no longer available online, just Archive.org)
+
+10 Jan 2017
+- Dr. Anthony Fauci: "If there's one message that I want to leave with you today based on my experience... There is no question that there will be a challenge [to] the coming administration in the arena of infectious diseases, both chronic infectious diseases in the sense of already ongoing disease - and we have certainly a large burden of that - but also there will be a surprise outbreak and I hope by the end of my relatively short presentation you'll understand why history, and the history of the last 32 years that I've been the director of NIAID will tell the next administration that there's no doubt in anyone's mind that they will be faced with the challenges that their predecessors were faced with." https://www.youtube.com/watch?v=Kh3twYon8pc 
+
+9 Jan 2017
+- Obama Administration lifts ban on gain-of-function research just 11 days before President Trump took office. https://obamawhitehouse.archives.gov/blog/2017/01/09/recommended-policy-guidance-potential-pandemic-pathogen-care-and-oversight 
+
+13 September 2016
+- Moderna pivots towards developing mRNA vaccines as they are the fastest path to human trials: “Novartis abandoned the related realm of RNA interference over concerns about toxicity, as did Merck and Roche. Moderna said it prioritized vaccines because they presented the fastest path to human trials.” https://www.statnews.com/2016/09/13/moderna-therapeutics-biotech-mrna/ 
+
+12 February 2016
+- Peter Daszak, statement made in 2015 (exact date needed) - reported in the National Academies of Press Publication Feb 12, 2016: "We need to increase public understanding of the need for medical countermeasures such as a pan-coronavirus vaccine. A key driver is the media, and the economics will follow the hype. We need to use that hype to our advantage to get to the real issues. Investors will respond if they see profit at the end of the process."
+https://www.ncbi.nlm.nih.gov/books/NBK349040 
+
+9 November 2015
+- Paper published in Nature Medicine by Ralph Baric’s team describing gain-of-function research in coronaviruses in bats: “we generated and characterized a chimeric virus expressing the spike of bat coronavirus SHC014 in a mouse-adapted SARS-CoV backbone. The results indicate that group 2b viruses encoding the SHC014 spike in a wild-type backbone can efficiently use multiple orthologs of the SARS receptor human angiotensin converting enzyme II (ACE2), replicate efficiently in primary human airway cells and achieve in vitro titers equivalent to epidemic strains of SARS-CoV. Additionally, in vivo experiments demonstrate replication of the chimeric virus in mouse lung with notable pathogenesis.” This research occurred during the gain-of-function ban by Congress, but apparently allowed to go ahead since it was started before the ban came into effect. https://www.nature.com/articles/nm.3985 
+
+26 June 2014
+- James C.Smith elected to Pfizer’s Board of Directors (President and Chief Executive Officer (CEO) of Thomson Reuters and serves on its Board of Directors). 
+https://www.pfizer.com/news/press-release/press-release-detail/james_c_smith_elected_to_pfizer_s_board_of_directors 
+
+2 October 2013
+- DARPA Awards Moderna Therapeutics a Grant for up to $25 Million to Develop Messenger RNA Therapeutics: 
+https://investors.modernatx.com/news-releases/news-release-details/darpa-awards-moderna-therapeutics-grant-25-million-develop 
+
 
 
 
