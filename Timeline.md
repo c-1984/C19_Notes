@@ -2,7 +2,7 @@
 - In Australia, police are apparently trying to forcibly vaccinate Aboriginal people. A video on Twitter has surfaced showing them defending themselves from police officers using bow and arrow. https://twitter.com/ChooseLove777/status/1450119176824180739?s=20 
 
 18 October 2021
-- Colin Powell, 84, fully vaccinated, dies of COVID-19. The highest profile “rare”, “mild”, breakthrough case of COVID-19. USAToday: “Although dying from COVID-19 is extremely uncommon among the fully vaccinated, health experts say age and preexisting medical conditions may increase the odds of breakthrough infection, severe disease and even death.” Interesting that older people / those with preexisting medical conditions were originally the ones who were recommended to take the vaccine in the first place… https://www.usatoday.com/story/news/health/2021/10/18/vaccine-covid-19-colin-powell-high-risk/8505663002/ 
+- Colin Powell, 84, fully vaccinated, dies of COVID-19. The highest profile “rare”, “mild”, breakthrough case of COVID-19 we have heard about so far. USAToday: “Although dying from COVID-19 is extremely uncommon among the fully vaccinated, health experts say age and preexisting medical conditions may increase the odds of breakthrough infection, severe disease and even death.” Interesting that older people / those with preexisting medical conditions were originally the ones who were recommended to take the vaccine in the first place… https://www.usatoday.com/story/news/health/2021/10/18/vaccine-covid-19-colin-powell-high-risk/8505663002/ 
 
 - Valneva’s COVID-19 vaccine candidate, VLA2001, reports promising results from their Phase III trials. VLA2001 is a whole virus, inactivated, adjuvanted vaccine candidate that uses analogous technology to traditional vaccines. Apparently, there are less adverse events than AstraZeneca, and efficacy also appears good, with participants building immunity to S, N, and M proteins of the SARS-CoV-2 virus. It is interesting that despite not taking much longer to create, all other pharmaceutical companies like Pfizer, Moderna, chose to use a novel mRNA technology instead of proven traditional technologies. https://trialsitenews.com/valneva-reports-its-covid-19-vaccine-vla200-candidate-is-superior-to-astrazenecas-in-phase-3-cov-compare-trial/ 
 
@@ -27,8 +27,11 @@
 https://www.adelaidenow.com.au/coronavirus/personal-data-collected-by-qr-code-checkins-in-sa-secretly-stored-in-backup-system-and-not-destroyed-after-28-days-as-promised/news-story/3f8b287051116c692fd03c3f5ffa8052 
 
 11 October 2021
-- Israeli Ministry of Health finds that booster shots in Israel are not preventing infections, so they literally retroactively falsify the data to show the conclusions they want. Fortunately, some people took screenshots documenting the changes: “For example (as can be seen it in the screenshots below, released by the council), if originally on a given day there were 118 vaccinated confirmed cases vs 242 unvaccinated - it suddenly became 10 vaccinated vs. 350 unvaccinated," Koren explains. "That is, blatant changes, which our examination shows were made over months. They did not just 'round' corners - but actually drastically re-wrote the whole history.”
-https://stephenc.substack.com/p/the-israeli-moh-caught-red-handed 
+- Israeli Ministry of Health finds that booster shots in Israel are not preventing infections, so they retroactively falsify the data to show the conclusions they want. Fortunately, some people took screenshots documenting the changes: “For example (as can be seen it in the screenshots below, released by the council), if originally on a given day there were 118 vaccinated confirmed cases vs 242 unvaccinated - it suddenly became 10 vaccinated vs. 350 unvaccinated," Koren explains. "That is, blatant changes, which our examination shows were made over months. They did not just 'round' corners - but actually drastically re-wrote the whole history.”
+https://stephenc.substack.com/p/the-israeli-moh-caught-red-handed Archive: https://archive.ph/QPlob 
+
+10 October 2021
+- Deaths are at an all-time high in Singapore, despite the fact that 83% of the country is fully-vaccinated, most of them with the Pfizer mRNA vaccine. The data from COVID-19 data repository (https://github.com/CSSEGISandData/COVID-19) show that the vaccines are not working to reduce transmission or death. https://trialsitenews.com/despite-heavy-vaccination-delta-variant-covid-19-infections-deaths-surges-in-singapore/ Article behind paywall, see PDF here: https://drive.google.com/file/d/18Ws27wxgHqqU-Jkd0i0_yU9H5UaZ_oS4/view?usp=sharing 
 
 7 October 2021
 - Finland follows in Sweden’s footsteps, with their Institute for Health and Welfare suspending use of the Moderna vaccine among men under the age of 30. https://www.wsj.com/articles/some-european-countries-are-limiting-the-use-of-modernas-covid-19-vaccine-11633610069
@@ -551,19 +554,46 @@ https://www.fda.gov/media/144859/download
 13 November 2020
 - WHO changes the definition of herd immunity from “indirect protection that occurs when a population is immune either through vaccination or immunity developed through previous infection” to “a concept used for vaccination, in which a population can be protected from a certain virus if a threshold of vaccination is reached. Herd immunity is achieved by protecting people from a virus, not from exposing them to it”. https://www.aier.org/article/who-deletes-naturally-acquired-immunity-from-its-website/ 
 
-15 October 2019
-- A group of 17 athletes from the U.S. Armed Forces has arrived at the airport in the central Chinese city of Wuhan for the upcoming 2019 Military World Games. About 300 athletes from the United States are expected to arrive in the next 2 days.
-http://www.xinhuanet.com/english/2019-10/15/c_138473332.htm 
+22 January 2020
+- President Trump, referring to the COVID-19 pandemic in an interview: “We have it totally under control.”
+https://factba.se/transcript/donald-trump-interview-joe-kernen-cnbc-davos-january-22-2020 
+
+17 January 2020
+- PCR Test protocol is published by WHO that recommends 45 cycles for COVID-19 testing. The protocol is adopted by other countries around the world. This has an approx. 95% chance of registering a false positive. The correct cycle range should be below 30. https://www.who.int/docs/default-source/coronaviruse/protocol-v2-1.pdf 
+
+31 December 2019
+- China notifies WHO of “cases of pneumonia of unknown etiology” in Wuhan City. https://www.who.int/emergencies/disease-outbreak-news/item/2020-DON229 
+
+30 December 2019
+- Li Wenliang, an ophthalmologist at a hospital in Wuhan, sent colleagues a text about a virus, and is summoned to a police station and forced to sign a document for spreading rumors. Wuhan later institutes a lockdown and Li later dies from the virus. https://inews.co.uk/news/world/coronavirus-doctor-dies-li-wenling-395073 https://inews.co.uk/opinion/coronavirus-china-weakness-autocratic-government-396043 
+
+19 December 2019
+- Bill Gates on Twitter: "What's next for our foundation? I'm particularly excited about what the next year could mean for one of the best buys in global health: vaccines."
+https://twitter.com/billgates/status/1207681997612748801 
+
+12 December 2019
+- Moderna’s mRNA vaccine candidate completed on this date ("mRNA coronavirus vaccine candidates developed and jointly owned by NIAID and Moderna"), signed by Ralph Baric, the lead author from the 2015 Nature Medicine paper describing gain-of-function research in coronaviruses in bats (see 9 November 2015).
+https://www.documentcloud.org/documents/6935295-NIH-Moderna-Confidential-Agreements.html#document/p105/a568569  (PAGE 105)
 
 18 October 2019
-- EVENT 201: Johns Hopkins Center for Health Security in partnership with WEF & the Bill and Melinda Gates Foundation sponsor a high-level pandemic exercise, illustrating areas where public/private partnerships will be necessary during the response to a severe pandemic.
-https://www.youtube.com/watch?v=Vm1-DnxRiPM 
+- EVENT 201: Johns Hopkins Center for Health Security in partnership with WEF & the Bill and Melinda Gates Foundation sponsor a high-level pandemic exercise called “Event 201”, involving a fictional SARS pandemic meant to illustrate areas where public/private partnerships will be necessary during the response to a severe pandemic. It is interesting to note that one of the members in attendance is George F. Gao, Director-General of the Chinese Centre for Disease Control. In October 2019, SARS-CoV-2 was almost surely spreading among humans in Wuhan, very likely with Gao’s knowledge. He stays quiet throughout the exercise. 
+https://www.youtube.com/watch?v=Vm1-DnxRiPM See also, commentary by eugyppius here: https://eugyppius.substack.com/p/event-201 
+
+17 October 2019
+- Satellite images in Wuhan shows dramatic spikes in hospital traffic around this period in October. This provides circumstantial evidence that SARS-CoV-2 may have already been circulating at this time. “Something was happening in October,” said Brownstein, the chief innovation officer at Boston Children’s Hospital and director of the medical center’s Computational Epidemiology Lab. “Clearly, there was some level of social disruption taking place well before what was previously identified as the start of the novel coronavirus pandemic.” https://abcnews.go.com/International/satellite-data-suggests-coronavirus-hit-china-earlier-researchers/story?id=71123270 The Harvard study that analysed this satellite data also looked at Baidu search terms in the area, and found an increase in queries relating to “cough” (potentially could also be due to seasonal influenza) as well as “diarrhea”, a COVID-19-specific symptom, providing further supporting evidence. https://dash.harvard.edu/bitstream/handle/1/42669767/Satellite_Images_Baidu_COVID19_manuscript_DASH.pdf?sequence=3&isAllowed=y PDF Archive: https://drive.google.com/file/d/1OxZFnGwZwzDC_t93tvAuzSvfbmbQctwX/view?usp=sharing 
+
+18 October 2019
+- Military World Games in Wuhan begin and run from 18-27 October. Later, athletes from around the world claim that they were sick with COVID-19 symptoms while at the Military World Games: https://prospect.org/coronavirus/did-the-military-world-games-spread-covid-19/ https://www.insidethegames.biz/articles/1094347/world-military-games-illness-covid-19. 2 years later, the GOP’s report published in August 2021 strongly implicates these Military World Games as a superspreader event of COVID-19:  https://news.yahoo.com/gop-report-says-october-2019-110000947.html https://gop-foreignaffairs.house.gov/wp-content/uploads/2021/08/ORIGINS-OF-COVID-19-REPORT.pdf 
+
+15 October 2019
+- A group of 17 athletes from the U.S. Armed Forces has arrived at the airport in the central Chinese city of Wuhan for the upcoming 2019 Military World Games. About 300 athletes from the United States are expected to arrive in the next 2 days. 
+http://www.xinhuanet.com/english/2019-10/15/c_138473332.htm 
 
 1 October 2019
-- Dr. Xiangguo Qiu turns out to be a Chinese biological warfare agent. She has been confirmed to be smuggling Coronavirus and other lethal viruses from Canada’s National Microbiology Laboratory to China in a case of a Biological Espionage.
+- Dr. Xiangguo Qiu turns out to be a Chinese biological warfare agent. She has been confirmed to be smuggling coronavirus and other lethal viruses from Canada’s National Microbiology Laboratory to China in a case of biological espionage.
 https://greatgameindia.com/dr-xiangguo-qiu-chinese-biological-warfare-agent/ 
 
-14 July 2019
+7 July 2019
 - A virology researcher (Dr. Xiangguo Qiu) with ties to China is escorted out of the National Microbiology Lab (NML), Canada’s only level-4 lab. "The National Microbiology Laboratory would have some pretty sensitive biological research material that ... could be shared either with or without authorization with foreign countries," said Gordon Houlden, director of the University of Alberta's China Institute. https://www.cbc.ca/news/canada/manitoba/chinese-researcher-escorted-from-infectious-disease-lab-amid-rcmp-investigation-1.5211567 
 
 27 June 2019
@@ -571,11 +601,17 @@ https://greatgameindia.com/dr-xiangguo-qiu-chinese-biological-warfare-agent/
 https://en.wikipedia.org/wiki/Scott_Gottlieb#FDA_commissioner_(2017%E2%80%932019) 
 https://web.archive.org/web/20190701033117/https://www.bloomberg.com/news/articles/2019-06-27/pfizer-names-former-fda-chief-gottlieb-to-board-of-directors 
 
-January 2019
-- Start of Crimson Contagion, a joint exercise conducted from January to August 2019, in which numerous national, state and local, private and public organizations in the US participated. The aim was to test the capacity of the federal government and twelve states to respond to a severe pandemic of influenza originating in China.
+8 February 2019
+- From Science Magazine: “Last year, a U.S. government review panel quietly approved experiments proposed by two labs that were previously considered so dangerous that federal officials had imposed an unusual top-down moratorium on such research. One of the projects has already received funding from the National Institutes of Health’s National Institute of Allergy and Infectious Diseases and will start in a few weeks; the other is awaiting funding. “After a deliberative process that cost $1 million for [a consultant’s] external study and consumed countless weeks and months of time for many scientists, we are now being asked to trust a completely opaque process where the outcome is to permit the continuation of dangerous experiments,” says Harvard University epidemiologist Marc Lipsitch.” https://www.sciencemag.org/news/2019/02/exclusive-controversial-experiments-make-bird-flu-more-risky-poised-resume 
+
+29 January 2019
+- “Worldwide Threat Assessment of the U.S. Intelligence Community” published, a report to the Senate Select Committee on Intelligence. “We assess that China’s intelligence services will exploit the openness of American society, especially academia and the scientific community, using a variety of means.” https://www.dni.gov/files/ODNI/documents/2019-ATA-SFR---SSCI.pdf 
+
+10 January 2019
+- Start of “Crimson Contagion”, a joint exercise conducted from January to August 2019, in which numerous national, state and local, private and public organizations in the US participated. The aim was to test the capacity of the federal government and twelve states to respond to a severe pandemic of influenza originating in China.
 https://en.wikipedia.org/wiki/Crimson_Contagion 
 https://ia801901.us.archive.org/30/items/crimson-contagion-2019/Crimson_Contagion_2019.pdf 
-https://www.governmentattic.org/38docs/HHSaarCrimsonContAAR_2020.pdf 
+https://www.governmentattic.org/38docs/HHSaarCrimsonContAAR_2020.pdf https://archive.org/details/crimson-contagion-2019/page/n1/mode/2up 
 
 29 August 2018
 - Parker Crutchfield: "Compulsory moral bioenhancement should be covert".
@@ -585,15 +621,27 @@ https://pubmed.ncbi.nlm.nih.gov/30157295/
 - WHO and World Bank Group Join Forces to Strengthen Global Health Security. WHO would later declare a pandemic which meant World Bank would not return investors money in the World Pandemic Bonds (as much as 1 billion dollars). Maybe a money laundering operation to fund the Covid-19 WEF/WB/WHO agenda? 
 https://www.worldbank.org/en/news/press-release/2018/05/24/who-and-world-bank-group-join-forces-to-strengthen-global-health-security 
 
+23 February 2018
+- Peter Daszak announces The Global Virome Project: “We describe a Global Virome Project (GVP) aimed to launch in 2018 that will help identify the bulk of this viral threat and provide timely data for public health interventions against future pandemics.” https://science.sciencemag.org/content/359/6378/872?ijkey=161c3e96de3cb0e2bfcbf435311b52b701aaf3dd&keytype2=tf_ 
+
+19 December 2017
+- Ban on gain-of-function research is repealed, based on a report by the National Science Advisory Board for Biosecurity that government-funded gain-of-function research was seldom a risk to public safety. https://www.nature.com/articles/d41586-017-08837-7 
+
+13 November 2017
+- Dr Peter Daszak, President of EcoHealth Alliance, and Dr Shi Zhengli from Wuhan, publish another paper describing gain-of-function research done in coronaviruses in bats in a BSL-2 lab in Wuhan (see also: 26 June 2016). “The Wuhan Institute of Virology had continued to unearth dozens of new SARS-like coronaviruses in bat caves, and it reported making chimeras with eight of them by fusing the spikes of the new viruses to the chassis of WIV1. Two of them replicated well in human cells. They were, for all intents and purposes, brand-new pathogens.” In an email to MIT Technology Review, Shi said she followed Chinese rules that are similar to US. Since bat viruses like WIV1 haven’t been confirmed to cause disease in human beings, her biosafety committee recommended BSL-2 for engineering and testing them but BSL-3 for any animal experiments. Regarding the decision to do the research in BSL-2 conditions, Peter Daszak forwarded a statement from EcoHealth Alliance stating that the organization “must follow the local laws of the countries in which we work’ and that the NIH had determined the research was ‘not gain-of-function.’”https://www.technologyreview.com/2021/06/29/1027290/gain-of-function-risky-bat-virus-engineering-links-america-to-wuhan/ https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC5708621/ 
+
 23 October 2017
-- John Hopkins Center for Health Security releases fictional pandemic scenario called SPARS aimed to teach policymakers appropriate pandemic responses. The pandemic does not end up killing as many people as originally forecasted through modelling. Moreover, the vaccines have severe side effects. The pandemic ends with the President apologizing to the brave and patriotic Americans that took these experimental and harmful vaccines during a time of national crisis.
+- John Hopkins Center for Health Security releases a fictional pandemic scenario called SPARS, modelled off a SARS-like virus. The scenario is aimed to teach policymakers appropriate pandemic responses. The fictional pandemic does not end up killing as many people as originally forecasted through fictional modelling. Moreover, the vaccines, which are rushed to market, have severe side effects. The pandemic ends with the President apologizing to the brave and patriotic Americans that took these experimental and harmful vaccines during a time of national crisis.
 https://www.centerforhealthsecurity.org/news/center-news/2017/2017-10-23_spars-scenario.html 
 https://jhsphcenterforhealthsecurity.s3.amazonaws.com/spars-pandemic-scenario.pdf 
 
 28 June 2017
-- World Bank Launches First-Ever Pandemic Bonds to Support $500 Million Pandemic Emergency Financing Facility: “In an effort to fight the next pandemic faster, the World Bank has turned to global financial markets, issuing $425 million in “pandemic bonds” and related derivatives to pay for emergency relief. The World Bank’s bond sale was 200% oversubscribed, with investors eager to get their hands on the high-yield returns on offer. The majority of buyers were from Europe and included dedicated catastrophe-bond investors, pension funds, and asset managers.” Note investors lose their money if a pandemic is declared in 2020. 
+- World Bank Launches First-Ever Pandemic Bonds to Support $500 Million Pandemic Emergency Financing Facility: “In an effort to fight the next pandemic faster, the World Bank has turned to global financial markets, issuing $425 million in “pandemic bonds” and related derivatives to pay for emergency relief. The World Bank’s bond sale was 200% oversubscribed, with investors eager to get their hands on the high-yield returns on offer. The majority of buyers were from Europe and included dedicated catastrophe-bond investors, pension funds, and asset managers.” Note that investors lose their money if a pandemic is declared in 2020 (very conveniently happens). 
 https://www.worldbank.org/en/news/press-release/2017/06/28/world-bank-launches-first-ever-pandemic-bonds-to-support-500-million-pandemic-emergency-financing-facilityhttps://qz.com/1017805/the-world-bank-issued-425-million-in-pandemic-bonds-and-derivatives-designed-so-investors-pay-in-the-event-of-an-outbreak/ 
 https://web.archive.org/web/20180614050123/http://pubdocs.worldbank.org/en/882831509568634367/PEF-Final-Prospectus-PEF.pdf  (PROSPECTUS - no longer available online, just Archive.org)
+
+27 February 2017
+ Wuhan Institute of Virology, situated in Wuhan, becomes the first BSL-4 lab in mainland China. “BSL-4 is the highest level of biocontainment: its criteria include filtering air and treating water and waste before they leave the laboratory, and stipulating that researchers change clothes and shower before and after using lab facilities. Such labs are often controversial.” Concerns are already being raised at the lab’s opening: “But worries surround the Chinese lab, too. The SARS virus has escaped from high-level containment facilities in Beijing multiple times, notes Richard Ebright, a molecular biologist at Rutgers University in Piscataway, New Jersey. Tim Trevan, founder of CHROME Biosafety and Biosecurity Consulting in Damascus, Maryland, says that an open culture is important to keeping BSL-4 labs safe, and he questions how easy this will be in China, where society emphasizes hierarchy.” https://www.nature.com/articles/nature.2017.21487 
 
 10 Jan 2017
 - Dr. Anthony Fauci: "If there's one message that I want to leave with you today based on my experience... There is no question that there will be a challenge [to] the coming administration in the arena of infectious diseases, both chronic infectious diseases in the sense of already ongoing disease - and we have certainly a large burden of that - but also there will be a surprise outbreak and I hope by the end of my relatively short presentation you'll understand why history, and the history of the last 32 years that I've been the director of NIAID will tell the next administration that there's no doubt in anyone's mind that they will be faced with the challenges that their predecessors were faced with." https://www.youtube.com/watch?v=Kh3twYon8pc 
@@ -604,19 +652,26 @@ https://web.archive.org/web/20180614050123/http://pubdocs.worldbank.org/en/88283
 13 September 2016
 - Moderna pivots towards developing mRNA vaccines as they are the fastest path to human trials: “Novartis abandoned the related realm of RNA interference over concerns about toxicity, as did Merck and Roche. Moderna said it prioritized vaccines because they presented the fastest path to human trials.” https://www.statnews.com/2016/09/13/moderna-therapeutics-biotech-mrna/ 
 
+26 June 2016
+- Peter Daszak, President of EcoHealth Alliance, and Dr Shi Zhengli from Wuhan, publish a paper reporting how the Chinese lab had engineered different versions of the SARS-like coronavirus named WIV1, and tested their infectiousness in human cells. The paper also included a troubling detail: the work, which was funded in part by the NIH grant, had been done in a BSL-2 lab. That meant the same viruses that Daszak was holding up as a clear and present danger to the world were being studied under conditions that, according to Richard Ebright, matched “the biosafety level of a US dentist’s office.”
+https://journals.asm.org/doi/10.1128/JVI.03079-15 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4936131/ https://www.technologyreview.com/2021/06/29/1027290/gain-of-function-risky-bat-virus-engineering-links-america-to-wuhan/ 
+
 12 February 2016
-- Peter Daszak, statement made in 2015 (exact date needed) - reported in the National Academies of Press Publication Feb 12, 2016: "We need to increase public understanding of the need for medical countermeasures such as a pan-coronavirus vaccine. A key driver is the media, and the economics will follow the hype. We need to use that hype to our advantage to get to the real issues. Investors will respond if they see profit at the end of the process."
+- A statement by Peter Daszak, President of EcoHealth Alliance, was reported in the National Academies of Press Publication: "We need to increase public understanding of the need for medical countermeasures such as a pan-coronavirus vaccine. A key driver is the media, and the economics will follow the hype. We need to use that hype to our advantage to get to the real issues. Investors will respond if they see profit at the end of the process."
 https://www.ncbi.nlm.nih.gov/books/NBK349040 
 
 9 November 2015
-- Paper published in Nature Medicine by Ralph Baric’s team describing gain-of-function research in coronaviruses in bats: “we generated and characterized a chimeric virus expressing the spike of bat coronavirus SHC014 in a mouse-adapted SARS-CoV backbone. The results indicate that group 2b viruses encoding the SHC014 spike in a wild-type backbone can efficiently use multiple orthologs of the SARS receptor human angiotensin converting enzyme II (ACE2), replicate efficiently in primary human airway cells and achieve in vitro titers equivalent to epidemic strains of SARS-CoV. Additionally, in vivo experiments demonstrate replication of the chimeric virus in mouse lung with notable pathogenesis.” This research occurred during the gain-of-function ban by Congress, but apparently allowed to go ahead since it was started before the ban came into effect. https://www.nature.com/articles/nm.3985 
+- Paper published in Nature Medicine led by Dr. Ralph Baric (University of North Carolina at Chapel Hill) and Dr. Shi Zhengli (Wuhan) describing gain-of-function research in coronaviruses in bats: “we generated and characterized a chimeric virus expressing the spike of bat coronavirus SHC014 in a mouse-adapted SARS-CoV backbone. The results indicate that group 2b viruses encoding the SHC014 spike in a wild-type backbone can efficiently use multiple orthologs of the SARS receptor human angiotensin converting enzyme II (ACE2), replicate efficiently in primary human airway cells and achieve in vitro titers equivalent to epidemic strains of SARS-CoV. Additionally, in vivo experiments demonstrate replication of the chimeric virus in mouse lung with notable pathogenesis.” This research occurred during the gain-of-function ban by Congress, but apparently allowed to go ahead since it began before the ban came into effect. https://www.nature.com/articles/nm.3985 Commentary: https://www.nytimes.com/2021/06/25/opinion/coronavirus-lab.html 
+
+17 October 2014
+ In the US, the White House Office of Science and Technology Policy (OSTP) and Department of Health and Human Services announce a moratorium on gain-of-function research, involving a pause to funding for experiments involving gain-of-function in viruses. “NIH has funded such studies because they help define the fundamental nature of human-pathogen interactions, enable the assessment of the pandemic potential of emerging infectious agents, and inform public health and preparedness efforts,” National Institutes of Health Director Francis Collins said in a statement. “These studies, however, also entail biosafety and biosecurity risks, which need to be understood better.” https://www.the-scientist.com/the-nutshell/moratorium-on-gain-of-function-research-36564  
 
 26 June 2014
-- James C.Smith elected to Pfizer’s Board of Directors (President and Chief Executive Officer (CEO) of Thomson Reuters and serves on its Board of Directors). 
+- James C.Smith, President and Chief Executive Officer (CEO) of Thomson Reuters who also serves on its Board of Directors, is elected to Pfizer’s Board of Directors. Later during the COVID-19 pandemic, Reuters articles will conveniently provide “Fact Checks” to ensure all information is consistent with the idea that Pfizer’s mRNA vaccines are safe and effective. 
 https://www.pfizer.com/news/press-release/press-release-detail/james_c_smith_elected_to_pfizer_s_board_of_directors 
 
 2 October 2013
-- DARPA Awards Moderna Therapeutics a Grant for up to $25 Million to Develop Messenger RNA Therapeutics: 
+- DARPA awards Moderna Therapeutics a grant for up to $25 Million to develop messenger RNA (mRNA) therapeutics: 
 https://investors.modernatx.com/news-releases/news-release-details/darpa-awards-moderna-therapeutics-grant-25-million-develop 
 
 
