@@ -1,3 +1,11 @@
+19 October 2021
+- In Australia, police are apparently trying to forcibly vaccinate Aboriginal people. A video on Twitter has surfaced showing them defending themselves from police officers using bow and arrow. https://twitter.com/ChooseLove777/status/1450119176824180739?s=20 
+
+18 October 2021
+- Colin Powell, 84, fully vaccinated, dies of COVID-19. The highest profile “rare”, “mild”, breakthrough case of COVID-19. USAToday: “Although dying from COVID-19 is extremely uncommon among the fully vaccinated, health experts say age and preexisting medical conditions may increase the odds of breakthrough infection, severe disease and even death.” Interesting that older people / those with preexisting medical conditions were originally the ones who were recommended to take the vaccine in the first place… https://www.usatoday.com/story/news/health/2021/10/18/vaccine-covid-19-colin-powell-high-risk/8505663002/ 
+
+- Valneva’s COVID-19 vaccine candidate, VLA2001, reports promising results from their Phase III trials. VLA2001 is a whole virus, inactivated, adjuvanted vaccine candidate that uses analogous technology to traditional vaccines. Apparently, there are less adverse events than AstraZeneca, and efficacy also appears good, with participants building immunity to S, N, and M proteins of the SARS-CoV-2 virus. It is interesting that despite not taking much longer to create, all other pharmaceutical companies like Pfizer, Moderna, chose to use a novel mRNA technology instead of proven traditional technologies. https://trialsitenews.com/valneva-reports-its-covid-19-vaccine-vla200-candidate-is-superior-to-astrazenecas-in-phase-3-cov-compare-trial/ 
+
 17 October 2021
 - Healthy 37-year-old police officer from Western Australia suffers debilitating side effects from the first Pfizer shot, including a ruptured artery to her brain, causing a stroke. Doctor tells her it is worth the risk of having another stroke to get her second shot and be fully vaccinated. https://www.facebook.com/100014682258220/posts/1249618398870890/?d=n 
 
