@@ -1,6 +1,7 @@
 ## Timeline of events
 - [Selected News Timeline](Timeline.md)
 - [COVID-19 Origins Timeline](https://empowr.us/covid-19-origins-timeline/)
+- [Shorter Origins Timeline](https://www.axios.com/timeline-the-early-days-of-chinas-coronavirus-outbreak-and-cover-up-ee65211a-afb6-4641-97b8-353718a5faab.html)
 - [Pastebin Timeline found on Reddit](https://pastebin.com/raw/QixZX44H)
 
 ## Long covid
