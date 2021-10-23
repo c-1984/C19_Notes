@@ -1,8 +1,20 @@
+23 October 2021
+- Sweden suspends Moderna vaccine indefinitely for those 30 and under due to myocarditis risks (was suspended temporarily on 6 October 2021). https://www.westernjournal.com/sweden-suspends-moderna-shot-indefinitely-vaxxed-patients-develop-crippling-heart-condition/ Archive: https://archive.ph/hzuMe 
+
+- The “Opportunity Pass”, a vaccine passport implemented in Lithuania, transforms society in just 6 weeks: the unvaccinated are segregated, treated as second-class citizens, and denied access to much of society. https://twitter.com/gluboco/status/1451714806721957891?s=21 Archive: https://archive.ph/1CXuL 
+
+22 October 2021
+- A UK government report hints that those who have been vaccinated against COVID-19 and subsequently infected with the virus, do not build full immunity. It seems that being vaccinated means they do not build as much N protein antibody compared to those who recovered while unvaccinated. This phenomenon is called “original antigenic sin” and is well-documented in some other viruses. https://boriquagato.substack.com/p/original-antigenic-sin Archive: https://archive.ph/sXH48 https://alexberenson.substack.com/p/urgent-covid-vaccines-will-keep-you/ Archive: https://archive.ph/435iG https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1027511/Vaccine-surveillance-report-week-42.pdf Archive: https://drive.google.com/file/d/1WVc5ILfH1IO21y2_GBoG5iOlulYJd7zJ/view?usp=drivesdk 
+
+- The goalposts continue to move, as reported by The Washington Post: “You’re not ‘fully vaccinated.’ You never will be. It’s a goal for communities or nations, not for individuals.” https://www.washingtonpost.com/outlook/fully-vaccinated-coronavirus/2021/10/21/d0f9a2d4-321b-11ec-93e2-dba2c2c11851_story.html Archive: https://archive.ph/7IZ6e 
+
 20 October 2021
-- Australian biotech company Vaxine sets up crowdfunding to raise funds for the approval of their locally-developed protein subunit vaccine, Covax-19, after failing to get any support from the Australian government. Covax-19 has shown strong protection against the Delta variant in a Phase 3 clinical trial in the Middle East. However, the Australian government has chosen instead to spend billions of dollars to produce UK-based AstraZeneca’s adenovirus vector vaccine: https://www.gofundme.com/f/bringing-covax19-back-to-australia 
+- Australian biotech company Vaxine sets up crowdfunding to raise funds for the approval of their locally-developed protein subunit vaccine, Covax-19, after failing to get any support from the Australian government. Covax-19 has shown strong protection against the Delta variant in a Phase 3 clinical trial in the Middle East. However, the Australian government has chosen instead to spend billions of dollars to produce UK-based AstraZeneca’s adenovirus vector vaccine: https://www.gofundme.com/f/bringing-covax19-back-to-australia Archive: https://archive.ph/mFXRT 
+
+- NIH corrects untruthful assertions by NIH Director Collins and NIAID Director Fauci that NIH had not funded gain-of-function research in Wuhan. NIH states that EcoHealth Alliance violated Terms and Conditions of NIH grant AI110964. https://mobile.twitter.com/R_H_Ebright/status/1450947395508858880 Archive: https://archive.ph/kkruA 
 
 19 October 2021
-- Massive, unreported protests in Trieste, Italy, have been occurring this whole week, with tens of thousands of people taking to the streets to protest mandatory vaccination and the Green Pass. Surprisingly, while public footage is abundant on Twitter, this is not being reported across any mainstream media. There is evidence that “live webcams” are being manipulated by replacing current footage with past footage to make it appear that the areas full of people are empty.  https://boriquagato.substack.com/p/protest-in-trieste-we-the-people https://twitter.com/BernieSpofforth/status/1450208428740255744?s=20 
+- Massive, unreported protests in Trieste, Italy, have been occurring this whole week, with tens of thousands of people taking to the streets to protest mandatory vaccination and the Green Pass. Surprisingly, while public footage is abundant on Twitter, this is not being reported across any mainstream media. There is evidence that “live webcams” are being manipulated by replacing current footage with past footage to make it appear that the areas full of people are empty.  https://boriquagato.substack.com/p/protest-in-trieste-we-the-people Archive: https://archive.ph/IzQ6s https://twitter.com/BernieSpofforth/status/1450208428740255744?s=20 
 
 - Australian Professor, Dr Thomas Borody, reports successful and safe treatment of 600 Covid-19 patients from Sydney and Melbourne with the ivermectin triple therapy protocol he has developed (ivermectin used with doxycycline and zinc). Unfortunately, the study was terminated when the Australian government banned GPs from prescribing ivermectin on 10 September 2021. https://trialsitenews.com/combination-therapy-for-covid-19-based-on-ivermectin-in-an-australian-population/ PDF: https://drive.google.com/file/d/1oqkz0qnGJYX-Mel-XFchAcW2sc1C_6pq/view?usp=sharing 
 
@@ -31,7 +43,7 @@
 13 October 2021
 - Alex Berenson brings attention to Intel, one of the only companies that is using evidence-based policy regarding the COVID-19 vaccinations, including “vaccinated employees cannot say they do not want to work with unvaccinated employees. (Policy 8.4)”. Also “Intel FORBIDS managers from asking for vaccination status. (Policy 8.13)”, and “Intel ACCEPTS antibodies as a full substitute for vaccination for people who must quarantine after a Covid exposure or for travel requirements. (Policy 1.2)”. https://alexberenson.substack.com/p/guess-which-fortune-50-company-wont https://www.intel.com/content/dam/www/central-libraries/us/en/documents/coronavirus-communication.pdf
 
-- Dr Sanjeev Gupta admits the CNN lied when they called IVM horse dewormer when referring to Joe Rogan’s treatment (2-4 September 2021). Gupta: “They shouldn’t have done that.” https://www.rev.com/blog/transcripts/joe-rogan-cnn-sanjay-gupta-podcast-transcript-ivermectin https://www.breitbart.com/health/2021/10/14/gupta-admits-cnn-should-not-have-framed-ivermectin-as-horse-dewormer/ 
+- Dr Sanjeev Gupta admits the CNN lied when they called ivermectin horse dewormer when referring to Joe Rogan’s treatment (2-4 September 2021). Gupta: “They shouldn’t have done that.” https://www.rev.com/blog/transcripts/joe-rogan-cnn-sanjay-gupta-podcast-transcript-ivermectin https://www.breitbart.com/health/2021/10/14/gupta-admits-cnn-should-not-have-framed-ivermectin-as-horse-dewormer/ 
 
 12 October 2021
 - High rate of menstrual side effects from vaccination surfaces. Pre-print research released detailing results from a survey of >39,000 women, with over half of them experiencing menstrual irregularities after COVID-19 vaccination. Notably, some groups of women who are not supposed to menstruate (those on the pill/contraceptives, women taking testosterone to transition into trans-men, women who are post-menopausal) are experiencing “breakthrough” periods at a startlingly high rate. No explanation as yet for why this is happening. https://www.medrxiv.org/content/10.1101/2021.10.11.21264863v1 
@@ -84,6 +96,9 @@ https://www.abc.net.au/news/2021-10-01/nsw-premier-gladys-berejiklian-resignatio
 
 30 September 2021
 - Health experts have been left baffled by a big rise in a common and potentially fatal type of heart attack in the west of Scotland. “During the summer there was a 25 per cent rise in the number of people rushed to the Golden Jubilee National Hospital in Clydebank with partially blocked arteries cutting blood supply to the heart.” https://www.thetimes.co.uk/article/mystery-rise-in-heart-attacks-from-blocked-arteries-m253drrnf 
+
+- A peer-reviewed analysis is published that  indicates that countries with high levels of vaccination also tend to have higher numbers of COVID-19 cases (the opposite of what we would want, see Figure 1). 
+“Increases in COVID-19 are unrelated to levels of vaccination across 68 countries and 2947 counties in the United States”: https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC8481107/ https://youtu.be/HeSJWGSnN8A 
 
 29 September 2021
 - Ontario recommends adults 18 to 24 get Pfizer COVID-19 vaccine over Moderna due to increased risk of myocarditis. https://www.cp24.com/news/ontario-recommends-adults-18-to-24-get-pfizer-covid-19-vaccine-over-moderna-due-to-increased-risk-of-rare-heart-condition-1.5605400?cache=fbiziixwm%2F7.565129 
@@ -145,7 +160,7 @@ https://www.projectveritas.com/news/federal-govt-whistleblower-goes-public-with-
 - A major study from the National Bureau of Economic Research in June, based on all-causes mortality data from 44 countries and all US states, concluded that earlier and longer lockdowns do not reduce deaths and if anything, lockdowns may increase deaths. https://www.spectator.com.au/2021/09/coronavirus-has-become-endemic-making-australias-policy-settings-obsolete/ 
 
 19 September 2021
-- Uttar Pradesh, India’s largest state of 230 million people, is almost COVID-19 free despite low vaccination rates. This is due to the availability of early treatment including IVM. The use of IVM was information that was omitted in most reporting, including in the WHO’s own coverage of the situation. For the first time, a mainstream news source (Microsoft News / MSN) has finally reported on the use of IVM here. 
+- Uttar Pradesh, India’s largest state of 230 million people, is almost COVID-19 free despite low vaccination rates. This is due to the availability of early treatment including ivermectin. The use of ivermectin was information that was omitted in most reporting, including in the WHO’s own coverage of the situation. For the first time, a mainstream news source (Microsoft News / MSN) has finally reported on the use of ivermectin here. 
 https://trialsitenews.com/msn-showcases-the-amazing-uttar-pradesh-turnaround-the-ivermectin-based-home-medicine-kits/ https://www.msn.com/en-in/news/other/uttar-pradesh-government-says-early-use-of-ivermectin-helped-to-keep-positivity-deaths-low/ar-BB1gDp5U 
 
 18 September 2021
@@ -163,7 +178,7 @@ https://trialsitenews.com/msn-showcases-the-amazing-uttar-pradesh-turnaround-the
 
 - The number of COVID-19 cases has increased over the past few months but this is misleading, because the definition of a “case” has changed. The % of cases that are asymptomatic has been gradually increasing over the past few months. “From March 2020 through early January 2021 — before vaccination was widespread, and before the Delta variant had arrived — the proportion of patients with mild or asymptomatic disease was 36 percent. From mid-January through the end of June 2021, however, that number rose to 48 percent.” https://www.theatlantic.com/health/archive/2021/09/covid-hospitalization-numbers-can-be-misleading/620062/?utm_medium=offsite&utm_source=medium&utm_campaign=all 
 
-- The COVID-19 pandemic is essentially over in many Indian states, including Uttarkhand, Uttar Pradesh, and Goa. All those states used IVM to successfully treat COVID-19 patients. 75% of India’s cases are now coming from Kerala, one of the few states where IVM has not been used. https://www.thedesertreview.com/opinion/columnists/the-ivermectin-deworming-hoax---part-ii-eric-clapton-s-human-rights-warning/article_284902bc-14be-11ec-8d43-43e98275cff8.html 
+- The COVID-19 pandemic is essentially over in many Indian states, including Uttarkhand, Uttar Pradesh, and Goa. All those states used ivermectin to successfully treat COVID-19 patients. 75% of India’s cases are now coming from Kerala, one of the few states where ivermectin has not been used. https://www.thedesertreview.com/opinion/columnists/the-ivermectin-deworming-hoax---part-ii-eric-clapton-s-human-rights-warning/article_284902bc-14be-11ec-8d43-43e98275cff8.html 
 
 - More than half of people with long Covid may not actually have long Covid, according to a new study based in Britain. https://dailysceptic.org/2021/09/16/more-than-half-of-people-with-long-covid-might-not-have-long-covid-according-to-new-research/
 
@@ -214,9 +229,9 @@ https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02046-8/fullt
 - Local news Facebook page asks for stories of those who have lost an “unvaccinated loved one to COVID-19”. Instead, most of the comments are relating to those who have suffered vaccine injuries. https://m.facebook.com/wxyzdetroit/photos/after-the-vaccines-were-available-to-everyone-did-you-lose-an-unvaccinated-loved/10158207966696135/ 
 
 10 September 2021
-- TGA announces new restrictions on prescribing IVM in Australia. Doctors are no longer allowed to prescribe it off-label for COVID-19 anymore, because apparently it would discourage people from getting vaccinated. https://www.tga.gov.au/media-release/new-restrictions-prescribing-ivermectin-covid-19  News coverage: https://www.theguardian.com/australia-news/2021/sep/10/australian-drug-regulator-bans-ivermectin-as-covid-treatment-after-sharp-rise-in-prescriptions 
+- TGA announces new restrictions on prescribing ivermectin in Australia. Doctors are no longer allowed to prescribe it off-label for COVID-19 anymore, because apparently it would discourage people from getting vaccinated. https://www.tga.gov.au/media-release/new-restrictions-prescribing-ivermectin-covid-19  News coverage: https://www.theguardian.com/australia-news/2021/sep/10/australian-drug-regulator-bans-ivermectin-as-covid-treatment-after-sharp-rise-in-prescriptions 
 
-- The Poisons Standard under the Therapeutic Goods Act 1989 has been amended to include IVM as a poison / schedule 4 substance.  https://www.tga.gov.au/scheduling-decision-final/notice-amendment-current-poisons-standard-under-paragraph-52d2a-therapeutic-goods-act-1989-0 
+- The Poisons Standard under the Therapeutic Goods Act 1989 has been amended to include ivermectin as a poison / schedule 4 substance.  https://www.tga.gov.au/scheduling-decision-final/notice-amendment-current-poisons-standard-under-paragraph-52d2a-therapeutic-goods-act-1989-0 
 
 - The Spectator releases a "just the statistics" article. Amongst various statistics on COVID-19 cases, vaccine adverse reactions, and flu statistics for comparison, this one stands out: “Covid has had an extremely negligible impact on the overall average number of deaths in Australia and the average age at death.” https://www.spectator.com.au/2021/09/just-the-facts-coronavirus-in-australia-by-the-numbers/?fbclid=IwAR1FQMOVjglzqQVv4vs_LnYfk5n7IdryjimXeiS_dfbMft0mi4xZlPl_BXU 
 
@@ -232,7 +247,7 @@ https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02046-8/fullt
 - Corruption? A company part-owned by a former vice-president of the Victorian Labor Party was awarded an $86.4 million contract by the current government, to provide COVID-19 medical and health services for quarantine hotels. This was done without the proper procurement process. https://www.theage.com.au/politics/victoria/auditor-general-queries-86-4m-hotel-quarantine-contract-20210909-p58qb7.html 
 
 8 September 2021
-- Young female fitness influencer and doctoral student gets banned from Instagram for sharing how she developed myocarditis after her vaccination. On Facebook, she writes “I am going to get my story out there. And others' stories, too. I received close to ONE THOUSAND messages from previously active, fit, healthy young people in their 20s-30s who experienced the EXACT same symptoms and received the EXACT same medical diagnosis. Yet reported cases of vaccine-induced myocarditis are "extremely rare".” https://www.facebook.com/story.php?story_fbid=4438953662828252&id=100001409871149
+- Young female fitness influencer and doctoral student gets banned from Instagram for sharing how she developed myocarditis after her vaccination. On Facebook, she writes “I am going to get my story out there. And others' stories, too. I received close to ONE THOUSAND messages from previously active, fit, healthy young people in their 20s-30s who experienced the EXACT same symptoms and received the EXACT same medical diagnosis. Yet reported cases of vaccine-induced myocarditis are "extremely rare".” https://www.facebook.com/story.php?story_fbid=4438953662828252&id=100001409871149 (unfortunately, post was removed by Facebook and I did not archive this one). 
 
 - Article from the Financial Times highlights the 17,000 flu deaths in Australia over the past year that no one is talking about due to COVID-19 hysteria (which has only resulted in two deaths in Australia to date). It’s clear that the situation is no longer about public health at this stage… https://www.afr.com/politics/federal/the-17-000-flu-linked-deaths-no-one-is-talking-about-20210903-p58oqq 
 
@@ -248,7 +263,7 @@ https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02046-8/fullt
 
 - YouTube bans videos from Sky News citing its “covid misinformation policy”. “So, the question becomes, why does a tech giant, YouTube, and faceless, nameless individuals backed by an algorithm, based in California, get to decide that holding governments and decision makers to account is ‘misinformation’? Why do they get to decide what is and isn’t allowed to be news?” https://www.theaustralian.com.au/business/media/youtube-ban-on-sky-news-videos-ridiculous-tech-giant-under-fire-at-senate-media-inquiry/news-story/02a5fe0c9704f4566e7ea1b1ca8ed781  PDF: https://t.me/covidmedicalnetworkaus/1691 
 
-- Australian anaesthetist’s medical license is suspended over promoting IVM and questioning the risks and benefits of the COVID-19 mRNA vaccines in social media posts. https://www.ausdoc.com.au/news/anaesthetist-suspended-over-covid19-vax-social-media-posts  https://www.theaustralian.com.au/nation/covid19-antivax-doctor-loses-fight-to-practice-medicine/news-story/e7d8a32a4965008239a21b9028f72901  PDF: https://t.me/covidmedicalnetworkaus/1732 
+- Australian anaesthetist’s medical license is suspended over promoting ivermectin and questioning the risks and benefits of the COVID-19 mRNA vaccines in social media posts. https://www.ausdoc.com.au/news/anaesthetist-suspended-over-covid19-vax-social-media-posts  https://www.theaustralian.com.au/nation/covid19-antivax-doctor-loses-fight-to-practice-medicine/news-story/e7d8a32a4965008239a21b9028f72901  PDF: https://t.me/covidmedicalnetworkaus/1732 
 
 - Australian Health Chief Officer Dr. Kerry Chant: “I can assure you that the commonwealth government has purchased large quantities of vaccine into 2022 and this will be a regular cycle of vaccination and revaccination as we learn more about when immunity wanes.” https://summit.news/2021/09/06/dr-chant-covid-will-be-with-us-forever-people-will-have-to-get-used-to-endless-booster-vaccines/ 
 
@@ -364,6 +379,8 @@ https://www.biorxiv.org/content/10.1101/2021.08.22.457114v1?fbclid=IwAR2TWCXcHnv
 
 - Healthy 27 year old woman who is a reporter with The Daily Telegraph gets pericarditis from the Pfizer vaccine. https://www.news.com.au/lifestyle/health/health-problems/nsw-journalist-hospitalised-after-covid-jab-backs-vaccine/news-story/e7dd26630ed72699318bd3df7c35e339 
 
+- Pedro Obiang, 29, professional football player, suffers myocarditis after COVID-19 vaccine, possible end of career. https://worldfreedomalliance.org/au/news/pedro-obiang-29-year-old-professional-footballer-suffers-myocarditis-after-covid-19-vaccines-possible-end-of-career/ Archive: https://archive.ph/Z3c4n 
+
 21 August 2021
 - From the BBC, “You get a broader immune response after being infected with the virus than vaccination”. Now the BBC are conspiracy theorists as well 😂
 https://www.bbc.com/news/health-58270098 
@@ -373,7 +390,7 @@ https://www.bbc.com/news/health-58270098
 20 August 2021
 - Burial costs covered for Canadians killed by vaccines, so that's good at least. “The department has budgeted $75 million for all claims”. https://torontosun.com/news/national/burial-costs-covered-for-canadians-killed-by-approved-vaccines/wcm/b88e097d-08da-46dc-9344-07001f9c1dc7/amp/#click=https://t.co/0tjmQSlx5K
 
-- Australian TGA approves sotrovimab, a monoclonal antibody treatment, for treatment of COVID-19. They have secured an allocation of 7,700 doses (each dose is over $2000). https://www.health.gov.au/ministers/the-hon-greg-hunt-mp/media/tga-approves-new-covid-19-treatment-for-use-in-australia?fbclid=IwAR0dT0L4-XFiQkcqLKnQ22HxpN52_Rb1IjBa-jEij1XkaaYUg7h18B_fxPE https://www.drugs.com/price-guide/sotrovimab
+- Australian TGA approves sotrovimab, a monoclonal antibody treatment, for treatment of COVID-19. They have secured an allocation of 7,700 doses (each dose is over $2000). https://www.health.gov.au/ministers/the-hon-greg-hunt-mp/media/tga-approves-new-covid-19-treatment-for-use-in-australia?fbclid=IwAR0dT0L4-XFiQkcqLKnQ22HxpN52_Rb1IjBa-jEij1XkaaYUg7h18B_fxPE https://www.drugs.com/price-guide/sotrovimab 
 
 19th August 2021
 - New Zealand goes into snap 3 day lockdown (yes the whole country) due to 1 case detected: https://www.spiked-online.com/2021/08/19/new-zealands-zero-covid-trap/amp/
@@ -383,8 +400,8 @@ https://www.bbc.com/news/health-58270098
 18 August 2021
 - Three young male athletes develop heart complications after their second vaccine dose. Doctors say “no need to panic, but we recommend taking it easy for at least one week after receiving a vaccine dose.” https://www.brusselstimes.com/belgium/181660/doctors-advise-against-intensive-sport-after-covid-vaccination/ 
 
-17th August 2021 
-- Scottish government seeks to make emergency COVID powers including lockdowns and mandates permanent so that they can apparently control “incidence or spread of infection or contamination which presents, or could present, significant harm to human health in Scotland, not just Covid”. Just unbelievable. 
+17 August 2021 
+- Scottish government seeks to make emergency COVID powers including lockdowns and mandates permanent so that they can apparently control “incidence or spread of infection or contamination which presents, or could present, significant harm to human health in Scotland, not just Covid”. 🤯
 https://www.thenational.scot/news/19518599.scottish-government-seeks-make-emergency-covid-powers-permanent/ 
 
 - The Telegraph reports that the idea of vaccine passports in the UK is no longer supported by the evidence. This is due to new variants as well as waning immunity from the current vaccines, which have now dropped to <40% in Israel. Article behind paywall, so see here: https://archive.ph/sIRUA 
@@ -423,7 +440,7 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3897733 https://theexpose.uk
 - The WHO calls for a moratorium on booster shots until the end of the year, citing concerns about disparity between richer and poorer countries in terms of their access to vaccines. https://www.washingtonpost.com/nation/2021/08/04/coronavirus-covid-live-updates-us/ 
 
 2 August 2021
-- Double blind small randomised control trial led by Prof Eli Schwartz finds that IVM is effective at reducing viral load in COVID-19 patients. The Jerusalem Post reports that they ran into controversy while trying to publish their results (see 31 May 2021): “There is a lot of opposition,” he said. “We tried to publish it, and it was kicked away by three journals. No one even wanted to hear about it”.
+- Double blind small randomised control trial led by Prof Eli Schwartz finds that ivermectin is effective at reducing viral load in COVID-19 patients. The Jerusalem Post reports that they ran into controversy while trying to publish their results (see 31 May 2021): “There is a lot of opposition,” he said. “We tried to publish it, and it was kicked away by three journals. No one even wanted to hear about it”.
 https://www.jpost.com/health-science/israeli-scientist-says-covid-19-could-be-treated-for-under-1day-675612 
 
 1 August 2021
@@ -434,15 +451,15 @@ https://www.jpost.com/health-science/israeli-scientist-says-covid-19-could-be-tr
 30 July 2021
 - CDC announces that unvaccinated and vaccinated who have been infected with Delta variant have the same viral load, indicating that the vaccines do not prevent transmission. https://www.cdc.gov/media/releases/2021/s0730-mmwr-covid-19.html 
 
-- About three-quarters of people infected in a Massachusetts COVID-19 outbreak were fully vaccinated, according to new data published Friday by the CDC: https://www.cnbc.com/2021/07/30/cdc-study-shows-74percent-of-people-infected-in-massachusetts-covid-outbreak-were-fully-vaccinated.html
+- About three-quarters of people infected in a Massachusetts COVID-19 outbreak were fully vaccinated, according to new data published Friday by the CDC: https://www.cnbc.com/2021/07/30/cdc-study-shows-74percent-of-people-infected-in-massachusetts-covid-outbreak-were-fully-vaccinated.html 
 
-- Sweden has essentially reached herd immunity which is not dependent on vaccines. "Thus the country the media loved to hate is reaping the best of all worlds: Few current cases and deaths, stronger economic growth than the lockdown countries, and its people never experienced the yoke of tyranny." https://www.aier.org/article/sweden-despite-variants-no-lockdowns-no-daily-covid-deaths/
+- Sweden has essentially reached herd immunity which is not dependent on vaccines. "Thus the country the media loved to hate is reaping the best of all worlds: Few current cases and deaths, stronger economic growth than the lockdown countries, and its people never experienced the yoke of tyranny." https://www.aier.org/article/sweden-despite-variants-no-lockdowns-no-daily-covid-deaths/ 
 
 - “In India, where the Delta variant was first identified & caused a huge outbreak — cases have plunged over the past two months…There is no clear explanation for these declines.” 🙄
-https://www.nytimes.com/2021/07/30/briefing/coronavirus-delta-mysteries.html (See also - FLCCC response here: https://covid19criticalcare.com/ivermectin-in-covid-19/epidemiologic-analyses-on-covid19-and-ivermectin/ )
+https://www.nytimes.com/2021/07/30/briefing/coronavirus-delta-mysteries.html  (See also - FLCCC response here: https://covid19criticalcare.com/ivermectin-in-covid-19/epidemiologic-analyses-on-covid19-and-ivermectin/) 
 
 29 July 2021
-- Physicians who post COVID-19 misinformation may lose license, medical panel says. (The censorship is absolutely astounding to witness):  https://www.beckershospitalreview.com/digital-marketing/physicians-who-post-covid-19-vaccine-misinformation-may-lose-license-medical-panel-says.html (and commentary here: https://boriquagato.substack.com/p/fun-fact-government-occupational/comments)
+- Physicians who post COVID-19 misinformation may lose license, medical panel says. (The censorship is absolutely astounding to witness):  https://www.beckershospitalreview.com/digital-marketing/physicians-who-post-covid-19-vaccine-misinformation-may-lose-license-medical-panel-says.html (and commentary here: https://boriquagato.substack.com/p/fun-fact-government-occupational/comments) 
 
 - Pfizer: “Alongside vaccines, success against COVID19 will likely require antiviral treatments for those who contract the virus. If successful, this oral antiviral therapy could be prescribed at the first sign of infection and provide a new treatment option that can be taken at home.”  https://twitter.com/pfizer/status/1420474141686255624?s=21 
 
@@ -468,7 +485,7 @@ https://www.globalresearch.ca/15472-dead-1-5-million-injured-50-serious-reported
 22 June 2021
 - Wall Street Journal: “Public-health authorities are making a mistake and risking the public’s trust by not being forthcoming about the possibility of harm from certain vaccine side effects.” Will this start a trend of mainstream media being more open to discussion? https://www.wsj.com/amp/articles/are-covid-vaccines-riskier-than-advertised-11624381749 
 
-- Craig Kelly MP suggests that prophylactic IVM has therapeutic potential in prevention of COVID-19, in the House of Representatives in the Australian Parliament. The video was taken off YouTube for “misinformation”. However a reupload can be found here: https://rumble.com/vjbmg7-the-case-for-ivermectin-craig-kelly-mp.html 
+- Craig Kelly MP suggests that prophylactic ivermectin has therapeutic potential in prevention of COVID-19, in the House of Representatives in the Australian Parliament. The video was taken off YouTube for “misinformation”. However a reupload can be found here: https://rumble.com/vjbmg7-the-case-for-ivermectin-craig-kelly-mp.html 
 
 21 June 2021
 - The "No Domestic COVID Vaccine Passports Bill 2021" in Australia was presented and read for the first time in the House of Representatives. The Bill proposes an Act which prohibits government/states/territories on issuing COVID vaccine passports and employers from discrimination on the basis of vaccination. https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6724_first-reps/toc_pdf/21084b01.pdf;fileType=application%2Fpdf 
@@ -485,24 +502,50 @@ https://www.globalresearch.ca/15472-dead-1-5-million-injured-50-serious-reported
 - An “urgent preliminary report of Yellow Card data” issued by the UK-based Evidence-Based Medicine Consultancy Ltd submitted to the Medicines and Healthcare Products Regulatory Agency (MHRA) states that “the MHRA now has more than enough evidence on the Yellow Card system to declare the COVID-19 vaccines unsafe for use in humans. https://americasfrontlinedoctors.org/frontlinenews/urgent-british-report-calls-for-complete-cessation-of-covid-vaccines-in-humans/ 
 
 10 June 2021
-- Weekly report released, showing that fromFeb 2021 to 6 June 2021, the Australian TGA has received 272 reports of death following SARS-CoV-2 vaccination. https://www.tga.gov.au/periodic/covid-19-vaccine-weekly-safety-report-10-06-2021#section-470 
+- Weekly report released, showing that from Feb 2021 to 6 June 2021, the Australian TGA has received 272 reports of death following SARS-CoV-2 vaccination. https://www.tga.gov.au/periodic/covid-19-vaccine-weekly-safety-report-10-06-2021#section-470 
 
 7 June 2021
 - Dr Mark Hobart, general practitioner in Sunshine, reports on serious concerns for mandatory vaccinations in Australia and lack of transparency on the risks of these vaccines by the government. Dr Hobart recommends the public to be first tested for coronavirus antibodies. Evidence shows, people with coronavirus antibodies are not only immune to coronavirus, but if vaccinated, they will be more at risk of suffering adverse effects from the vaccine. https://www.covidmedicalnetwork.com/media/interviews/asia-pacific-today/concerns-for-mandatory-vaccines.aspx 
 
+- Harvard epidemiologist and microbiologist Marc Lipsitch speaks at Brookings event titled “Why understanding the origin of COVID-19 is essential for policymakers: Discussing future regulations to prevent pandemics.” Lipsitch: “I’ve come to the view that we shouldn’t trust scientists more or less than we trust other people. We should trust science. And when scientists speak science, we should trust them, because we should recognize that they are speaking in a way that is based on evidence. When scientists express political views or policy preferences or even claims about how the world is that are not citing evidence, we should not give those scientists undue deference…They are people. We are people.”
+https://connect.brookings.edu/register-to-origin-covid-19-regulation-prevent-pandemics https://theintercept.com/2021/06/19/lab-leak-covid-origins-virology/ 
+
 31 May 2021
 - Research based in Japan notices that incidence of brain haemorrhage in Japanese women is disproportionately higher than expected after vaccination with Pfizer. They warn that further studies are needed to exclude a causal link. https://joppp.biomedcentral.com/articles/10.1186/s40545-021-00326-7 
 
-- Double-blind, small randomised control trial in Israel found IVM to effectively reduce the viral load in COVID-19 patients. https://www.medrxiv.org/content/10.1101/2021.05.31.21258081v1 
+- Double-blind, small randomised control trial in Israel found ivermectin to effectively reduce the viral load in COVID-19 patients. https://www.medrxiv.org/content/10.1101/2021.05.31.21258081v1 
+
+- Twitter is still outright removing accounts of those it seems to be spreading “COVID-19 misinformation”. “One of the pioneers of mRNA technology – Luigi Warren’s Twitter account, has been suspended for now.” https://www.indiatoday.in/technology/news/story/mrna-technology-pioneer-says-covid-19-vaccinated-people-can-shed-spike-protein-twitter-says-delete-this-1809062-2021-05-31 
+
+26 May 2021
+- CNN reports that President Biden’s team shut down State Department inquiry into whether the pandemic started by a lab leak in China: https://edition.cnn.com/2021/05/25/politics/biden-shut-down-trump-effort-coronavirus-chinese-lab/index.html 
+
+- Biden tells the intelligence community to report back in 90 days with their assessment of the lab leak theory. https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/26/statement-by-president-joe-biden-on-the-investigation-into-the-origins-of-covid-19/ 
 
 22 May 2021
 - COVID-19 vaccines have minted at least NINE new pharma billionaires - and their combined wealth is enough to buy shots for 780 MILLION people in low-income nations. https://www.dailymail.co.uk/news/article-9606183/COVID-19-vaccines-minted-NINE-new-pharma-billionaires.html 
 
 21 May 2021
-- SARS-CoV2 spike protein found to interact with heparin proteins, which favour aggregation of amyloidβ in brain. The S1 RBD can also bind directly to Aβ. “Heparin-binding site on the S1 might assist the binding of amyloid proteins to the viral surface and thus could leads to neurodegeneration in brain.” https://www.sciencedirect.com/science/article/abs/pii/S0006291X2100499X 
+- SARS-CoV-2 spike protein found to interact with heparin proteins, which favour aggregation of amyloidβ in brain. The S1 RBD can also bind directly to Aβ. “Heparin-binding site on the S1 might assist the binding of amyloid proteins to the viral surface and thus could leads to neurodegeneration in brain.” https://www.sciencedirect.com/science/article/abs/pii/S0006291X2100499X 
+
+- BBC presenter Lisa Shaw, 44, dies after Astrazeneca Covid vaccine jab: https://au.news.yahoo.com/devastated-bbc-presenter-44-dies-after-covid-vaccine-jab-064124997.html 
+
+19 May 2021
+- Kaiser Health News: “To the Bat Cave: In Search of Covid’s Origins, Scientists Reignite Polarizing Debate on Wuhan ‘Lab Leak’” KHN reports that Fauci said, “We at the NIH are very much in favor of a thorough investigation as to the origins of SARS-CoV-2.” https://khn.org/news/article/wuhan-lab-leak-coronavirus-virologists-seek-inquiry-covid-origins-bat-research/ 
+
+17 May 2021
+- Former NYT Lead Health Reporter: “How I Learned to Stop Worrying And Love the Lab-Leak Theory.” https://donaldgmcneiljr1954.medium.com/how-i-learned-to-stop-worrying-and-love-the-lab-leak-theory-f4f88446b04d 
+
+13 May 2021
+- Scientists publish letter in the journal “Science” Magazine criticizing World Health Organization report of pandemic’s origins and call for a deeper investigation. https://www.wsj.com/articles/scientists-call-for-deeper-investigation-into-covid-19-origin-11620928801?mod=article_inline 
+
+11 May 2021
+- Senator Paul and Dr. Fauci spar over U.S. research funding. Senator Rand Paul accuses Anthony Fauci of the NIH’s National Institute of Allergy and Infectious Diseases, of funding “supervirus” research in the US and “making a huge mistake” by giving this technology to China. Fauci denied the accusation: “The NIH has not ever, and does not now, fund gain-of-function research in the Wuhan Institute of Virology.” https://www.technologyreview.com/2021/06/29/1027290/gain-of-function-risky-bat-virus-engineering-links-america-to-wuhan/ 
 
 5 May 2021
 - White House Press Secretary Jen Psaki on how the Biden administration is collaborating with Big Tech to censor “misinformation”, since apparently they think the public can’t make their own decisions based on available data: “The President’s view is that the major platforms have a responsibility related to the health and safety of all Americans to stop amplifying untrustworthy content, disinformation, and misinformation, especially related to Covid19 vaccinations and elections (…) He also supports better privacy protections and a robust anti-trust program.” https://www.getrevue.co/profile/markchangizi/issues/big-tech-censorship-is-actually-government-censorship-597190 
+
+- David Baltimore discusses the furin cleavage sites in COVID-19 virus. Furin cleavages do not occur naturally in this virus and are signs of genetic engineering. Baltimore says, “When I first saw the furin cleavage site in the viral sequence, with its arginine codons, I said to my wife it was the smoking gun for the origin of the virus. These features make a powerful challenge to the idea of a natural origin for SARS2.” https://thebulletin.org/2021/05/the-origin-of-covid-did-people-or-nature-open-pandoras-box-at-wuhan/ 
 
 2 May 2021
 - Research from the Salk Institute finds that the spike protein is sufficient to cause vascular effects: “In the new study, the researchers created a “pseudovirus” that was surrounded by SARS-CoV-2 classic crown of spike proteins, but did not contain any actual virus. Exposure to this pseudovirus resulted in damage to the lungs and arteries of an animal model—proving that the spike protein alone was enough to cause disease. Tissue samples showed inflammation in endothelial cells lining the pulmonary artery walls.” https://scitechdaily.com/covid-19-is-a-vascular-disease-coronavirus-spike-protein-attacks-vascular-system-on-a-cellular-level/ 
@@ -510,25 +553,60 @@ https://www.globalresearch.ca/15472-dead-1-5-million-injured-50-serious-reported
 27 April 2021
 - An open letter signed by 40+ medical practitioners from New Zealand including 13 doctors, raising concerns about the Pfizer COMINARTY mRNA vaccine. https://kti.org.nz/?p=361 
 
+22 April 2021
+- Clinical trials of ivermectin in COVID-19 have found large, statistically significant reductions in mortality, time to clinical recovery, and time to viral clearance. Furthermore, results report significantly reduced risks of contracting COVID-19 with the regular use of ivermectin. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8088823/ 
+
+21 April 2021
+- US Postal Service (USPS) is monitoring Americans' social media in a covert surveillance effort called "iCop" (Internet Covert Operations Program): https://news.yahoo.com/the-postal-service-is-running-a-running-a-covert-operations-program-that-monitors-americans-social-media-posts-160022919.html https://www.businessinsider.com/usps-running-covert-program-that-monitors-americans-social-media-per-report https://nypost.com/2021/04/22/usps-reportedly-tracking-americans-social-media-posts/ https://www.bloomberg.com/news/articles/2021-05-21/bill-gates-s-carefully-curated-dad-geek-image-unravels-in-two-weeks https://www.foxbusiness.com/technology/usps-official-confirms-covert-social-media-tracking-operation 
+
+17 April 2021
+- “Indian Health Ambassador Gets COVID Vaccine Live on TV to Show Everyone How Safe It Is – Dies 2 Days Later”: The fear and hesitancy over the COVID-19 vaccine heightened in parts of Tamil Nadu in the wake of the death of actor Vivekh who died after a cardiac arrest on April 17, two days after he took the jab. https://www.thegatewaypundit.com/2021/05/indian-health-ambassador-gets-covid-vaccine-live-tv-show-everyone-safe-dies-2-days-later/ 
+
 13 April 2021
-- Moderna trial is unblinded and a control group of sufficient size no longer exists, “as of April 13, all placebo participants have been offered the Moderna covid-19 vaccine and 98% of those have received the vaccine.”
-https://investors.modernatx.com/news-releases/news-release-details/moderna-provides-clinical-and-supply-updates-covid-19-vaccine 
+- Moderna trial is unblinded and a control group of sufficient size no longer exists, “as of April 13, all placebo participants have been offered the Moderna covid-19 vaccine and 98% of those have received the vaccine.” https://investors.modernatx.com/news-releases/news-release-details/moderna-provides-clinical-and-supply-updates-covid-19-vaccine 
+
+- Haiti remains Latin America’s only country not to have administered a single dose of coronavirus vaccine. Even so, the country allowed itself to decline a batch of 756,000 AstraZeneca vaccines offered by the UN-backed COVAX facility. https://brazilian.report/liveblog/2021/04/13/without-vaccines-haiti-shuns-astrazeneca-doses-from-covax/ https://archive.ph/woAhv (President is assassinated 3 months later: https://www.bbc.com/news/world-latin-america-57762246) 
 
 9 April 2021
 - Australian government publishes workplace rights and obligations regarding COVID-19 vaccines: https://coronavirus.fairwork.gov.au/coronavirus-and-australian-workplace-laws/covid-19-vaccinations-and-the-workplace/covid-19-vaccinations-workplace-rights-and-obligations?fbclid=IwAR1ZwbxqyYVMalpqCCF2J7TCdDU4fbFF5_07uWDdDyEkqCsdLCLggA2efgw 
+
+2 April 2021
+- Revealed that the UK government is using covert “psychological strategies” to manipulate public behaviour during the COVID-19 pandemic. Dated March 22, the paper written by the Scientific Pandemic Influenza Group on Behaviours (SPI-B) stated: “A substantial number of people still do not feel sufficiently personally threatened; it could be that they are reassured by the low death rate in their demographic group, although levels of concern may be rising … the perceived level of personal threat needs to be increased among those who are complacent, using hard-hitting emotional messaging. To be effective this must also empower people by making clear the actions they can take to reduce the threat.” The same document presented a grid of 14 options for increasing compliance which included “use media to increase sense of personal threat”, a tactic which was seen as having a “high” effectiveness though spill-over effects “could be negative”. https://www.telegraph.co.uk/news/2021/04/02/state-fear-ministers-used-covert-tactics-keep-scared-public/ Archive 1: https://web.archive.org/web/20210402190754/https://www.telegraph.co.uk/news/2021/04/02/state-fear-ministers-used-covert-tactics-keep-scared-public/ Archive 2: https://archive.ph/MtGT6 
 
 1 April 2021
 - Pfizer and BioNTech release 6 month data for mRNA vaccine, BNT162b2, claiming 91.3% vaccine efficacy and 100% effectiveness for preventing severe hospitalisation. https://investors.pfizer.com/investor-news/press-release-details/2021/Pfizer-and-BioNTech-Confirm-High-Efficacy-and-No-Serious-Safety-Concerns-Through-Up-to-Six-Months-Following-Second-Dose-in-Updated-Topline-Analysis-of-Landmark-COVID-19-Vaccine-Study/default.aspx
 
 - FOIA request filed by a group of Australian doctors (Covid Medical Network) reveals that the TGA never saw or requested individual patient data from Pfizer and simply assumed their reporting/summaries on safety data were true. https://covidmedicalnetwork.com/open-letters/FOI-2289-relevant-documents_Redacted.pdf 
 
+30 March 2021
+- World Health Organization releases report on its investigation into the origins of COVID-19, listing the lab leak as the least likely of the possible scenarios considered. https://www.businessinsider.com.au/who-wuhan-scientists-initially-worried-coronavirus-leaked-lab-2021-3 (Hours before, WHO Director-General Tedros acknowledged lab-leak hypothesis should “remain on the table” and called for a more extensive probe: https://www.wsj.com/articles/countries-call-for-pact-to-improve-response-to-next-pandemic-11617100287?mod=djemalertNEWS). 
+
+- The United States, Australia, Japan, Canada, UK and other governments express concern over the WHO investigation and called for “transparent and independent analysis and evaluation, free from interference and undue influence.” https://www.wsj.com/articles/countries-call-for-pact-to-improve-response-to-next-pandemic-11617100287?mod=djemalertNEWS 
+
+- YouTube starts hiding like counts for certain channels and videos. https://www.androidpolice.com/2021/03/30/youtube-tests-hiding-dislike-counts-since-everyone-out-theres-awful/ (Dislikes are also being removed from White House videos, likely as they are being “ratioed” with a high proportion of dislikes: https://m.beforeitsnews.com/opinion-conservative/2021/04/youtube-removes-2-5-million-dislikes-from-biden-white-house-videos-3573558.html https://m.theepochtimes.com/youtube-to-test-hiding-dislikes-following-massive-dislike-counts-on-white-house-channel-videos_3757595.html). 
+
+26 March 2021
+- Former CDC Director says he thinks the virus came from a lab in Wuhan: "The most likely origin 'was from a laboratory -- you know, escaped,' said Redfield, who served during former President Donald Trump’s administration. 'Other people don’t believe that. That’s fine. Science will eventually figure it out.'" https://www.bloomberg.com/news/articles/2021-03-26/former-cdc-chief-says-he-thinks-coronavirus-came-from-wuhan-lab 
+
+25 March 2021
+- Environmental Chemistry Letters: “More than a year after the initial documented cases in Wuhan, the source of SARS-CoV-2 has yet to be identified, and the search for a direct or intermediate host in nature has been so far unsuccessful. While a natural origin is still possible and the search for a potential host in nature should continue, the amount of peculiar genetic features identified in SARS-CoV-2′s genome does not rule out a possible gain-of-function origin, which should be therefore discussed in an open scientific debate.” https://link.springer.com/article/10.1007/s10311-021-01211-0 
+
 23 March 2021
-- Pfizer announces phase 1 trials for its new antiviral drug which will be in a pill form. The drug has showed potent inhibition of the SARS-CoV-2 virus in vitro but not yet in vivo. “Tackling the COVID-19 pandemic requires both prevention via vaccine and targeted treatment for those who contract the virus.” Wow. If only we already had drugs with antiviral activity and effectiveness shown through 40+ peer reviewed studies! 🤦‍♀️ https://www.pfizer.com/news/press-release/press-release-detail/pfizer-initiates-phase-1-study-novel-oral-antiviral 
+- Pfizer announces phase 1 trials for its new antiviral drug which will be in a pill form. The drug has showed potent inhibition of the SARS-CoV-2 virus in vitro but not yet in vivo. “Tackling the COVID-19 pandemic requires both prevention via vaccine and targeted treatment for those who contract the virus.” (Wow. If only we already had drugs with antiviral activity and effectiveness shown through 40+ peer reviewed studies! 🤦‍♀️) https://www.pfizer.com/news/press-release/press-release-detail/pfizer-initiates-phase-1-study-novel-oral-antiviral 
 
 22 March 2021
 - Preprint research find that a second dose of Pfizer SARS-CoV2 vaccine has different effects on naive vs COVID-recovered patients. “On the contrary, the second BNT162b2 vaccine dose results in a reduction of cellular immunity in COVID-19 recovered individuals, which suggests that a second dose, according to the current standard regimen of vaccination, may be not necessary in individuals previously infected with SARS-CoV-2.” https://www.biorxiv.org/content/10.1101/2021.03.22.436441v1 
 
 - A GP from Celbridge was suspended for refusing to administer SARS-CoV-2 vaccines to his patients. “My problem primarily is that I don’t think the pathogenicity of Covid is sufficiently severe to a. cause lockdowns or b. use a messenger RNA [vaccine],” he said as he expressed concern over the safety of the shots” https://www.irishtimes.com/news/health/gp-suspended-by-medical-council-over-refusal-to-give-covid-19-vaccine-1.4516239 
+
+- Reporter and journalism professor, Alison Young, writes an essay for USA Today. “'Science, like journalism, is supposed to be about facts and about getting to the truth. But those who dare seek answers to reasonable questions about lab accidents and Wuhan are accused of peddling conspiracies.' Young added that journalists are not reporting and act with derision toward the idea of a lab escape." https://eu.usatoday.com/in-depth/opinion/2021/03/22/why-covid-lab-leak-theory-wuhan-shouldnt-dismissed-column/4765985001/ 
+
+21 March 2021
+- President Andry Rajoelina of Madagascar is not keen on the COVID-19 vaccines, saying there were ‘too many side-effects’ to start mass vaccinations. “Personally I have not yet been vaccinated and I do not have any intention of getting vaccinated,” he said in a televised address late on Saturday. https://www.scmp.com/news/world/africa/article/3126357/nothing-worry-about-madagascar-spurns-covid-19-vaccines-favour Archive: https://archive.ph/W2oIq 
+
+17 March 2021
+- John Magufuli, African president of Tanzania dies of "heart condition" at age 61. Magufuli was a Covid-19 skeptic and was the guy that famously tested the goat, pawpaw, and sheep for COVID-19. 
+His replacement is on board with the COVID-19 agenda. https://www.aljazeera.com/news/2021/3/17/tanzanian-president-john-magufuli-is-dead-vp 
 
 11 March 2021
 - Getting vaccinated with Pfizer after recovering with natural immunity actually reduces immunity. This suggests that people who have natural immunity should not be further immunised through vaccination: https://www.biorxiv.org/content/10.1101/2021.03.22.436441v1 
@@ -537,47 +615,267 @@ https://investors.modernatx.com/news-releases/news-release-details/moderna-provi
 - AHPRA puts out a position statement to discourage registered health practitioners and students from speaking out on potential concerns regarding the SARS-CoV-2 vaccinations: "Any promotion of anti-vaccination statements or health advice which contradicts the best available scientific evidence or seeks to actively undermine the national immunisation campaign (including via social media) is not supported by National Boards and may be in breach of the codes of conduct and subject to investigation and possible regulatory action." 
 https://www.ahpra.gov.au/documents/default.aspx?record=WD21%2F30751&dbid=AP&chksum=zrOQ56xJaaLbasNxLDyqMA%3D%3D&TSPD_101_R0=08c403b005ab2000762c6494c4afaeef3e0b400a75a3ae75a3b23ff4bd293ecf302867c5568a0f610871432fbc1430005d979400c652fa06bef674ebfe80703c79a6ddb8701d7d9db431958015b98c7c66603db5b8f3210e50dbcb2a03bd6311  Backup: https://www.docdroid.net/q3LC0Nl/ahpra-position-statement-covid-19-vaccination-position-statement-pdf 
 
+6 March 2021
+- The Washington Post calls for serious investigations of lab-leak hypothesis. They mention the gain-of-function coronavirus work that Dr Shi Zhengli was working on in Wuhan, and raise the question of: “Could a worker have gotten infected or inadvertent leakage have touched off the outbreak in Wuhan? (The “conspiracy theorists” have suspected this since late 2019). https://www.washingtonpost.com/opinions/global-opinions/the-who-needs-to-start-over-in-investigating-the-origins-of-the-coronavirus/2021/03/05/6f3d5a0e-7de9-11eb-a976-c028a4215c78_story.html 
+
+4 March 2021
+- Multiple researchers sign a public letter calling for an open investigation of the pandemic’s origin. https://www.nytimes.com/interactive/2021/03/04/us/covid-origins-letter.html 
+
+13 February 2021
+- U.S. National Security Advisor Jake Sullivan expresses “deep concerns” about the WHO’s COVID-19 investigation, calling on China to be more transparent. https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/13/statement-by-national-security-advisor-jake-sullivan/ 
+
 11 February 2021
 - Harvard researchers find that overweight individuals are more likely to become “super spreaders”: “Those who were older with higher body mass indexes (BMI) and an increasing degree of covid-19 infection had three times the number of exhaled respiratory droplets as others in the study groups.” https://www.livemint.com/news/india/obese-and-aged-having-covid-19-you-can-be-a-super-spreader/amp-11613029343470.html 
 
+10 February 2021
+- Facebook places a warning on an article by Ian Birrell about the origins of COVID-19. https://unherd.com/2021/02/the-whos-covid-shame/ (Later in May 2021, Facebook says these warnings reduces article viewership by 95%. https://unherd.com/2021/05/how-facebook-censored-the-lab-leak-theory/) 
+
 2 February 2021
+- YouTube Cancels the U.S. Senate, censoring testimony from physicians on early treatments like ivermectin for COVID-19 patients. https://www.wsj.com/articles/youtube-cancels-the-u-s-senate-11612288061
+
 - NPR on waning vaccine immunity due to evolution of the SARS-CoV-2 virus: “We're not going to fall off a cliff tomorrow in terms of vaccine efficacy. What we're likely to see is a slow, steady erosion of efficacy over, perhaps, quite a long period of time.” https://www.npr.org/2021/02/09/965703047/vaccines-could-drive-the-evolution-of-more-covid-19-mutants
 
 26 January 2021
 - Vaccine rollout in Israel results in new adverse events like paresthesia and facial nerve paralysis that were not picked up in the Pfizer-BioNTech clinical trial. Prof. Galia Rahav, chief of the Infectious Disease Unit and Laboratories at the Sheba Medical Center: “At the beginning, they [Pfizer] said that it was just hysterical women, but it doesn’t seem that way, because we’re seeing this with men as well.” https://www.israelnationalnews.com/News/News.aspx/295623 
 
+9 January 2021
+- Peter Daszak has funded research by Shi Zhengli at the Wuhan Institute of Virology and should not be part of a World Health Organization investigation of her lab because of this conflict of interest. https://www.dailymail.co.uk/news/article-9129749/How-Peter-Daszak-WHOs-team-investigating-original-source-outbreak.html 
+
 6 January 2021
 - Agreement between the State of Israel , the Israeli Ministry of Health, and Pfizer Inc. is released, describing how Pfizer’s vaccine will be rolled out in Israel. This agreement indicates that Israel will provide data to Pfizer about its experimental novel-technology mRNA COVID-19 vaccine, so that Pfizer can determine "whether herd immunity is achieved after reaching a certain percentage of vaccination coverage in Israel". It is not clear what benefits Israel is getting in return for this agreement. https://govextra.gov.il/media/30806/11221-moh-pfizer-collaboration-agreement-redacted.pdf Backup: https://drive.google.com/file/d/1SyV0SBNDyg7259DDB3TZL99CNP2G33CG/view?usp=sharing 
 
+30 December 2020
+- AP investigation finds documents from March 2020 showing how Beijing has shaped and censored research into origins of SARS-CoV-2. https://apnews.com/article/united-nations-coronavirus-pandemic-china-only-on-ap-bats-24fbadc58cee3a40bca2ddf7a14d2955 
+
+27 December 2020
+- Twitter deems peer-reviewed research “misinformation”, as it quietly removes an account @CovidAnalysis run by scientists sharing peer-reviewed research. This account only posted links to peer-reviewed articles that gave evidence for early treatments including ivermectin and hydroxychloroquine in the treatment of COVID-19. The account did not provide commentary or any controversial takes, besides the titles of the articles and links to them. There was no notification or warning before the account was deleted and Twitter has been unresponsive since. https://ivmmeta.com/twitter.html https://archive.ph/wyf1Y 
+
+21 December 2020
+- BBC journalists report trying to reach to visit the Mojiang mine area in China’s southwestern province of Yunnan, but Chinese police and security forces block them. https://www.bbc.com/news/world-asia-china-55364445 
+
 10 December 2020
-- Research comes out showing that using N protein as antigen rather than spike protein is likely better, since mutations don’t occur there often (whereas the spike protein is the most quickly evolving):  https://theconversation.com/covid-vaccines-focus-on-the-spike-protein-but-heres-another-target-150315 
+- Research comes out showing that using N protein as antigen rather than spike protein is likely better for vaccination against COVID-19, since mutations don’t occur there often (whereas the spike protein is the most quickly evolving):  https://theconversation.com/covid-vaccines-focus-on-the-spike-protein-but-heres-another-target-150315 
 
 - FDA emphasises importance of the placebo group referring to vaccine clinical trials: “Placebo controlled follow-up can be very important in showing that whatever happened in the vaccine group also happened in the placebo group. Because that’s our best way of knowing.”
 https://www.fda.gov/media/144859/download 
 
+- Trusted News Initiative (TNI) to combat spread of harmful vaccine disinformation and announces major research project. “The Trusted News Initiative partners will continue to work together to ensure legitimate concerns about future vaccinations are heard whilst harmful disinformation myths are stopped in their tracks."
+https://www.bbc.com/mediacentre/2020/trusted-news-initiative-vaccine-disinformation 
+
 2 December 2020
 - CDC says that people without COVID-19 symptoms do not need testing. https://www.nytimes.com/2020/08/25/health/covid-19-testing-cdc.html 
+
+1 December 2020
+- I think we need to avoid the trap of thinking that information or knowledge is enough, because for a lot of people, and when you look at hesitancy and parental vaccine hesitancy in the US, the group who is most likely to purposefully choose to not vaccinate are highly educated.In speaking with them, these are people who have read the primary literature themselves, and they're correctly interpreting it, so it's not a misunderstanding. They have other concerns that go beyond the traditional public health message of, 'This is what you should be doing.'" -Emily Brunson, MPH, Ph.D., Associate Professor of Anthropology at Texas State University From "Guide to COVID-19 vaccine communications: A practitioner's guide to the principles of COVID-19 vaccine communications."
+https://digitallibrary.un.org/record/3894424/files/VaccineCommsPrinciples.pdf https://covid19vaccinescommunicationprinciples.org/the-principles/narratives/ 
 
 26 November 2020
 - AstraZeneca vaccine initial results released and the “average efficacy” against COVID-19 infection is reported as a somewhat misleading 70%. “About 3,000 participants were given the half dose and then a full dose four weeks later, and this regime appeared to provide the most protection or efficacy in the trial - around 90%. In the larger group of nearly 9,000 volunteers, who were given two full doses also four weeks apart, efficacy was 62%. AstraZeneca reported these percentages and also said that its vaccine was, on average, 70% effective at preventing Covid-19 illness.” https://www.bbc.com/news/health-55086927 
 
+24 November 2020
+- PNAS publishes opinion article by David Relman about the need to investigate the true origins of SARS-CoV-2 so that we can prevent “the next pandemic”. “Even though a definitive answer may not be forthcoming, and even though an objective analysis requires addressing some uncomfortable possibilities, it is crucial that we pursue this question.” https://www.pnas.org/content/117/47/29246 
+
 20 November 2020
 - WHO recommends against the use of remdesivir in COVID-19 patients, finding no evidence that it works. https://www.who.int/news-room/feature-stories/detail/who-recommends-against-the-use-of-remdesivir-in-covid-19-patients
+
+18 November 2020
+- US Right to Know releases emails showing that Peter Daszak of EcoHealth Alliance orchestrated the February 2020 letter in The Lancet calling lab leak a “conspiracy.” https://usrtk.org/biohazards-blog/ecohealth-alliance-orchestrated-key-scientists-statement-on-natural-origin-of-sars-cov-2/ 
+
+17 November 2020
+- The genetic structure of SARS-CoV-2 does not rule out a laboratory origin: SARS-COV-2 chimeric structure and furin cleavage site might be the result of genetic manipulation. https://onlinelibrary.wiley.com/doi/full/10.1002/bies.202000240 
+
+- Shi Zhengli publishes a correction called an “addendum” to her Nature paper. She discloses that RaTG13 is 4991 and was collected from a Mojiang mine, not a fungus as was originally claimed on 11 March 2020. https://www.nature.com/articles/s41586-020-2951-z 
 
 13 November 2020
 - WHO changes the definition of herd immunity from “indirect protection that occurs when a population is immune either through vaccination or immunity developed through previous infection” to “a concept used for vaccination, in which a population can be protected from a certain virus if a threshold of vaccination is reached. Herd immunity is achieved by protecting people from a virus, not from exposing them to it”. https://www.aier.org/article/who-deletes-naturally-acquired-immunity-from-its-website/ 
 
+22 October 2020
+ “Vaccines and Related Biological Products Advisory Committee” meeting streamed by CDC/FDA on YouTube. At 2:33:40, for a split second, a slide showing “DRAFT Working list of possible adverse event outcomes ***Subject to change***” is shown. These include myocarditis/pericarditis, autoimmune diseases, venous thromboembolism, vaccine enhanced disease, amongst others. This shows that both CDC and FDA were aware of the potential for the vaccines to cause these adverse effects (although this slide was not discussed in this almost 9-hour long meeting). https://youtu.be/1XTiL9rUpkg?t=2h33m40s (Later, in September 2021, it comes to light that the sample used in the Pfizer trial is healthier than the general population, meaning that perhaps the trials were designed to minimise the amount of adverse events arising in the vaccinated: https://www.sciencedirect.com/science/article/pii/S221475002100161X) 
+
+22 September 2020
+- Gerd Müller, minister for the Federal Ministry for Economic Cooperation and Development in Germany, in an interview for Handelsblatt, says that: "It is already becoming apparent that the economic collateral damage of the pandemic is primarily affecting developing and emerging countries. We are talking about two thirds of humanity. The pandemic has triggered one of the biggest economic crises and, as a consequence, one of the biggest poverty and hunger crises. Far more people will die from the consequences of the lockdowns than from the virus." https://handelsblatt.com/politik/deutschland/coronakrise-entwicklungsminister-mueller-an-den-folgen-der-lockdowns-werden-weit-mehr-menschen-sterben-als-am-virus/26209144.html https://web.archive.org/web/20200928211421/https://app.handelsblatt.com/politik/deutschland/coronakrise-entwicklungsminister-mueller-an-den-folgen-der-lockdowns-werden-weit-mehr-menschen-sterben-als-am-virus/26209144.html?ticket=ST-3495169-gbKLeVFKeXigztU5Kvlb-ap2 
+
+14 September 2020
+- Coronavirus researcher Ralph Baric says in an interview with Italian television on the origin of SARS-CoV-2, “You can engineer a virus without leaving any trace. However, the answers you are looking for can only be found in the archives of the Wuhan laboratory.” https://www.huffingtonpost.it/entry/e-possibile-creare-un-virus-in-laboratorio-senza-lasciare-traccia-la-risposta-dellesperto_it_5f5f3993c5b62874bc1f7339 
+
+27 August 2020
+- The National Institutes of Health awards $7.5 million grant to EcoHealth Alliance. The grant was in the process of evaluation when the NIH canceled another EcoHealth Alliance grant back in April.https://www.statnews.com/2020/08/27/nih-awards-grant-to-ecohealth-alliance-months-after-uproar-over-political-interference/ 
+
+5 August 2020
+- Blackstone to acquire Ancestry.com for $4.7 billion. Ancestry.com is the world’s largest provider of DNA services, allowing customers to trace their genealogy and identify genetic health risks with tests sent to their home. https://www.reuters.com/article/us-ancestry-m-a-blackstone-group-idUSKCN2512ES 
+
+31 July 2020
+- Segment on FOX News highlights the absurdity of the changing narrative regarding face masks, from “don't wear a face mask” to “wear a face mask to protect yourself” to “it doesn't protect you but wear one to protect others” and now we need a “face shield to protect ourselves” and “goggles” to prevent droplets from getting in our eyes. 🙃 https://youtu.be/T7MCRtphqVw Archive 1: https://mega.nz/file/cgARwawa#4oe2ZqeZu10apf68d8TQD91JkvJH5Sag-jsvANPvxAs Archive 2: https://coronacircus.com/wp-content/uploads/2020/08/wear-goggles-you-sheep.mp4 
+
+30 July 2020
+- Forbes: “You Must Not ‘Do Your Own Research’ When It Comes To Science”. “It’s absolutely foolish to think that you, a non-expert who lacks the very scientific expertise necessary to evaluate the claims of experts, are going to do a better job than the actual, bona fide experts of separating truth from fiction or fraud.” (This is not a satire article. Possibly priming the public to only trust experts and authorities rather than their own common sense and observations of what is going on around them?) https://www.forbes.com/sites/startswithabang/2020/07/30/you-must-not-do-your-own-research-when-it-comes-to-science/?sh=4a5aa4c1535e Archive: https://archive.ph/4ryRk 
+
+- Daily Mail: “Lockdown 'caused up to 21,000 extra deaths - many due to reduced access to healthcare', shocking study claims”: https://www.dailymail.co.uk/news/article-8574317/Lockdown-caused-21-000-extra-deaths-reduced-access-healthcare.html Archive: https://archive.ph/1irie 
+
+29 July 2020
+- ‘We see no point in wearing a face mask,’ Sweden’s top virus expert says as he touts the country’s improving COVID numbers: https://fortune.com/2020/07/29/no-point-in-wearing-mask-sweden-covid/ https://archive.ph/22j13 
+
+26 July 2020
+- CDC document published, “Interim Operational Considerations for Implementing the Shielding Approach to Prevent COVID-19 Infections in Humanitarian Settings”. The document discusses about establishing "camps" and "green zones" for "high-risk individuals." (What happens when they declare the unvaccinated "high risk individuals?) https://www.cdc.gov/coronavirus/2019-ncov/global-covid-19/shielding-approach-humanitarian.html 
+
+24 July 2020
+- Klaus Schwab, in opening remarks to World Economic Forum, warns of a cyber-attack that will make COVID-19 look trivial in comparison: “We all know, but still pay insufficient attention to the frightening scenario of a comprehensive cyber-attack which would bring a complete halt to the power supply, transportation, hospital services - our society as a whole. The COVID-19 crisis would be seen in this respect as a small disturbance in comparison to a major cyber-attack.” 
+https://www.youtube.com/watch?v=EOvz1Flfrfw&t=402s 
+
+- CNBC: “Trained dogs were able to sniff out Covid-19 infections with 94% accuracy: study”. https://www.cnbc.com/amp/2020/07/24/trained-dogs-sniffed-out-covid-19-infections-with-high-accuracy-study.html 
+
+21 July 2020
+- Sweden's Public Health Agency decides to not use the PCR-test anymore. “The PCR technology used in tests to detect viruses cannot distinguish between viruses capable of infecting cells and viruses that have been rendered harmless by the immune system, and therefore these tests cannot be used to determine whether someone is infectious or not.” 
+https://www.folkhalsomyndigheten.se/publicerat-material/publikationsarkiv/v/vagledning-om-kriterier-for-bedomning-av-smittfrihet-vid-covid-19/ https://archive.ph/8RePF 
+
+8 July 2020
+- NIH offers to reinstate an EcoHealth Alliance grant. However this is on the condition that EcoHealth addresses NIH concerns regarding transparency of reporting and safety requirements. https://republicans-oversight.house.gov/wp-content/uploads/2021/05/Eco-Health-Lab-letter-July-8.pdf 
+
+4 July 2020
+- The closest known relative to the COVID-19 virus is RaTG13 which was found in 2013 by Chinese scientists in a mine and was linked to deaths caused by a coronavirus-type respiratory illness. https://archive.is/20201231163621/https:/www.thetimes.co.uk/article/seven-year-covid-trail-revealed-l5vxt7jqp#selection-1701.0-1701.6 
+
+3 July 2020
+- AstraZeneca to be exempt from coronavirus vaccine liability claims in most countries. “This is a unique situation where we as a company simply cannot take the risk if in ... four years the vaccine is showing side effects,” Ruud Dobber, a member of Astra’s senior executive team, told Reuters. https://www.reuters.com/article/us-astrazeneca-results-vaccine-liability-idUSKCN24V2EN Archive: https://archive.ph/nqrDw 
+
+29 June 2020
+- Forbes: “Yes, Apple/Google COVID-19 Tracking Is Now On Your Phone”: https://www.forbes.com/sites/zakdoffman/2020/06/29/serious-new-blow-for-apple-and-google-as-covid-19-phone-tracking-is-rejected https://ktla.com/morning-news/technology/covid-tracking-iphone-android-update/ 
+
+10 June 2020
+- Soon after the Black Lives Matter protests from 30 April 2020, mainstream media including TIME and CNN give positive publicity to doctors who supported the protests despite the lockdown restrictions in place. “Risking coronavirus pales in comparison to all the other ways we can die,” says Dr. Dorothy Charles, a family medicine resident at the University of Illinois College of Medicine and an organizer at the racial-justice group White Coats for Black Lives. “Addressing the root causes [of racial inequality] is more imperative at this point than staying at home.” (I shit you not, this is not a satire article. 🙃) https://time.com/5848212/doctors-supporting-protests/ Archive: https://archive.ph/bgbSO 
+https://edition.cnn.com/2020/06/05/health/health-care-open-letter-protests-coronavirus-trnd/index.html 
+https://coronacircus.com/wp-content/uploads/2020/06/Open-Letter-Covid-BLM.pdf 
+
+8 June 2020
+- The science magazine Undark reports that the lab leak is a conspiracy theory “that’s been broadly discredited.” https://undark.org/2020/06/08/for-experts-who-study-coronaviruses-a-grim-vindication/ 
+
+- BBC reports life as normal in Sweden, despite lockdowns happening all over the world, including in the UK where this footage was aired on television. The video gives a favourable impression of the pandemic response in Sweden, with pubs, restaurants, schools, and shops still open. https://www.bbc.com/news/av/world-europe-52930886 Archive 1: https://mega.nz/file/g1wy2AqB#5Z18BvKw9NPUV-jpewdWiqaOUnHxcMe6RMzocpWTaL8 Archive 2: https://coronacircus.com/wp-content/uploads/2020/06/Swapping%20lockdown%20for%20Sweden%20-%20BBC%20News.mp4 
+
+- Pierre Nkurunziza, African president of Burundi, dies of "heart attack" unexpectedly at age 55. Nkurunziza had not imposed COVID-19 restrictions in the country, and allowed big sports events and political demonstrations to continue. https://www.smh.com.au/world/africa/burundi-s-president-pierre-nkurunziza-dies-of-heart-attack-aged-56-20200610-p5510t.html 
+
+2 June 2020
+- New York Post: “Couples should wear face masks during sex, new study insists”: https://nypost.com/2020/06/02/couples-should-wear-face-masks-during-sex-new-study-insists/ Archive: https://archive.ph/GV3gw 
+
+27 May 2020
+- Nature reports lab leak hypothesis as “coronavirus misinformation” and “false information.” https://www.nature.com/articles/d41586-020-01452-z 
+
+24 May 2020
+- Preprint research released, indicating SARS-CoV-2 is most related to RaTG13, a beta corona virus derived from bats by 96%. But RaTG13 is 100% similar to BtCoV/4991. Shi Zhengli reported that BtCoV/4991 came from bat faeces sampled in an abandoned mine from Mojiang. This research provides further evidence that the origin of SARS-CoV-2 may have arisen through gain of function experiments potentially in bats. https://www.preprints.org/manuscript/202005.0322/v2 
+
+23 May 2020
+- Australian researchers publish a preprint that says the SARS-CoV-2 virus appears “uniquely adapted to infect humans” and that origins of the virus could be natural or could have occurred in a laboratory. https://www.dailymail.co.uk/news/article-8351091/Top-vaccine-scientist-says-coronavirus-come-animal-freak-nature.html 
+
+22 May 2020
+- Surgisphere scandal comes to light. Surgisphere is an American Healthcare Analytics company that came under scrutiny in May 2020 after it had provided large datasets of COVID-19 patients which were subsequently found to be extremely unreliable. The questionable data was used in studies published in the The Lancet and The New England Journal of Medicine in May 2020, suggesting that COVID-19 patients on hydroxychloroquine had a "significantly higher risk of death." In light of these studies, the World Health Organization decided to temporarily halt global trials of the drug hydroxychloroquine to treat COVID-19. “It sounds absurd that an obscure US company with a hastily constructed website could have driven international health policy and brought major clinical trials to a halt within the span of a few weeks. Yet that’s what happened earlier this year, when Illinois-based Surgisphere Corporation began a publishing spree that would trigger one of the largest scientific scandals of the COVID-19 pandemic to date." https://www.the-scientist.com/features/the-surgisphere-scandal-what-went-wrong--67955 https://www.sciencemag.org/news/2020/06/whos-blame-these-three-scientists-are-heart-surgisphere-covid-19-scandal 
+
+21 May 2020
+- The New York Times depicts Wuhan Institute of Virology as the victim of “conspiracy theories.” https://www.nytimes.com/2020/05/21/health/wuhan-coronavirus-laboratory.html 
+
+18 May 2020
+- New York governor Cuomo, of all people, stated that “most coronavirus cases are from people staying at home”, something that was apparently “shocking” to him. https://www.forbes.com/sites/lisettevoytko/2020/05/18/cuomo-said-most-coronavirus-cases-are-from-people-staying-at-home-public-health-experts-have-a-few-ideas-why/ Archive: https://archive.fo/IPv8x 
+
+15 May 2020
+- Operation Warp Speed: White House announced Operation Warp Speed to accelerate development, production, and distribution of COVID-19 vaccines, therapeutics, and diagnostics to produce and deliver 300 million doses of safe and effective vaccines with the initial doses available by January 2021. https://www.defense.gov/Explore/Spotlight/Coronavirus/Operation-Warp-Speed/ 
+
+14 May 2020
+- Despite lockdowns across the world, Sweden is keeping most of its society open, including pubs and restaurants. A poll in Dagens Nyheter showed 70% of the population in Sweden had a high degree of trust in Sweden’s approach. Moreover, trust in Sweden's public health agency has increased since the coronavirus pandemic began. https://www.forbes.com/sites/heatherfarmbrough/2020/05/14/why-swedens-approach-to-coronavirus-may-not-be-what-you--think/?sh=38e6c7832464 
+
+10 May 2020
+- A staffer of Germany's Federal Ministry of the Interior-turned whistleblower, leaks a 93-page internal report which shows that an expert panel considered the dangerousness of Covid-19 to be overestimated, as people who die from the novel coronavirus are essentially those who would statistically die. The report also mentions the possibility that more people will die because of the state-imposed lockdown measures than are being killed by the virus. “Therapeutic and preventive measures should never bring more harm than the illness itself. Their aim should be to protect the risk groups, without endangering the availability of medical care and the health of the whole population, as it is unfortunately occurring […] We in the scientific and medical praxis are experiencing the secondary damages of the Corona-measures on our patients on a daily basis.” https://archive.ph/20200623201100/https://www.strategic-culture.org/news/2020/05/29/german-official-leaks-report-denouncing-corona-as-global-false-alarm  https://web.archive.org/web/20200510211449/https://www.ichbinanderermeinung.de/Dokument93.pdf http://web.archive.org/web/20200512130004/https://www.achgut.com/images/uploads/afqktxhppam7qh5d/200508_Versendung_Bericht_an_Krisenstab_01.pdf https://archive.ph/20200623201045/https://deutsch.rt.com/inland/102396-umstrittene-bmi-analyse-wissenschaftler-kritisieren https://dokument.pub/german-official-leaks-report-denouncing-corona-as-a-global-false-alarm-flipbook-pdf.html 
+
+9 May 2020
+- 10,000 Germans in Stuttgart are protesting government lockdown measures. “Germans are saying no to any orwellian solution the government might one day impose out of a questionable “emergency status”, from mass surveillance Apps to mandatory vaccinations.” https://www.dw.com/en/germany-thousands-of-protesters-slam-isolation-measures/a-53382891 https://m.bild.de/regional/stuttgart/muenchen-aktuell/proteste-gegen-corona-massnahmen-in-stuttgart-10000-kommen-zur-querdenker-demo-75949664.bildMobile.html#%23%23wt_ref=https%3A%2F%2Fyandex.com&wt_t=1634943501602 https://dokument.pub/german-official-leaks-report-denouncing-corona-as-a-global-false-alarm-flipbook-pdf.html 
+
+7 May 2020
+- A letter from Archbishop Carlo Maria Vigano, Vatican’s former ambassador to the United States, and others warns, that: "There are powers interested in creating panic among the world’s population with the sole aim of permanently imposing unacceptable forms of restriction on freedoms, of controlling people and of tracking their movements. The imposition of these illiberal measures is a disturbing prelude to the realization of a world government beyond all control." https://veritasliberabitvos.info/appeal/ https://web.archive.org/web/20201006082959/https://veritasliberabitvos.info/appeal/ https://web.archive.org/web/20200510095732/https://veritasliberabitvos.info/signatories/ 
+
+- U.S. Field Hospitals Stand Down, Most Without Treating Any COVID-19 Patients: "...the Army Corps of Engineers mobilized in the U.S., hiring private contractors to build emergency field hospitals around the country. The endeavor cost more than $660 million, according to an NPR analysis of federal spending records. But nearly four months into the pandemic, most of these facilities haven't treated a single patient." https://www.npr.org/2020/05/07/851712311/u-s-field-hospitals-stand-down-most-without-treating-any-covid-19-patients 
+
+5 May 2020
+- Tanzanian president John Magufuli in a speech broadcast live through state-run Tanzania Broadcasting Corporation (TBC) said that he sent samples from a papaya, a quail and a goat to a lab that is connected to the WHO, all came back positive. He speculated that: "the equipment or people may be compromised and sometimes it can be sabotage, since they are otherwise capable to detect diseases reliably". He dies a year later of a "heart attack". https://www.zerohedge.com/geopolitical/we-sent-them-samples-goat-papaya-pheasant-tanzanian-president-catches-who-epic-lie https://web.archive.org/web/20200510182518/https://www.zerohedge.com/geopolitical/we-sent-them-samples-goat-papaya-pheasant-tanzanian-president-catches-who-epic-lie https://mobile.twitter.com/RadioAN24/status/1258820803015122947?p=v http://archive.is/Xe9Ng 
+
+2 May 2020
+- Dr. Bing Liu, 37, was discovered by Ross Township police in his home with gunshots to his head, neck, torso, and extremities, according to a statement from the department. A second man, identified as 46-year-old Hao Gu, was found dead in his vehicle from an apparent self-inflicted gunshot wound, according to reports. The University of Pittsburgh School of Medicine, the department where Bing worked, said he was “on the verge of making very significant findings toward understanding the cellular mechanisms that underlie SARS-CoV-2 infection and the cellular basis of the following complications”. https://www.the-scientist.com/news-opinion/computational-biologist-bing-liu-dies-in-suspected-murder-67521 
+
+May 2020 (Unknown Date)
+- Chinese military scientist (Yuhan Zhou) dies under suspicious circumstances, only reported in one Chinese paper even though he was a notable top scientist. https://www.the-sun.com/news/3031228/mystery-chinese-scientist-filed-patent-covid-vaccine-pandemic-declared/ 
+
+30 April 2020
+- The Wall Street Journal: “In Rare Move, U.S. Intelligence Agencies Confirm Investigating if Coronavirus Emerge From Lab Accident”. https://www.wsj.com/articles/u-s-intelligence-agencies-say-coronavirus-originated-in-china-wasnt-man-madeor-genetically-modified-11588260228 
+
+- Evidence that top science journal Science has been captured? “Science Magazine reports outrage that NIH cancelled grant to EcoHealth Alliance”. https://www.sciencemag.org/news/2020/04/nih-s-axing-bat-coronavirus-grant-horrible-precedent-and-might-break-rules-critics-say 
+
+29 April 2020
+- Donald Trump ordered the NIH to cancel a five-year, $3.7 million grant for EcoHealth Alliance’s bat virus research. https://www.npr.org/sections/goatsandsoda/2020/04/29/847948272/why-the-u-s-government-stopped-funding-a-research-project-on-bats-and-coronaviru (However, according to Daszak, about 70% of the group’s annual $12 million budget continues to come from the U.S. government, despite this cut: https://khn.org/news/article/wuhan-lab-leak-coronavirus-virologists-seek-inquiry-covid-origins-bat-research/). 
+
+- Many field hospitals went largely unused, will be shut down. (This observation supports the evidence that COVID-19 fear was overstated, and not as many people were being hospitalised as expected?) https://apnews.com/article/virus-outbreak-ap-top-news-international-news-weekend-reads-manhattan-e593ba57f37206b495521503d7e5e4c5 
+
+- “The World Health Organization lauded Sweden as a “model” for battling the coronavirus as countries lift lockdowns — after the nation controversially refused restrictions.” https://nypost.com/2020/04/29/who-lauds-sweden-as-model-for-resisting-coronavirus-lockdown/ 
+
+28 April 2020
+- Three former U.S. intelligence agents say that the virus emerged from nature or escaped from a Chinese lab. https://foreignpolicy.com/2020/04/28/trump-cia-intimidation-politicization-us-intelligence-agencies-could-end-in-disaster/ 
+
 26 April 2020
-- In four U.S. state prisons, 3,277 inmates test positive for COVID-19, 96% do not have any symptoms. Officials are “very surprised” and “shocked” so many “positive” cases are “asymptomatic” (i.e. healthy). (This is not surprising considering the high cycle number used for the PCR test is likely causing false positives, and that the inmates are unlikely to have many comorbidities.) https://www.reuters.com/article/us-health-coronavirus-prisons-testing-in/in-four-u-s-state-prisons-nearly-3300-inmates-test-positive-for-coronavirus-96-without-symptoms-idUSKCN2270RX 
+- In four U.S. state prisons, 3,277 inmates test positive for COVID-19, 96% do not have any symptoms. Officials are “very surprised” and “shocked” so many “positive” cases are “asymptomatic” (i.e. healthy). (This is not surprising considering the high cycle number used for the PCR test is likely causing false positives, and that the inmates are unlikely to have many comorbidities or be obese.) https://www.reuters.com/article/us-health-coronavirus-prisons-testing-in/in-four-u-s-state-prisons-nearly-3300-inmates-test-positive-for-coronavirus-96-without-symptoms-idUSKCN2270RX 
+
+24 April 2020
+- Two Bakersfield doctors, Dan Erickson and Artin Massihi, held a press conference questioning California's stay-at-home order. The press conference was censored by YouTube.
+https://www.turnto23.com/news/coronavirus/watch-controversial-press-conference-held-by-two-bakersfield-doctors-that-was-pulled-down-by-youtube 
+
+23 April 2020
+- A University of Texas Medical Branch scientist, who visited the Wuhan Institute of Virology, acknowledges safety risks at Chinese lab doing coronavirus research. Le Duc is never quoted by any science writers in the coming months. https://www.houstonchronicle.com/news/houston-texas/houston/article/UTMB-scientist-acknowledges-safety-risks-at-15221826.php 
+
+21 April 2020
+- Nature reports favourably on Sweden’s “controversial” (read: common sense) COVID-19 pandemic strategy to keep society open and not lockdown or impose strict social distancing measures like the rest of the world. “The Swedish laws on communicable diseases are mostly based on voluntary measures — on individual responsibility. It clearly states that the citizen has the responsibility not to spread a disease. This is the core we started from, because there is not much legal possibility to close down cities in Sweden using the present laws. Quarantine can be contemplated for people or small areas, such as a school or a hotel. But [legally] we cannot lock down a geographical area.” https://www.nature.com/articles/d41586-020-01098-x 
+
+- Blatant fear porn in UK mainstream news, reporting that the skin colour of two doctors in Wuhan had “turned dark” after recovering from their coronavirus infections. https://www.cnbc.com/amp/2020/07/24/trained-dogs-sniffed-out-covid-19-infections-with-high-accuracy-study.html Archive: https://archive.ph/byPch 
+
+20 April 2020
+- The COVID-19 pandemic spread triggers World Bank pandemic bond payout (meaning investors lose their money). A controversial World Bank bond designed to deliver funding to help the world’s poorest countries to tackle fast-spreading diseases is set to pay out, the lender said, though it is unclear when funds will reach the countries in need.
+https://www.reuters.com/article/health-coronavirus-pandemic-bonds/coronavirus-spread-triggers-world-bank-pandemic-bond-payout-idUSL8N2C861O 
+
+17 April 2020
+- NY Post Editorial Board: “Facebook’s ‘fact checkers’ are the real fake news after censoring Post story.” https://nypost.com/2020/04/17/facebook-fact-checkers-foul-again-after-censoring-post-story/ 
+
+15 April 2020
+- China knew the coronavirus could become a pandemic in mid-January but for 6 days claimed that there was no evidence it could spread among humans. The Associated Press obtained a damning memo of a January 14 call that warned top officials about human-to-human transmission and said to prepare for a pandemic. Memo substantiates President Donald Trump's accusations that WHO failed to vet China's data. https://www.businessinsider.com/coronavirus-china-hid-pandemic-news-six-days-2020-4 
 
 14 April 2020
-- Dr Lawrence Broxmeyer, MD, brings attention to evidence that azithromycin and hydroxychloroquine appear to significantly reduce time to recovery in COVID-19 patients. Azithromycin is an antibiotic that also happens to be the first line of defence against fowl tuberculosis (also known as Mycobacterium avium). This is the first time in history that an antibiotic is showing effectiveness against an apparent viral disease and provides additional evidence that in China at least, some of the severe COVID-19 cases may be due to coinfection with tuberculosis or activation of latent tuberculosis. https://coronacircus.com/wp-content/uploads/2020/05/Promising_Antimicrobial_Hope_for_Coronav.pdfFurther consistent with this, later, it is found in countries like the US which do not have active tuberculosis outbreaks, that azithromycin is not that effective. https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(21)00263-0/fulltext 
+- Dr Lawrence Broxmeyer, MD, brings attention to evidence that azithromycin and hydroxychloroquine appear to significantly quicken time to recovery in COVID-19 patients. Azithromycin is an antibiotic that also happens to be the first line of defence against fowl tuberculosis (also known as Mycobacterium avium). This is the first time in history that an antibiotic is showing effectiveness against an apparent viral disease and provides additional evidence that in China at least, some of the severe COVID-19 cases may be due to coinfection with tuberculosis or activation of latent tuberculosis. https://coronacircus.com/wp-content/uploads/2020/05/Promising_Antimicrobial_Hope_for_Coronav.pdf Further consistent with this, it is later found in countries like the US which do not have active tuberculosis outbreaks, that azithromycin is not that effective. https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(21)00263-0/fulltext 
 
 12 April 2020
 - WHO releases a brief to deny that BCG vaccination may provide protection against COVID-19. The brief addresses only the research papers linking BCG vaccination policies and Covid prevalence (by accusing them of ignoring confounder biases), whilst ignoring the research that establishes tuberculosis as the most significant cofactor from the 28 March 2020 preprint. https://www.who.int/news-room/commentaries/detail/bacille-calmette-gu%C3%A9rin-(bcg)-vaccination-and-covid-19 http://archive.fo/E3lNn 
 
+8 April 2020
+- Deborah Birx, head of the Coronavirus Task Force, explaining the US counts Covid-19 deaths differently from how deaths for other diseases were counted in the past. https://www.realclearpolitics.com/video/2020/04/08/dr_birx_unlike_some_countries_if_someone_dies_with_covid-19_we_are_counting_that_as_a_covid-19_death.html 
+
+- Stock markets start to fall significantly worldwide, leading to billions in profits by some traders. Allegations of small scale insider trading were reported.
+https://markets.businessinsider.com/news/stocks/bill-ackman-hedge-profits-billions-coronavirus-tanks-stock-market-economy-2020-3 
+https://blogs.lse.ac.uk/usappblog/2020/04/08/despite-past-congressional-action-on-insider-trading-senators-stock-trades-are-still-business-as-usual/ 
+
+3 April 2020
+- “The Coronavirus Pandemic Will Forever Alter the World Order", article authored by Henry Kissinger, author of NSSM 200 on US's involvement in the World Population Plan of Action”: 
+https://www.wsj.com/articles/the-coronavirus-pandemic-will-forever-alter-the-world-order-11585953005 
+
 28 March 2020
 - Pre-print research released that finds an intriguing correlation between COVID-19 severity in countries and whether they have universal policies of BCG vaccination, which is used to immunise people against tuberculosis: “We found that countries without universal policies of BCG vaccination (Italy, Nederland, USA) have been more severely affected compared to countries with universal and long-standing BCG policies. Countries that have a late start of universal BCG policy (Iran, 1984) had high mortality, consistent with the idea that BCG protects the vaccinated elderly population. We also found that BCG vaccination also reduced the number of reported COVID-19 cases in a country.” https://www.medrxiv.org/content/10.1101/2020.03.24.20042937v1 See also 16 March 2020 for more evidence that tuberculosis is a risk factor for severe COVID-19. 
+
+- #FilmYourHospital movement begins. People around the country and world begin shooting video of empty hospitals. News media and"fact checkers" say they're just showing unused parts of the hospitals, not Covid-19 treatment facilities. 
+However, #FilmYourHospital proves there was plenty of space available that could have been used for recovering Covid-19 patients instead of sending them into nursing homes. 
+https://journals.sagepub.com/doi/full/10.1177/2053951720938405 (shows date of hashtag trend)
+
+25 March 2020
+- New York Governor Cuomo issues nursing home advisory directing nursing homes in the state to accept patients who had or were suspected of having COVID-19. As long as they were medically stable, the notice said, it was appropriate to move patients in. Further, nursing homes were prohibited from requiring that medically stable prospective residents be tested for the virus before they arrived. Note: The policy did not “force” nursing homes to accept COVID-19-positive patients, although nursing homes interpreted it this way.
+https://www.cdph.ca.gov/Programs/CHCQ/LCP/Pages/AFL-20-33.aspx  
+https://www.washingtonexaminer.com/news/a-timeline-of-the-cuomo-nursing-home-controversy  
+
+21 March 2020
+- Dr. Anthony Fauci admits that PCR testing cycle threshold over 35 will detect “dead nucleotides”, not actively replicating virus: “What is now evolving ... if you get a cycle threshold of 35 or more that the chances of it being replication competent are miniscule... It's very frustrating for the patients as well as for the physicians. Somebody comes in and they repeat their PCR and it's like 37 cycle threshold, but you can almost never culture virus from a 37 threshold cycle. So I think if somebody does come in with 37, 38 -- even 36. You gotta say, 'You know, it's just dead nucleotides -- period.” https://www.youtube.com/watch?v=UhMvLUtds3I Unfortunately, cycle thresholds of 45 were being recommended by WHO (see 17 January 2020) and were being (and still are) used by many countries for their COVID-19 testing. 
+
+18 March 2020
+- Investors in World Bank’s ‘pandemic bonds’ face big losses due to the coronavirus outbreak: 
+https://www.cnbc.com/2020/03/18/coronavirus-world-bank-pandemic-bond-investors-face-big-losses.html 
+
+- Pennsylvania Governor Tom Wolf enacted a mandatory admission policy in March, saying that “nursing care facilities must continue to accept new admissions and receive readmissions for current residents who have been discharged from the hospital who are stable.” The policy was enacted to protect hospitals from being overwhelmed by the volume of COVID-19 patients. The order added that nursing home admissions “may include stable patients who have had the COVID-19 virus.” --- This is the first of 5 democratic governors who sent sick people into nursing homes to infect the most susceptible to Covid-19. https://pahomecare.memberclicks.net/assets/docs/FINAL%20FOR%20DISTRO_Interim%20Nursing%20Facility%20Guidance%2003192020%20at%201500.pdf 
 
 16 March 2020
 - An observational case study in Wuhan is released as a pre-print, implicating latent and active tuberculosis infection as a major risk factor for severe COVID-19. Latent tuberculosis was a more common risk factor than diabetes, hypertension, and coronary heart disease. 78% of those with severe/critical disease had active co-infections with tuberculosis. https://www.medrxiv.org/content/10.1101/2020.03.10.20033795v1 (Tuberculosis is common in China, with 833,000 cases in China in 2019 (compared to ~96,000 cases of COVID-19 to date as of October 2021) and this may help to explain those videos of people suddenly dropping in the streets, when no such phenomena was observed in countries where tuberculosis is not common? https://www.who.int/china/health-topics/tuberculosis)
@@ -585,8 +883,27 @@ https://www.fda.gov/media/144859/download
 11 March 2020
 - Evidence that Dr Shi Zhengli from the Wuhan Institute of Virology cannot be fully trusted. In an article published in Scientific American, Zhengli is quoted as saying that miners in a Mojang mine died from a fungus. https://www.scientificamerican.com/article/how-chinas-bat-woman-hunted-down-viruses-from-sars-to-the-new-coronavirus1/ However, researchers from 20 October 2020 later find that Zhengli lied, and the miners actually died of coronavirus-like respiratory illness: https://www.frontiersin.org/articles/10.3389/fpubh.2020.581569/full 
 
+7 March 2020
+- Gov. Andrew Cuomo declares a state of emergency as statewide case tally reaches 76.
+https://www.washingtonexaminer.com/news/a-timeline-of-the-cuomo-nursing-home-controversy 
+
 6 March 2020
 - Nature Medicine paper is published that states: “Our analyses clearly show that SARS-CoV-2 is not a laboratory construct or a purposefully manipulated virus.” https://www.nature.com/articles/s41591-020-0820-9 The paper’s authors include Kristian G. Andersen and Jeremy Farrar (Wellcome Trust). Later, emails obtained from a Buzzfeed FOIA reveal that Anthony Fauci (US NIH) set up the meeting between many of the paper’s authors, so that they could plan and write the Nature Medicine paper to discourage a ‘lab origin’ for COVID-19. https://s3.documentcloud.org/documents/20793561/leopold-nih-foia-anthony-fauci-emails.pdf#page=2401 Also see Chris Martenson’s podcast going through the emails in detail: https://www.youtube.com/watch?v=DNxoVFZwMYw 
+
+- President Trump, in remarks at CDC in Atlanta: “Anybody that needs a test, gets a test. They’re there. They have the tests. And the tests are beautiful.”
+https://factba.se/transcript/donald-trump-remarks-cdc-briefing-tour-atlanta-march-6-2020 
+
+3 March 2020
+- Coronavirus: Half of the world’s population (3.9 billion people) have been asked or ordered to stay at home / lockdown by their governments, as 90 countries call for confinement. 
+https://www.euronews.com/2020/04/02/coronavirus-in-europe-spain-s-death-toll-hits-10-000-after-record-950-new-deaths-in-24-hou 
+
+1 March 2020
+- The first case of COVID-19 in New York state is confirmed.
+https://www.wsj.com/articles/first-case-of-coronavirus-confirmed-in-new-york-state-11583111692 
+
+27 February 2020
+- President Trump, in remarks: “It’s going to disappear. One day — it’s like a miracle — it will disappear.”
+https://factba.se/transcript/donald-trump-remarks-meeting-photo-opportunity-african-american-leaders-february-27-2020   
 
 26 February 2020
 - Prominent virologists publish a commentary in Emerging Microbes and Infections, that claims “no credible evidence” of COVID-19 being engineered by a lab. https://www.tandfonline.com/doi/pdf/10.1080/22221751.2020.1733440 Later, emails released by U.S. Right to Know on 11 August 2020 reveal that the editorial was submitted on 12 February, and then peer reviewed and accepted the next day (this NEVER happens in scientific publishing): https://usrtk.org/wp-content/uploads/2021/04/Shan-Lu-EMI-submission-Feb-12-email-OSU.pdf https://usrtk.org/biohazards/scientists-who-authored-article-denying-lab-engineering-of-sars-cov-2-privately-acknowledged-possible-lab-origin-emails-show/ One reviewer wrote, “This is a timely commentary. It is perfectly written. All four authors are well established virologists. I suggest to publish it right away.” https://usrtk.org/wp-content/uploads/2021/04/EMI-acceptance-Feb-13-email-OSU.pdf Although this is not disclosed in the commentary, the emails also reveal the reviewer was Shi Zhengli, of the Wuhan Institute of Virology, who led gain-of-function research in bats previously (see 13 November 2017, 26 June 2016, and 9 November 2015) which is a clear conflict of interest: https://usrtk.org/wp-content/uploads/2021/08/OSU-ZLS-Comments.pdf Finally, the emails also reveal that privately, the virologists who coauthored the letter admitted that “we cannot rule out the possibility that it comes from a bat virus leaked out of a lab” (https://usrtk.org/wp-content/uploads/2021/08/OSU_SLL_Name-Change_Origin-to-Engineering.pdf https://usrtk.org/biohazards/scientists-who-authored-article-denying-lab-engineering-of-sars-cov-2-privately-acknowledged-possible-lab-origin-emails-show/) and they also discuss how “rumor says that furin site may be engineered”. https://usrtk.org/wp-content/uploads/2021/08/OSU_Weiss_Hard-to-Imagine_SLL_Rumor.pdf 
@@ -619,13 +936,13 @@ https://factba.se/transcript/donald-trump-interview-joe-kernen-cnbc-davos-januar
 - In the Italian city of Padua, authorities make the decision to burn and destroy nearly 10 tons of pig meat originating from China. The meat was suspected to be infected with African swine fever and potentially fowl tuberculosis, the latter of which is likely transmissible to humans. Notably, one of the first cases of COVID-19 in Italy is found in Padua. Interestingly, fowl tuberculosis symptoms include fever, diarrhoea, shortness of breath, cough, which are also reported in COVID-19 patients. (Later, see 16 March 2020, it is also found that tuberculosis infection is a significant risk factor for severe COVID-19 in Wuhan. Could this be an explanation for why Italy was hit so hard by COVID-19, when those in many other countries including neighbouring countries were experiencing only mild illness?) https://s3-eu-west-1.amazonaws.com/pfigshare-u-files/22204929/FINALSCIENTIAITALYINCRISISSRPRRC03000272.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Expires=10&X-Amz-SignedHeaders=host&X-Amz-Signature=b9d1d53eefc8ca9889afe64067f4d8fdf681e9dcc604c3835a615df4254baac6&X-Amz-Date=20211019T101110Z&X-Amz-Credential=AKIAIYCQYOYV5JSSROOA/20211019/eu-west-1/s3/aws4_request https://figshare.com/articles/journal_contribution/Italy_in_Crisis/12077577 
 
 17 January 2020
-- PCR Test protocol is published by WHO that recommends 45 cycles for COVID-19 testing. The protocol is adopted by other countries around the world. This has an approx. 95% chance of registering a false positive. The correct cycle range should be below 30. https://www.who.int/docs/default-source/coronaviruse/protocol-v2-1.pdf 
+- PCR Test protocol is published by WHO that uses 45 cycles for COVID-19 testing. The protocol is adopted by other countries around the world. Later, the high false positive rate of this is realised. The appropriate cycle range should be below 30. https://www.who.int/docs/default-source/coronaviruse/protocol-v2-1.pdf 
 
 3 Jan 2020
-- Agence France Press reported that police from Wuhan, “had punished eight people for ‘publishing or forwarding false information on the internet without verification.’” Coronavirus had killed at least 17 people and arrived in the United States this week. https://www.poynter.org/fact-checking/2020/the-2019-coronavirus-virus-lands-in-the-u-s-after-killing-17-and-taking-eight-to-prison/?__cf_chl_jschl_tk__=pmd_ZpaOd99FHnI28Pz0XCajw30VXUAg8MH93W2.y8JBwV0-1629967908-0-gqNtZGzNAuWjcnBszQpR New York Times reports it a few weeks later: https://www.nytimes.com/2020/01/22/health/virus-corona.html 
+- Agence France Press reported that police from Wuhan, “had punished eight people for ‘publishing or forwarding false information on the internet without verification.’” The novel coronavirus has apparently killed at least 17 people and arrived in the United States this week. https://www.poynter.org/fact-checking/2020/the-2019-coronavirus-virus-lands-in-the-u-s-after-killing-17-and-taking-eight-to-prison/?__cf_chl_jschl_tk__=pmd_ZpaOd99FHnI28Pz0XCajw30VXUAg8MH93W2.y8JBwV0-1629967908-0-gqNtZGzNAuWjcnBszQpR New York Times reports it a few weeks later: https://www.nytimes.com/2020/01/22/health/virus-corona.html 
 
 31 December 2019
-- China notifies WHO of “cases of pneumonia of unknown etiology” in Wuhan City. https://www.who.int/emergencies/disease-outbreak-news/item/2020-DON229 
+- After likely knowing about the novel coronavirus for months, China finally notifies WHO of “cases of pneumonia of unknown etiology” in Wuhan City. https://www.who.int/emergencies/disease-outbreak-news/item/2020-DON229 
 
 30 December 2019
 - Li Wenliang, an ophthalmologist at a hospital in Wuhan, sent colleagues a text about a virus, and is summoned to a police station and forced to sign a document for spreading rumors. Wuhan later institutes a lockdown and Li later dies from the virus. https://inews.co.uk/news/world/coronavirus-doctor-dies-li-wenling-395073 https://inews.co.uk/opinion/coronavirus-china-weakness-autocratic-government-396043 
@@ -673,7 +990,7 @@ September 2019 (unknown date)
 https://www.blackrock.com/corporate/literature/whitepaper/bii-macro-perspectives-august-2019.pdf 
 
 2 August 2019
-- Defense officials from US warn that China is the is the world leader in toxin-based biothreats. https://www.nationaldefensemagazine.org/articles/2019/8/2/viewpoint-the-tools-and-threats-of-synthetic-bioweapon-development 
+- Defense officials from US warn that China is the world leader in toxin-based biothreats. https://www.nationaldefensemagazine.org/articles/2019/8/2/viewpoint-the-tools-and-threats-of-synthetic-bioweapon-development 
 
 7 July 2019
 - A virology researcher (Dr. Xiangguo Qiu) with ties to China is escorted out of the National Microbiology Lab (NML), Canada’s only level-4 lab. "The National Microbiology Laboratory would have some pretty sensitive biological research material that ... could be shared either with or without authorization with foreign countries," said Gordon Houlden, director of the University of Alberta's China Institute. https://www.cbc.ca/news/canada/manitoba/chinese-researcher-escorted-from-infectious-disease-lab-amid-rcmp-investigation-1.5211567 
@@ -707,13 +1024,13 @@ https://www.worldbank.org/en/news/press-release/2018/05/24/who-and-world-bank-gr
 - Peter Daszak announces The Global Virome Project: “We describe a Global Virome Project (GVP) aimed to launch in 2018 that will help identify the bulk of this viral threat and provide timely data for public health interventions against future pandemics.” https://science.sciencemag.org/content/359/6378/872?ijkey=161c3e96de3cb0e2bfcbf435311b52b701aaf3dd&keytype2=tf_ 
 
 19 December 2017
-- Ban on gain-of-function research is repealed, based on a report by the National Science Advisory Board for Biosecurity that government-funded gain-of-function research was seldom a risk to public safety. https://www.nature.com/articles/d41586-017-08837-7 
+- Nature reports on how the US ban on gain-of-function research was lifted. They mention how this was based on a report by the National Science Advisory Board for Biosecurity that government-funded gain-of-function research was seldom a risk to public safety. https://www.nature.com/articles/d41586-017-08837-7 
 
 13 November 2017
 - Dr Peter Daszak, President of EcoHealth Alliance, and Dr Shi Zhengli from Wuhan, publish another paper describing gain-of-function research done in coronaviruses in bats in a BSL-2 lab in Wuhan (see also: 26 June 2016). “The Wuhan Institute of Virology had continued to unearth dozens of new SARS-like coronaviruses in bat caves, and it reported making chimeras with eight of them by fusing the spikes of the new viruses to the chassis of WIV1. Two of them replicated well in human cells. They were, for all intents and purposes, brand-new pathogens.” In an email to MIT Technology Review, Shi said she followed Chinese rules that are similar to US. Since bat viruses like WIV1 haven’t been confirmed to cause disease in human beings, her biosafety committee recommended BSL-2 for engineering and testing them but BSL-3 for any animal experiments. Regarding the decision to do the research in BSL-2 conditions, Peter Daszak forwarded a statement from EcoHealth Alliance stating that the organization “must follow the local laws of the countries in which we work’ and that the NIH had determined the research was ‘not gain-of-function.’”https://www.technologyreview.com/2021/06/29/1027290/gain-of-function-risky-bat-virus-engineering-links-america-to-wuhan/ https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC5708621/ 
 
 23 October 2017
-- John Hopkins Center for Health Security releases a fictional pandemic scenario called SPARS, modelled off a SARS-like virus. The scenario is aimed to teach policymakers appropriate pandemic responses. The fictional pandemic does not end up killing as many people as originally forecasted through fictional modelling. Moreover, the vaccines, which are rushed to market, have severe side effects. The pandemic ends with the President apologizing to the brave and patriotic Americans that took these experimental and harmful vaccines during a time of national crisis.
+- John Hopkins Center for Health Security releases a fictional pandemic scenario called SPARS, modelled off a SARS-like virus. The scenario is aimed to teach policymakers appropriate pandemic responses. The fictional pandemic does not end up killing as many people as originally forecasted. Moreover, the vaccines, which are rushed to market, have severe side effects. The pandemic ends with the President apologizing to the brave and patriotic Americans that took these experimental and harmful vaccines during a time of national crisis.
 https://www.centerforhealthsecurity.org/news/center-news/2017/2017-10-23_spars-scenario.html 
 https://jhsphcenterforhealthsecurity.s3.amazonaws.com/spars-pandemic-scenario.pdf 
 
@@ -729,33 +1046,33 @@ https://web.archive.org/web/20180614050123/http://pubdocs.worldbank.org/en/88283
 - Dr. Anthony Fauci: "If there's one message that I want to leave with you today based on my experience... There is no question that there will be a challenge [to] the coming administration in the arena of infectious diseases, both chronic infectious diseases in the sense of already ongoing disease - and we have certainly a large burden of that - but also there will be a surprise outbreak and I hope by the end of my relatively short presentation you'll understand why history, and the history of the last 32 years that I've been the director of NIAID will tell the next administration that there's no doubt in anyone's mind that they will be faced with the challenges that their predecessors were faced with." https://www.youtube.com/watch?v=Kh3twYon8pc 
 
 9 Jan 2017
-- Obama Administration lifts ban on gain-of-function research just 11 days before President Trump took office. https://obamawhitehouse.archives.gov/blog/2017/01/09/recommended-policy-guidance-potential-pandemic-pathogen-care-and-oversight 
+- Obama Administration announces that the moratorium on gain-of-function research will be lifted. https://obamawhitehouse.archives.gov/blog/2017/01/09/recommended-policy-guidance-potential-pandemic-pathogen-care-and-oversight 
 
 13 September 2016
-- Moderna pivots towards developing mRNA vaccines as they are the fastest path to human trials: “Novartis abandoned the related realm of RNA interference over concerns about toxicity, as did Merck and Roche. Moderna said it prioritized vaccines because they presented the fastest path to human trials.” https://www.statnews.com/2016/09/13/moderna-therapeutics-biotech-mrna/ 
+- Moderna pivots towards developing mRNA vaccines despite safety concerns as they are the “fastest path to human trials”: “Novartis abandoned the related realm of RNA interference over concerns about toxicity, as did Merck and Roche. Moderna said it prioritized vaccines because they presented the fastest path to human trials.” https://www.statnews.com/2016/09/13/moderna-therapeutics-biotech-mrna/ 
 
 26 June 2016
-- Peter Daszak, President of EcoHealth Alliance, and Dr Shi Zhengli from Wuhan, publish a paper reporting how the Chinese lab had engineered different versions of the SARS-like coronavirus named WIV1, and tested their infectiousness in human cells. The paper also included a troubling detail: the work, which was funded in part by the NIH grant, had been done in a BSL-2 lab. That meant the same viruses that Daszak was holding up as a clear and present danger to the world were being studied under conditions that, according to Richard Ebright, matched “the biosafety level of a US dentist’s office.”
+- Peter Daszak, President of EcoHealth Alliance, and Dr Shi Zhengli from Wuhan, publish a paper describing gain-of-function research, through engineering different versions of the SARS-like coronavirus named WIV1. These coronaviruses then had their infectiousness tested in human cells. The paper also included a troubling detail: the work, which was funded in part by the NIH grant, had been done in a BSL-2 lab, which matched “the biosafety level of a US dentist’s office.”
 https://journals.asm.org/doi/10.1128/JVI.03079-15 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4936131/ https://www.technologyreview.com/2021/06/29/1027290/gain-of-function-risky-bat-virus-engineering-links-america-to-wuhan/ 
 
 12 February 2016
-- A statement by Peter Daszak, President of EcoHealth Alliance, was reported in the National Academies of Press Publication that highlights his interest in using the media to stir up interest in a coronavirus vaccine that would work for all coronaviruses: "We need to increase public understanding of the need for medical countermeasures such as a pan-coronavirus vaccine. A key driver is the media, and the economics will follow the hype. We need to use that hype to our advantage to get to the real issues. Investors will respond if they see profit at the end of the process."
+- A statement by Peter Daszak, President of EcoHealth Alliance, was reported in the National Academies of Press Publication that highlights his interest in using the media to stir up interest in a pan-coronavirus vaccine that would work for all coronaviruses: "We need to increase public understanding of the need for medical countermeasures such as a pan-coronavirus vaccine. A key driver is the media, and the economics will follow the hype. We need to use that hype to our advantage to get to the real issues. Investors will respond if they see profit at the end of the process."
 https://www.ncbi.nlm.nih.gov/books/NBK349040 
 
 9 November 2015
-- Paper published in Nature Medicine led by Dr. Ralph Baric (University of North Carolina at Chapel Hill) and Dr. Shi Zhengli (Wuhan) describing gain-of-function research in coronaviruses in bats: “we generated and characterized a chimeric virus expressing the spike of bat coronavirus SHC014 in a mouse-adapted SARS-CoV backbone. The results indicate that group 2b viruses encoding the SHC014 spike in a wild-type backbone can efficiently use multiple orthologs of the SARS receptor human angiotensin converting enzyme II (ACE2), replicate efficiently in primary human airway cells and achieve in vitro titers equivalent to epidemic strains of SARS-CoV. Additionally, in vivo experiments demonstrate replication of the chimeric virus in mouse lung with notable pathogenesis.” This research occurred during the gain-of-function ban by Congress, but apparently allowed to go ahead since it began before the ban came into effect. https://www.nature.com/articles/nm.3985 Commentary: https://www.nytimes.com/2021/06/25/opinion/coronavirus-lab.html 
+- Paper published in Nature Medicine led by Dr. Ralph Baric (University of North Carolina at Chapel Hill) and Dr. Shi Zhengli (Wuhan) describing gain-of-function research in coronaviruses in bats: “we generated and characterized a chimeric virus expressing the spike of bat coronavirus SHC014 in a mouse-adapted SARS-CoV backbone. The results indicate that group 2b viruses encoding the SHC014 spike in a wild-type backbone can efficiently use multiple orthologs of the SARS receptor human angiotensin converting enzyme II (ACE2), replicate efficiently in primary human airway cells and achieve in vitro titers equivalent to epidemic strains of SARS-CoV. Additionally, in vivo experiments demonstrate replication of the chimeric virus in mouse lung with notable pathogenesis.” This research occurred during the gain-of-function ban by Congress, but apparently was allowed to go ahead since it began before the ban came into effect. https://www.nature.com/articles/nm.3985 Commentary: https://www.nytimes.com/2021/06/25/opinion/coronavirus-lab.html 
 
 17 October 2014
-- In the US, the White House Office of Science and Technology Policy (OSTP) and Department of Health and Human Services announce a moratorium on gain-of-function research, involving a pause to funding for experiments involving gain-of-function in viruses. “NIH has funded such studies because they help define the fundamental nature of human-pathogen interactions, enable the assessment of the pandemic potential of emerging infectious agents, and inform public health and preparedness efforts,” National Institutes of Health Director Francis Collins said in a statement. “These studies, however, also entail biosafety and biosecurity risks, which need to be understood better.” https://www.the-scientist.com/the-nutshell/moratorium-on-gain-of-function-research-36564  
+- US announces moratorium on gain-of-function research. This means that experiments involving gain-of-function in viruses will no longer be funded. 
+In the past, “NIH has funded such studies because they help define the fundamental nature of human-pathogen interactions, enable the assessment of the pandemic potential of emerging infectious agents, and inform public health and preparedness efforts,” National Institutes of Health Director Francis Collins said in a statement. “These studies, however, also entail biosafety and biosecurity risks, which need to be understood better.” https://www.the-scientist.com/the-nutshell/moratorium-on-gain-of-function-research-36564  
 
 26 June 2014
-- James C.Smith, President and Chief Executive Officer (CEO) of Thomson Reuters who also serves on its Board of Directors, is elected to Pfizer’s Board of Directors. Later during the COVID-19 pandemic, Reuters articles will conveniently provide “Fact Checks” to ensure all information is consistent with the idea that Pfizer’s mRNA vaccines are safe and effective. 
+- James C.Smith, President and Chief Executive Officer (CEO) of Thomson Reuters, is elected to Pfizer’s Board of Directors. 
 https://www.pfizer.com/news/press-release/press-release-detail/james_c_smith_elected_to_pfizer_s_board_of_directors 
 
 2 October 2013
 - DARPA awards Moderna Therapeutics a grant for up to $25 Million to develop messenger RNA (mRNA) therapeutics: 
 https://investors.modernatx.com/news-releases/news-release-details/darpa-awards-moderna-therapeutics-grant-25-million-develop 
-
 
 
 
