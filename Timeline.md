@@ -20,7 +20,6 @@
 
 - Realisation that including the Individual Health Identifier on Australian vaccination certificates is a “bad mistake”. It turns out that, “You face up to two years imprisonment for use or disclosure of the IHI for any purposes outside of supporting healthcare. And now that number is on a PDF that is being emailed around willy nilly.” https://www.afr.com/technology/terrible-mistake-could-send-execs-to-jail-over-vaccine-certificates-20211015-p590am PDF: https://drive.google.com/file/d/1UIS3KkTD8LGCUWQvLBCwzZcRC5CP4tNv/view?usp=sharing 
 
-- In Australia, police are apparently trying to forcibly vaccinate Aboriginal people. A video has surfaced showing them defending themselves from police officers using a bow and arrow. https://twitter.com/ChooseLove777/status/1450119176824180739?s=20 
 
 18 October 2021
 - Colin Powell, 84, fully vaccinated, dies of COVID-19. The highest profile “rare”, “mild”, breakthrough case of COVID-19 we have heard about so far. USAToday: “Although dying from COVID-19 is extremely uncommon among the fully vaccinated, health experts say age and preexisting medical conditions may increase the odds of breakthrough infection, severe disease and even death.” (Interesting that older people / those with preexisting medical conditions were originally the ones who were recommended to take the vaccine in the first place to protect themselves…) https://www.usatoday.com/story/news/health/2021/10/18/vaccine-covid-19-colin-powell-high-risk/8505663002/ 
