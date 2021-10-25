@@ -1,4 +1,4 @@
-23 October 2021
+=23 October 2021
 - Sweden suspends Moderna vaccine indefinitely for those 30 and under due to myocarditis risks (was suspended temporarily on 6 October 2021). https://www.westernjournal.com/sweden-suspends-moderna-shot-indefinitely-vaxxed-patients-develop-crippling-heart-condition/ Archive: https://archive.ph/hzuMe 
 
 - The “Opportunity Pass”, a vaccine passport implemented in Lithuania, transforms society in just 6 weeks: the unvaccinated are segregated, treated as second-class citizens, and denied access to much of society. https://twitter.com/gluboco/status/1451714806721957891?s=21 Archive: https://archive.ph/1CXuL 
@@ -7,6 +7,9 @@
 - A UK government report hints that those who have been vaccinated against COVID-19 and subsequently infected with the virus, do not build full immunity. It seems that being vaccinated means they do not build as much N protein antibody compared to those who recovered while unvaccinated. This phenomenon is called “original antigenic sin” and is well-documented in some other viruses. https://boriquagato.substack.com/p/original-antigenic-sin Archive: https://archive.ph/sXH48 https://alexberenson.substack.com/p/urgent-covid-vaccines-will-keep-you/ Archive: https://archive.ph/435iG https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1027511/Vaccine-surveillance-report-week-42.pdf Archive: https://drive.google.com/file/d/1WVc5ILfH1IO21y2_GBoG5iOlulYJd7zJ/view?usp=drivesdk 
 
 - The goalposts continue to move, as reported by The Washington Post: “You’re not ‘fully vaccinated.’ You never will be. It’s a goal for communities or nations, not for individuals.” https://www.washingtonpost.com/outlook/fully-vaccinated-coronavirus/2021/10/21/d0f9a2d4-321b-11ec-93e2-dba2c2c11851_story.html Archive: https://archive.ph/7IZ6e 
+
+21 October 2021
+- Informed Consent Action Network (ICAN) engaged with a formal exchange with the CDC on whether natural immunity is better than COVID-19 vaccine-induced immunity, and provided a formal warning to the CDC that they are intending on initiating a lawsuit. https://www.icandecide.org/wp-content/uploads/2021/10/Reply-to-CDC-Re-Natural-Immunity-v-Vaccine-Immunity.pdf Archive: https://drive.google.com/file/d/1Y6l9JnJuwjulz5XC-6_xYPTLE6SYc3Cm/view?usp=sharing 
 
 20 October 2021
 - Australian biotech company Vaxine sets up crowdfunding to raise funds for the approval of their locally-developed protein subunit vaccine, Covax-19, after failing to get any support from the Australian government. Covax-19 has shown strong protection against the Delta variant in a Phase 3 clinical trial in the Middle East. However, the Australian government has chosen instead to spend billions of dollars to produce UK-based AstraZeneca’s adenovirus vector vaccine: https://www.gofundme.com/f/bringing-covax19-back-to-australia Archive: https://archive.ph/mFXRT 
@@ -19,7 +22,6 @@
 - Australian Professor, Dr Thomas Borody, reports successful and safe treatment of 600 Covid-19 patients from Sydney and Melbourne with the ivermectin triple therapy protocol he has developed (ivermectin used with doxycycline and zinc). Unfortunately, the study was terminated when the Australian government banned GPs from prescribing ivermectin on 10 September 2021. https://trialsitenews.com/combination-therapy-for-covid-19-based-on-ivermectin-in-an-australian-population/ PDF: https://drive.google.com/file/d/1oqkz0qnGJYX-Mel-XFchAcW2sc1C_6pq/view?usp=sharing 
 
 - Realisation that including the Individual Health Identifier on Australian vaccination certificates is a “bad mistake”. It turns out that, “You face up to two years imprisonment for use or disclosure of the IHI for any purposes outside of supporting healthcare. And now that number is on a PDF that is being emailed around willy nilly.” https://www.afr.com/technology/terrible-mistake-could-send-execs-to-jail-over-vaccine-certificates-20211015-p590am PDF: https://drive.google.com/file/d/1UIS3KkTD8LGCUWQvLBCwzZcRC5CP4tNv/view?usp=sharing 
-
 
 18 October 2021
 - Colin Powell, 84, fully vaccinated, dies of COVID-19. The highest profile “rare”, “mild”, breakthrough case of COVID-19 we have heard about so far. USAToday: “Although dying from COVID-19 is extremely uncommon among the fully vaccinated, health experts say age and preexisting medical conditions may increase the odds of breakthrough infection, severe disease and even death.” (Interesting that older people / those with preexisting medical conditions were originally the ones who were recommended to take the vaccine in the first place to protect themselves…) https://www.usatoday.com/story/news/health/2021/10/18/vaccine-covid-19-colin-powell-high-risk/8505663002/ 
@@ -1072,6 +1074,7 @@ https://www.pfizer.com/news/press-release/press-release-detail/james_c_smith_ele
 2 October 2013
 - DARPA awards Moderna Therapeutics a grant for up to $25 Million to develop messenger RNA (mRNA) therapeutics: 
 https://investors.modernatx.com/news-releases/news-release-details/darpa-awards-moderna-therapeutics-grant-25-million-develop 
+
 
 
 
