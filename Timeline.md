@@ -1,9 +1,14 @@
-=23 October 2021
+25 October 2021
+- #Beaglegate hashtag trending on Twitter. #Beaglegate is reported across mainstream news, describing a series of inhumane NIH-funded experiments involving beagles. https://nypost.com/2021/10/24/lawmakers-slam-anthony-fauci-for-alleged-puppy-experiments/ https://www.washingtonpost.com/opinions/2021/10/25/fauci-puppy-experiments-conspiracy-republicans/ These experiments were uncovered by White Coat Waste Project several months ago  (https://blog.whitecoatwaste.org/2021/07/30/fauci-funding-wasteful-deadly-dog-tests/ and https://blog.whitecoatwaste.org/2021/08/31/photos-fauci-funded-beagle-torture-overseas-too/), but are conveniently coming into the spotlight just as the true extent of Fauci’s involvement in funding gain-of-function coronavirus research in Wuhan has just been coming to light (see 22 October 2021). 
+
+23 October 2021
 - Sweden suspends Moderna vaccine indefinitely for those 30 and under due to myocarditis risks (was suspended temporarily on 6 October 2021). https://www.westernjournal.com/sweden-suspends-moderna-shot-indefinitely-vaxxed-patients-develop-crippling-heart-condition/ Archive: https://archive.ph/hzuMe 
 
 - The “Opportunity Pass”, a vaccine passport implemented in Lithuania, transforms society in just 6 weeks: the unvaccinated are segregated, treated as second-class citizens, and denied access to much of society. https://twitter.com/gluboco/status/1451714806721957891?s=21 Archive: https://archive.ph/1CXuL 
 
 22 October 2021
+- NIH admits to funding gain-of-function research on bat coronaviruses at China's Wuhan lab despite Dr. Fauci repeatedly insisting to Congress that it did not happen: https://www.dailymail.co.uk/news/article-10117619/NIH-ADMITS-funding-gain-function-research-bat-coronaviruses-Chinas-Wuhan-lab.html https://nypost.com/2021/10/21/nih-admits-us-funded-gain-of-function-in-wuhan-despite-faucis-repeated-denials/ 
+
 - A UK government report hints that those who have been vaccinated against COVID-19 and subsequently infected with the virus, do not build full immunity. It seems that being vaccinated means they do not build as much N protein antibody compared to those who recovered while unvaccinated. This phenomenon is called “original antigenic sin” and is well-documented in some other viruses. https://boriquagato.substack.com/p/original-antigenic-sin Archive: https://archive.ph/sXH48 https://alexberenson.substack.com/p/urgent-covid-vaccines-will-keep-you/ Archive: https://archive.ph/435iG https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1027511/Vaccine-surveillance-report-week-42.pdf Archive: https://drive.google.com/file/d/1WVc5ILfH1IO21y2_GBoG5iOlulYJd7zJ/view?usp=drivesdk 
 
 - The goalposts continue to move, as reported by The Washington Post: “You’re not ‘fully vaccinated.’ You never will be. It’s a goal for communities or nations, not for individuals.” https://www.washingtonpost.com/outlook/fully-vaccinated-coronavirus/2021/10/21/d0f9a2d4-321b-11ec-93e2-dba2c2c11851_story.html Archive: https://archive.ph/7IZ6e 
