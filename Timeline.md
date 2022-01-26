@@ -19,10 +19,26 @@
 1 December 2021
 - Biden COVID-19 vaccine mandate for healthcare workers is blocked by federal judge in Louisiana (joined in the lawsuit by attorneys general in 13 other states). "If human nature and history teach anything, it is that civil liberties face grave risks when governments proclaim indefinite states of emergency. During a pandemic such as this one, it is even more important to safeguard the separation of powers set forth in our Constitution to avoid erosion of our liberties." https://www.foxnews.com/us/federal-judge-blocks-biden-vaccine-mandate-for-health-care-workers-nationwide (Archive: https://archive.ph/J5nRQ)
 
+28 November 2021
+- South African Medical association says Omicron variant causes "mild disease". https://timesofindia.indiatimes.com/world/rest-of-world/south-african-medical-association-says-omicron-variant-causes-mild-disease/articleshow/87949404.cms (Archive: https://archive.ph/ewD5p)
+
 27 November 2021
 - Omicron variant of SARS-CoV-2 virus (Pango Network lineage B.1.1.529, Nextstrain clade 21K) is rapidly spreading in South Africa. Interestingly, the genetic sequence of Omicron does not resemble currently circulating variants like Delta or even Alpha. It appears that Omicron's closest evolutionary connection is to mid-2020 viruses. In addition, there are a high number of mutations in the spike protein S1 domain, which means it is likely to evade vaccine-mediated immunity. https://twitter.com/trvrb/status/1464353245380243457 https://nextstrain.org/ncov/gisaid/africa?fbclid=IwAR0nQ3gmpps_V9hED3X7dxaAPhuCfEmRlCoaJsl1_2eh3fjtii6ejP8Sw6Y&l=scatter&scatterY=S1_mutations (Archive: https://archive.ph/LIZIr)
 
+24 November 2021
+- *Financial Times*: UK enters wave of excess deaths not fully explained by Covid, "...data suggest that cardiovascular disease and strokes were the most prominent conditions contributing to the unexpectedly high mortality levels." https://www.ft.com/content/05e32f95-0e7e-4d2a-b408-6ec6035dea8e (Archive: https://archive.ph/stF1H)
+
+22 November 2021
+- Conference abstract describes research showing that inflammatory blood markers (e.g. IL-16, a proinflammatory cytokine, soluble Fas, an inducer of apoptosis, and Hepatocyte Growth Factor (HGF) which serves as a marker for chemotaxis of T-cells into epithelium and cardiac tissue) are elevated after mRNA vaccination in 566 patients. https://www.ahajournals.org/doi/abs/10.1161/circ.144.suppl_1.10712 (Archive: https://archive.ph/RLzOw)
+
+17 November 2021
+- Nursing shortage in Australia. Australian College of Critical Care Nurses chief executive Rand Butcher said in the last year, critical care nurses were “leaving in droves”. Professor Ward estimated there were roughly 12,200 vacant nursing positions, and she said some hospital wards were forced to close temporarily when they had been unable to fill shifts. "Other critical care nurses were opting to retire early, choosing to move to another area of nursing due to prolonged stress and burnout, or leaving the industry entirely." https://www.smh.com.au/national/pandemic-triggers-mass-exodus-of-critical-care-nurses-20211116-p5998i.html (Archive: https://archive.ph/Ibaaf)
+
 16 November 2021
+- More than 10,000 Australians have filed COVID-19 vaccine injury claims. "Adverse reactions to be covered are based on TGA advice and will include heart conditions myocarditis and pericarditis, the blood clotting disorder thrombosis with thrombocytopenia, the rare neurological condition Guillain-Barré syndrome and immune thrombocytopenia." https://www.smh.com.au/politics/federal/more-than-10-000-australians-have-filed-coronavirus-vaccine-injury-claims-20211115-p598yy.html (Archive: https://archive.ph/SK2nZ)
+
+- CNN: "'No vaccine required.' That three-word phrase is popping up across online job listings (sometimes emphatically in all caps and accompanied by exclamation marks) as businesses seek to turn the federal government's proposed vaccine decree on its head and attract employees -- notably those from a talent pool that's been turned off by or turned away from employers that require a Covid-19 vaccination." https://edition.cnn.com/2021/11/16/economy/no-vaccine-required-job-listings/index.html (Archive: https://archive.ph/jehaQ)
+
 - South Australian government orders mandatory vaccination for all school staff and volunteers. "We're following in the footsteps of other jurisdictions".  https://indaily.com.au/news/2021/11/16/govt-orders-mandatory-vaccination-for-all-sa-school-staff-and-volunteers/ (Archive: https://archive.ph/XFddY)
 
 12 November 2021
@@ -69,7 +85,7 @@
 - Pre-print study from Sweden indicates that vaccine efficacy wanes significantly after 90 days, and becomes negative after 240 days. The interpretation of this "negative efficacy" is interesting as it implies that after this amount of time has passed, vaccinated individuals are more likely to have a symptomatic COVID-19 infection. Other studies have shown that waning immunity occurs at the 3-month mark, which is consistent with the findings here. Will be interesting to see whether the "negative efficacy" finding is consistent with other published studies as more data comes out. https://boriquagato.substack.com/p/swedish-study-shows-covid-vaccines (Archive: https://archive.ph/Glh0c)
 
 28 October 2021
-- List of 40 studies from the past 2 years that raise doubts on vaccine mandates is made available. https://brownstone.org/articles/16-studies-on-vaccine-efficacy/ (Archive: XXX) The "fact check" for this particular article says that the information is false as some of the studies are pre-prints and that the information conflicts with information on the CDC website (literally cannot make this shit up 😂). https://leadstories.com/hoax-alert/2021/11/fact-check-19-studies-on-vaccine-efficacy-do-not-raise-doubts-on-vaccine-mandates.html
+- List of 40 studies from the past 2 years that raise doubts on vaccine mandates is made available. https://brownstone.org/articles/16-studies-on-vaccine-efficacy/ (Archive: https://archive.ph/cGY9X) The "fact check" for this particular article says that the information is false as some of the studies are pre-prints and that the information conflicts with information on the CDC website (literally cannot make this shit up 😂). https://leadstories.com/hoax-alert/2021/11/fact-check-19-studies-on-vaccine-efficacy-do-not-raise-doubts-on-vaccine-mandates.html
 
 27 October 2021
 - A new variant of SARS-CoV-2 that evades vaccine-induced immunity is discovered. Published in Nature, this paper describes the variant “A.30” that evades vaccine-mediated immunity from both the mRNA (e.g. Pfizer, Moderna) and adenovirus (e.g. AstraZeneca, J&J) vaccine technologies currently on the market. The authors of the paper note that the spike protein of this variant is heavily mutated, with 10 amino acid substitutions and five deletions. (This is consistent with selective pressure on the spike protein due to mass vaccination as suggested by Geert Vanden Bossche months ago). https://www.nature.com/articles/s41423-021-00779-5 
