@@ -13,8 +13,19 @@
 16 November 2021
 - South Australian government orders mandatory vaccination for all school staff and volunteers. "We're following in the footsteps of other jurisdictions".  https://indaily.com.au/news/2021/11/16/govt-orders-mandatory-vaccination-for-all-sa-school-staff-and-volunteers/ (Archive: https://archive.ph/XFddY)
 
+12 November 2021
+- FOIA request by Aaron Siri indicates that the CDC did not have proof of a single instance of a naturally immune individual spreading the virus. In contrast, there have been many instances of vaccinated spreading the virus. https://aaronsiri.substack.com/p/cdc-admits-crushing-rights-of-naturally (Archive: https://archive.ph/BnWpX)
+
 2 November 2021
-- One guy downloads the entire VAERS database and does a few SQL queries, finding that the vast majority of adverse events, including deaths, are associated with a small number of COVID-19 vaccine batch codes. This is consistent across Pfizer, Moderna, and Janssen vaccines. https://market-ticker.org/post=244109 (Archive: https://archive.ph/1bJ2w) More comprehensive analysis and an updated website extending upon this initial finding later released 3 January 2022. 
+- One guy downloads the entire VAERS database and does a few SQL queries, finding that the vast majority of adverse events, including deaths, are associated with a small number of COVID-19 vaccine batch codes. This is consistent across Pfizer, Moderna, and Janssen vaccines. https://market-ticker.org/post=244109 (Archive: https://archive.ph/1bJ2w) (Later, a website "how bad is my batch?" that extends upon these findings is released, see 3 January 2022). 
+
+- Whistleblower comes forward to *BMJ* with data integrity issues from Pfizer's COVID-19 vaccine clinical trial. "A regional director who was employed at the research organisation Ventavia Research Group has told The BMJ that the company falsified data, unblinded patients, employed inadequately trained vaccinators, and was slow to follow up on adverse events reported in Pfizer’s pivotal phase III trial. Staff who conducted quality control checks were overwhelmed by the volume of problems they were finding." https://www.bmj.com/content/375/bmj.n2635 (Archive: https://archive.ph/pwHYj)
+
+30 October 2021
+- Research showing data inconsistencies in UK government datasets is censored after submission to the pre-print server MedRxiv. Normally, papers within scope are automatically accepted; however, apparently this paper was "deemed during screning to be more appropriate for dissemination after peer review at a journal rather than as preprints". https://twitter.com/profnfenton/status/1454343830308798466 (Archive: https://archive.ph/cVvcq)
+
+29 October 2021
+- No difference in viral load of Delta variant in the vaccinated and unvaccinated, according to a study published in *The Lancet*. https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00648-4/fulltext
 
 27 October 2021
 - A new variant of SARS-CoV-2 that evades vaccine-induced immunity is discovered. Published in Nature, this paper describes the variant “A.30” that evades vaccine-mediated immunity from both the mRNA (e.g. Pfizer, Moderna) and adenovirus (e.g. AstraZeneca, J&J) vaccine technologies currently on the market. The authors of the paper note that the spike protein of this variant is heavily mutated, with 10 amino acid substitutions and five deletions. (This is consistent with selective pressure on the spike protein due to mass vaccination as suggested by Geert Vanden Bossche months ago). https://www.nature.com/articles/s41423-021-00779-5 
@@ -66,6 +77,8 @@ https://www.cowraguardian.com.au/story/7478529/vaccine-mandate-set-for-sa-health
 
 - NIH corrects untruthful assertions (lies) by NIH Director Collins and NIAID Director Fauci that NIH had not funded gain-of-function research in Wuhan. NIH states that EcoHealth Alliance violated Terms and Conditions of NIH grant AI110964. https://mobile.twitter.com/R_H_Ebright/status/1450947395508858880 Archive: https://archive.ph/kkruA 
 
+- CDC study indicates no difference in viral load between vaccinated and unvaccinated for SARS-CoV-2. https://aaronsiri.substack.com/p/study-destroys-justification-for https://www.medrxiv.org/content/10.1101/2021.07.31.21261387v4.full.pdf (Archive: https://archive.ph/LLSFF)
+
 19 October 2021
 - Massive, unreported protests in Trieste, Italy, have been occurring this whole week, with tens of thousands of people taking to the streets to protest mandatory vaccination and the Green Pass. Surprisingly, while public footage is abundant on Twitter, this is not being reported across any mainstream media. There is evidence that “live webcams” are being manipulated by replacing current footage with past footage to make it appear that the areas full of people are empty.  https://boriquagato.substack.com/p/protest-in-trieste-we-the-people Archive: https://archive.ph/IzQ6s https://twitter.com/BernieSpofforth/status/1450208428740255744?s=20 
 
@@ -81,6 +94,8 @@ https://www.cowraguardian.com.au/story/7478529/vaccine-mandate-set-for-sa-health
 - French biotech company Valneva’s COVID-19 vaccine candidate, VLA2001, reports promising results from their Phase III trials. VLA2001 is a whole virus, inactivated, adjuvanted vaccine candidate that uses analogous technology to traditional vaccines, except that the density of spike protein on the virus has been increased. Apparently, there are less adverse events than AstraZeneca, and efficacy also appears good, with participants building immunity to S, N, and M proteins of the SARS-CoV-2 virus. (It is interesting that despite not taking only a few months longer to create, all other pharmaceutical companies like Pfizer, Moderna, chose to use a novel mRNA technology instead of proven traditional technologies.) https://trialsitenews.com/valneva-reports-its-covid-19-vaccine-vla200-candidate-is-superior-to-astrazenecas-in-phase-3-cov-compare-trial/ PDF: https://drive.google.com/file/d/1eOoK5B1X7sOtn02EpgUbHiOKBQV1RSYF/view?usp=sharing 
 
 - Fauci, in interview: “And I think people who feel differently, who have conspiracy theories, who deny reality, […] those are people that don’t particularly care for me.” https://summit.news/2021/10/18/video-fauci-says-people-who-dont-like-me-are-conspiracy-theorists-deny-reality/ 
+
+- Over 90% of a US hospital's admissions were vaccinated, according to whistleblower and Physician Assistant Deborah Conrad. https://aaronsiri.substack.com/p/whistleblower-fda-and-cdc-ignore-3e2 (Archive: https://archive.ph/JSge6)
 
 17 October 2021
 - COVID-19 Surveillance Report data from the UK indicates that the vaccinated are experiencing more infections than the unvaccinated. “This is definitely a pandemic of the vaccinated that is killing mostly the vaccinated at this point.” https://igorchudov.substack.com/p/uks-vaccine-hell-gets-worse-every 
@@ -139,6 +154,8 @@ https://stephenc.substack.com/p/the-israeli-moh-caught-red-handed Archive: https
 
 - Multiple strands of evidence of adverse effects from the COVID-19 vaccines have now become evident. From dose-dependent increases in cytokines/chemokines, to the high correlation between mRNA dose and fatality rate (particularly relevant as mRNA dose is higher in Moderna than Pfizer), some of the recent evidence is summarised here: https://roundingtheearth.substack.com/p/mechanistic-evidence-of-vaccine-induced 
 
+- Study from UCDavis indicates no difference in viral load between vaccinated and unvaccinated. https://www.ucdavis.edu/health/covid-19/news/viral-loads-similar-between-vaccinated-and-unvaccinated-people (Archive: https://archive.ph/2jGvl)
+
 3 October 2021
 - Israel pushing ahead with its redefinition of “fully vaccinated” to mean 3 doses. Previously fully-vaccinated (2 dose) Israelis will now lose their vaccine passports as they have not received the third dose: “As of Thursday, some 1.6 million Israelis who are entitled to receive the third dose of the coronavirus vaccine still have not done so, meaning they will be ineligible for the new green passport.” https://www.haaretz.com/israel-news/covid-vaccination-pass-israel-about-to-expire-here-s-how-to-get-a-new-one-1.10255927
 
@@ -154,6 +171,8 @@ https://stephenc.substack.com/p/the-israeli-moh-caught-red-handed Archive: https
 
 - NSW Premier Gladys Berejiklian resigns as NSW Premier as the Independent Commission Against Corruption (ICAC) announces an investigation. The investigation is not related to COVID-19, but it is interesting to note that information about how her pandemic policies have been apparently influenced by lobbyists who have been paid millions by Pfizer and AstraZeneca to drive vaccine policy is also coming to light. 
 https://www.abc.net.au/news/2021-10-01/nsw-premier-gladys-berejiklian-resignation-icac-explained/100507412 https://theconversation.com/gladys-berejiklian-quits-premiership-amid-icac-inquiry-into-links-with-former-mp-169099 https://twitter.com/13orangesbc/status/1443860140806098950?s=21 https://cairnsnews.org/2021/09/15/palmer-exposes-corrupt-big-pharma-politics-and-blackmail-in-nsw/ 
+
+- Paper by Jessica Rose, PhD and Dr Peter McCullough on myocarditis adverse events in the US VAERS database was withdrawn after being accepted for publication in *Current Problems in Cardiology*. The paper's findings indicate that myocarditis adverse events are abnormally high after the COVID-19 vaccine rollout. The authors were not notified that their paper was withdrawn.  https://www.sciencedirect.com/science/article/pii/S0146280621002267?via%3Dihub
 
 30 September 2021
 - Health experts have been left baffled by a big rise in a common and potentially fatal type of heart attack in the west of Scotland. “During the summer there was a 25 per cent rise in the number of people rushed to the Golden Jubilee National Hospital in Clydebank with partially blocked arteries cutting blood supply to the heart.” https://www.thetimes.co.uk/article/mystery-rise-in-heart-attacks-from-blocked-arteries-m253drrnf 
