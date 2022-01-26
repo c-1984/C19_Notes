@@ -1,11 +1,25 @@
+## Apocalypse timeline
+
+Note: Not fully comprehensive; this is just one person's attempt to document changing narratives during the COVID-19 pandemic across 2019-2022. 
+
+---
+
+23 January 2022
+- University of Northampton issues a trigger warning for George Orwell's 1984 as it contains "explicit material" which some students may find "offensive and upsetting". https://www.dailymail.co.uk/news/article-10430597/University-slaps-trigger-warning-George-Orwells-Nineteen-Eighty-Four.html (Archive: https://archive.ph/0yCF7)
+
 20 January 2022
+- UK Health Security Agency no longer includes double-vaccinated numbers in its plots of case rates, hospitalisation rates, and death rates. Now they only include the unvaccinated and triple-vaccinated, in contrast to their previously published weekly reports. This appears to be done in order to visually obscure the "negative efficacy" of the COVID-19 vaccines, particularly in the double-vaccinated. (See also, 5 November 2020). https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1049160/Vaccine-surveillance-report-week-3-2022.pdf Commentary by eugyppius: https://eugyppius.substack.com/p/unboostered-brits-infected-and-dying (Archive: https://archive.ph/2NXnF)
+
 - Australia's TGA approves Novavax COVID-19 vaccine and 2 antiviral pills (Pfizer's Paxlovid and Merck Sharp & Dohme's Lagevrio). https://www.abc.net.au/news/2022-01-20/tga-approves-antiviral-covid-pills-novavax-vaccine/100768796 Archive: https://archive.ph/qZ0Mp It is interesting that Merck's Lagevrio (Molnupiravir) was approved considering that it only showed statistically significant clinical improvements in Brazil (n=34 participants treated) and no other country (https://twitter.com/Covid19Crusher/status/1465945189646807042), and that it did not show significant efficacy in moderate COVID-19 cases in India (https://www.reuters.com/business/healthcare-pharmaceuticals/aurobindo-pharma-stop-molnupiravir-trial-moderate-covid-19-patients-2021-10-08/). 
 
 16 January 2022
-- Athlete collapses, major medical issues, and deaths have increased significantly over 2021 after receiving one or more COVID-19 vaccines. https://goodsciencing.com/covid/athletes-suffer-cardiac-arrest-die-after-covid-shot/ (Archive: https://archive.ph/Ou3GC)
+- Enough data has emerged to show that athlete collapses, major medical issues, and deaths have increased significantly over the past year, for athletes who received one or more COVID-19 vaccines. https://goodsciencing.com/covid/athletes-suffer-cardiac-arrest-die-after-covid-shot/ (Archive: https://archive.ph/Ou3GC)
 
 11 January 2022
 - Study from Southern California finds that Omicron is clinically very mild compared to Delta. Hospitalisation rate of Omicron was less than half of that of Delta (0.5% of Omicron cases were hospitalised, compared to 1.3% of Delta cases). "During a period with mixed Delta and Omicron variant circulation, SARS-CoV-2 infections with presumed Omicron variant infection were associated with substantially reduced risk of severe clinical endpoints and shorter durations of hospital stay. https://www.medrxiv.org/content/10.1101/2022.01.11.22269045v1
+
+7 January 2022
+- Steve Kirsch draws attention to the situation in Australia; COVID-19 cases are at an all-time high despite strict public health measures including mandatory vaccinations for many groups, mask use, density limits, etc. https://stevekirsch.substack.com/p/australia-shows-the-world-the-wrong (Archive: https://archive.ph/egO0d)
 
 3 January 2022
 - [howbadismybatch.com](https://www.howbadismybatch.com/) website released by Craig Paardekooper (announcement in [Facebook group](https://www.facebook.com/groups/352273635911627/permalink/651265956012392/)), with all source code and data cleaning details made publically available. The website pulls data from VAERS, specifically the batch codes of COVID-19 vaccines and the number of adverse reactions, deaths, disabilities, and life threatening illnesses associated with a given batch. The data indicate that most adverse events appear to be associated with a small number of batches and this pattern is consistent across the Pfizer, Moderna, Janssen vaccines. This phenomenon was originally reported on 2 November 2021. 
