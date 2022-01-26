@@ -1,8 +1,20 @@
 20 January 2022
 - Australia's TGA approves Novavax COVID-19 vaccine and 2 antiviral pills (Pfizer's Paxlovid and Merck Sharp & Dohme's Lagevrio). https://www.abc.net.au/news/2022-01-20/tga-approves-antiviral-covid-pills-novavax-vaccine/100768796 Archive: https://archive.ph/qZ0Mp
 
+16 January 2022
+- Athlete collapses, major medical issues, and deaths have increased significantly over 2021 after receiving one or more COVID-19 vaccines. https://goodsciencing.com/covid/athletes-suffer-cardiac-arrest-die-after-covid-shot/ (Archive: https://archive.ph/Ou3GC)
+
+11 January 2022
+- Study from Southern California finds that Omicron is clinically very mild compared to Delta. Hospitalisation rate of Omicron was less than half of that of Delta (0.5% of Omicron cases were hospitalised, compared to 1.3% of Delta cases). "During a period with mixed Delta and Omicron variant circulation, SARS-CoV-2 infections with presumed Omicron variant infection were associated with substantially reduced risk of severe clinical endpoints and shorter durations of hospital stay. https://www.medrxiv.org/content/10.1101/2022.01.11.22269045v1
+
 3 January 2022
 - [howbadismybatch.com](https://www.howbadismybatch.com/) website released by Craig Paardekooper (announcement in [Facebook group](https://www.facebook.com/groups/352273635911627/permalink/651265956012392/)), with all source code and data cleaning details made publically available. The website pulls data from VAERS, specifically the batch codes of COVID-19 vaccines and the number of adverse reactions, deaths, disabilities, and life threatening illnesses associated with a given batch. The data indicate that most adverse events appear to be associated with a small number of batches and this pattern is consistent across the Pfizer, Moderna, Janssen vaccines. This phenomenon was originally reported on 2 November 2021. 
+
+1 January 2022
+- Joe Rogan podcast with Dr. Robert Malone, inventor of the nine original mRNA vaccine patents released. https://open.spotify.com/episode/3SCsueX2bZdbEzRtKOCEyT?si=vK7c95NKRI2qSNW6Li2wyg&nd=1 (Full transcript was entered into the Congressional Record after the interview was removed from Twitter and YouTube: https://nehls.house.gov/posts/joe-rogan-experience-1757-dr-robert-malone-md-full-transcript) 
+
+25 December 2021
+- Study of 42,200,614 people finds that the third dose of Pfizer BNT162b2 vaccine increases risk of myocarditis for 28 days following vaccination, particularly in males < 40 years old. https://www.medrxiv.org/content/10.1101/2021.12.23.21268276v1 
 
 1 December 2021
 - Biden COVID-19 vaccine mandate for healthcare workers is blocked by federal judge in Louisiana (joined in the lawsuit by attorneys general in 13 other states). "If human nature and history teach anything, it is that civil liberties face grave risks when governments proclaim indefinite states of emergency. During a pandemic such as this one, it is even more important to safeguard the separation of powers set forth in our Constitution to avoid erosion of our liberties." https://www.foxnews.com/us/federal-judge-blocks-biden-vaccine-mandate-for-health-care-workers-nationwide (Archive: https://archive.ph/J5nRQ)
@@ -14,18 +26,50 @@
 - South Australian government orders mandatory vaccination for all school staff and volunteers. "We're following in the footsteps of other jurisdictions".  https://indaily.com.au/news/2021/11/16/govt-orders-mandatory-vaccination-for-all-sa-school-staff-and-volunteers/ (Archive: https://archive.ph/XFddY)
 
 12 November 2021
-- FOIA request by Aaron Siri indicates that the CDC did not have proof of a single instance of a naturally immune individual spreading the virus. In contrast, there have been many instances of vaccinated spreading the virus. https://aaronsiri.substack.com/p/cdc-admits-crushing-rights-of-naturally (Archive: https://archive.ph/BnWpX)
+- FOIA request by lawyer Aaron Siri indicates that the CDC did not have proof of a single instance of a naturally immune individual spreading the virus. In contrast, there have been many instances of vaccinated spreading the virus. https://aaronsiri.substack.com/p/cdc-admits-crushing-rights-of-naturally (Archive: https://archive.ph/BnWpX)
+
+11 November 2021
+- Blog post by el gato malo highlights that COVID-19 cases appear to be more correlated to seasonality than vaccine prevalence. https://boriquagato.substack.com/p/seasonal-expression-not-vaccine-prevalence (Archive: https://archive.ph/bzLFf)
+
+9 November 2021
+- In court proceedings, New South Wales Chief Health Officer Kerry Chant revealed that no modelling had been done to assess the impact of a small number of health workers remaining unvaccinated. https://www.spectator.com.au/2021/11/revealed-vaccine-mandate-court-case-hears-bizarre-government-modelling-claims (Archive: https://archive.ph/34Js9)
+
+- Pre-print research indicates that a booster shot of Pfizer or Moderna results in a greater number of adverse events. The authors did not come to this conclusion in the text, but their figures in the Supplementary Information (apparently not important enough for the main text!) indicate a dose-dependent relationship (see Figures S2 and S3). Interestingly, the figures are also not broken down by age group or sex. This speaks volumes, especially knowing that some effects are both sex and age-dependent (e.g. myocarditis, menstrual issues). https://www.medrxiv.org/content/10.1101/2021.11.05.21265961v1.full-text 
+
+8 November 2021
+- Group of Swedish medical professionals call for the suspension of the Pfizer vaccine. "...The strong suspicion that parts of the clinical trial of Pfizer's vaccine were not performed in a scientifically acceptable manner and where the study result cannot be considered reliable, in combination with the large volume of reported suspected side effects after vaccination, many of a serious nature, make us, as doctors, researchers and immunologists, deeply concerned. Not the least for the children who run an extremely low risk of serious illness with covid-19, but who are at risk serious side effects. That the vaccine' efficacy has waned sharply already after a few months and is weak against the delta variant of the virus contributes to our conclusion that covid vaccination in Sweden should be paused until risk / benefit calculations are made for all age groups. Our position is taken in the light of the revelation in BMJ and what we know today about the risks to the patient." https://lakaruppropet.se/wp-content/uploads/2021/11/pressmeddelande-5-nov-2021.pdf (Archive: https://drive.google.com/file/d/1XesXi2UeQ5pMdeZvV3w0KYFSsv-1QgbV/view?usp=sharing)
+
+7 November 2021
+- Blog post brings to attention that only information going against the desired narrative is "fact checked". When incorrect information is posted that supports the narrative, it is paradoxically not fact checked even though it can be misleading. An example is the claim by Dr Walensky (WHO) who claimed that "masks can help reduce your chance of COVID19 infection by more than 80%", after a randomised-control-trial study showed that masks only had an 11% relative risk reduction. https://brownstone.org/articles/for-whom-do-the-covid-fact-checkers-really-work (Archive: https://archive.ph/gjH0d)
+
+5 November 2021
+- Pfizer shares surge in price (+11%) after they announce that their antiviral COVID-19 pill is 89% effective at preventing hospitalisation in high-risk patients. “The results are really beyond our wildest dreams,” said Annaliesa Anderson, a Pfizer executive who led the drug’s development. She expressed hope that Paxlovid “can have a big impact on helping all our lives go back to normal again and seeing the end of the pandemic.” https://www.zerohedge.com/markets/pfizer-shares-surge-after-release-miracle-covid-pill-89-effective-preventing (Archive: https://archive.ph/pWZzM)
+
+- UK Health Security Agency Vaccine Surveillance Report indicates that there are more COVID-19 cases in the vaccinated as compared to the unvaccinated, for all age groups 30 years+. OSR director Ed Humpherson: "It remains the case that the surveillance report includes rates per 100,000 which can be used to argue that vaccines are not effective. [...] In publishing these data, you need to address more comprehensively the risk that it misleads people into thinking that it says something about vaccine effectiveness. One possibility would be to only publish rates in the vaccinated population, which are known accurately, but I recognise your concern that you are already publishing rates for both groups. [...] I recognise that you want to maintain transparency and consistency, but these qualities should not be at the expense of informing the public appropriately."  https://eugyppius.substack.com/p/ukhsa-efficacy-stats-death-watch (Archive: https://archive.ph/2ZNIs)
 
 2 November 2021
 - One guy downloads the entire VAERS database and does a few SQL queries, finding that the vast majority of adverse events, including deaths, are associated with a small number of COVID-19 vaccine batch codes. This is consistent across Pfizer, Moderna, and Janssen vaccines. https://market-ticker.org/post=244109 (Archive: https://archive.ph/1bJ2w) (Later, a website "how bad is my batch?" that extends upon these findings is released, see 3 January 2022). 
 
 - Whistleblower comes forward to *BMJ* with data integrity issues from Pfizer's COVID-19 vaccine clinical trial. "A regional director who was employed at the research organisation Ventavia Research Group has told The BMJ that the company falsified data, unblinded patients, employed inadequately trained vaccinators, and was slow to follow up on adverse events reported in Pfizer’s pivotal phase III trial. Staff who conducted quality control checks were overwhelmed by the volume of problems they were finding." https://www.bmj.com/content/375/bmj.n2635 (Archive: https://archive.ph/pwHYj)
 
+- NASA scientists from the Jet Propulsion Laboratory protest against COVID-19 vaccine mandate. https://boriquagato.substack.com/p/kitten-corner-nasa-vaccine-protests
+
+1 November 2021
+- Toby Rogers draws attention to the absurd Number Needed to Vaccinate (NNTV) of the COVID-19 vaccines in 5-11 year old children. In order to prevent one COVID-19 death in this age group, 630,775 children must be vaccinated. Taking this together with findings of severe adverse events which are more common in children (e.g. myocarditis), "For every one child saved by the shot, another 117 would be killed by the shot." https://tobyrogers.substack.com/p/what-is-the-number-needed-to-vaccinate (Archive: https://archive.ph/1r5g0)
+
+31 October 2021
+- Hospitals in Australia are overwhelmed, not from COVID-19. Mark McGowan, Premier of Western Australia: "Our hospitals are under enormous pressure. This is the same in [the rest of Australia]. This has been something no one has ever seen before, the growth in demand in our hospitals, why it is is hard, hard to know… There is huge numbers of people coming through the door, so we’re doing everything we can to try to manage it." https://alexberenson.substack.com/p/the-hospitals-in-australia-are-being (Archive: https://archive.ph/S7zjb)
+
 30 October 2021
 - Research showing data inconsistencies in UK government datasets is censored after submission to the pre-print server MedRxiv. Normally, papers within scope are automatically accepted; however, apparently this paper was "deemed during screning to be more appropriate for dissemination after peer review at a journal rather than as preprints". https://twitter.com/profnfenton/status/1454343830308798466 (Archive: https://archive.ph/cVvcq)
 
 29 October 2021
 - No difference in viral load of Delta variant in the vaccinated and unvaccinated, according to a study published in *The Lancet*. https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00648-4/fulltext
+
+- Pre-print study from Sweden indicates that vaccine efficacy wanes significantly after 90 days, and becomes negative after 240 days. The interpretation of this "negative efficacy" is interesting as it implies that after this amount of time has passed, vaccinated individuals are more likely to have a symptomatic COVID-19 infection. Other studies have shown that waning immunity occurs at the 3-month mark, which is consistent with the findings here. Will be interesting to see whether the "negative efficacy" finding is consistent with other published studies as more data comes out. https://boriquagato.substack.com/p/swedish-study-shows-covid-vaccines (Archive: https://archive.ph/Glh0c)
+
+28 October 2021
+- List of 40 studies from the past 2 years that raise doubts on vaccine mandates is made available. https://brownstone.org/articles/16-studies-on-vaccine-efficacy/ (Archive: XXX) The "fact check" for this particular article says that the information is false as some of the studies are pre-prints and that the information conflicts with information on the CDC website (literally cannot make this shit up 😂). https://leadstories.com/hoax-alert/2021/11/fact-check-19-studies-on-vaccine-efficacy-do-not-raise-doubts-on-vaccine-mandates.html
 
 27 October 2021
 - A new variant of SARS-CoV-2 that evades vaccine-induced immunity is discovered. Published in Nature, this paper describes the variant “A.30” that evades vaccine-mediated immunity from both the mRNA (e.g. Pfizer, Moderna) and adenovirus (e.g. AstraZeneca, J&J) vaccine technologies currently on the market. The authors of the paper note that the spike protein of this variant is heavily mutated, with 10 amino acid substitutions and five deletions. (This is consistent with selective pressure on the spike protein due to mass vaccination as suggested by Geert Vanden Bossche months ago). https://www.nature.com/articles/s41423-021-00779-5 
@@ -155,6 +199,8 @@ https://stephenc.substack.com/p/the-israeli-moh-caught-red-handed Archive: https
 - Multiple strands of evidence of adverse effects from the COVID-19 vaccines have now become evident. From dose-dependent increases in cytokines/chemokines, to the high correlation between mRNA dose and fatality rate (particularly relevant as mRNA dose is higher in Moderna than Pfizer), some of the recent evidence is summarised here: https://roundingtheearth.substack.com/p/mechanistic-evidence-of-vaccine-induced 
 
 - Study from UCDavis indicates no difference in viral load between vaccinated and unvaccinated. https://www.ucdavis.edu/health/covid-19/news/viral-loads-similar-between-vaccinated-and-unvaccinated-people (Archive: https://archive.ph/2jGvl)
+
+- Case report published in *Journal of Hepatology* linking a case of hepatitis (liver inflammation) directly to the Moderna mRNA vaccine. https://www.journal-of-hepatology.eu/article/S0168-8278(21)02093-6/fulltext Interestingly, this is consistent with previous research in a mouse model showing that mRNA COVID-19 vaccination led to "ballooning hepatocytes" in the livers of the mice (see 18 August 2021). 
 
 3 October 2021
 - Israel pushing ahead with its redefinition of “fully vaccinated” to mean 3 doses. Previously fully-vaccinated (2 dose) Israelis will now lose their vaccine passports as they have not received the third dose: “As of Thursday, some 1.6 million Israelis who are entitled to receive the third dose of the coronavirus vaccine still have not done so, meaning they will be ineligible for the new green passport.” https://www.haaretz.com/israel-news/covid-vaccination-pass-israel-about-to-expire-here-s-how-to-get-a-new-one-1.10255927
@@ -483,6 +529,8 @@ https://www.bbc.com/news/health-58270098
 
 18 August 2021
 - Three young male athletes develop heart complications after their second vaccine dose. Doctors say “no need to panic, but we recommend taking it easy for at least one week after receiving a vaccine dose.” https://www.brusselstimes.com/belgium/181660/doctors-advise-against-intensive-sport-after-covid-vaccination/ 
+
+- Study in *Clinical Infectious Diseases* shows that the accidental intravenous injection of an mRNA vaccine in mice causes myocarditis. Although this is the main finding of the study, interestingly, Table 1 and the supplementary data indicate "ballooning degeneration" of hepatocytes (liver cells) even in the mice that were properly injected intramuscularly. https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab707/6353927 The effects of the mRNA vaccine on the liver are consistent with a case report later published on 4 October 2021 documenting a case of hepatitis (liver inflammation) that was linked directly to the Moderna mRNA vaccine. 
 
 17 August 2021 
 - Scottish government seeks to make emergency COVID powers including lockdowns and mandates permanent so that they can apparently control “incidence or spread of infection or contamination which presents, or could present, significant harm to human health in Scotland, not just Covid”. 🤯
