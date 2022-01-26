@@ -1,5 +1,5 @@
 20 January 2022
-- Australia's TGA approves Novavax COVID-19 vaccine and 2 antiviral pills (Pfizer's Paxlovid and Merck Sharp & Dohme's Lagevrio). https://www.abc.net.au/news/2022-01-20/tga-approves-antiviral-covid-pills-novavax-vaccine/100768796 Archive: https://archive.ph/qZ0Mp
+- Australia's TGA approves Novavax COVID-19 vaccine and 2 antiviral pills (Pfizer's Paxlovid and Merck Sharp & Dohme's Lagevrio). https://www.abc.net.au/news/2022-01-20/tga-approves-antiviral-covid-pills-novavax-vaccine/100768796 Archive: https://archive.ph/qZ0Mp It is interesting that Merck's Lagevrio (Molnupiravir) was approved considering that it only showed statistically significant clinical improvements in Brazil (n=34 participants treated) and no other country (https://twitter.com/Covid19Crusher/status/1465945189646807042), and that it did not show significant efficacy in moderate COVID-19 cases in India (https://www.reuters.com/business/healthcare-pharmaceuticals/aurobindo-pharma-stop-molnupiravir-trial-moderate-covid-19-patients-2021-10-08/). 
 
 16 January 2022
 - Athlete collapses, major medical issues, and deaths have increased significantly over 2021 after receiving one or more COVID-19 vaccines. https://goodsciencing.com/covid/athletes-suffer-cardiac-arrest-die-after-covid-shot/ (Archive: https://archive.ph/Ou3GC)
@@ -27,6 +27,9 @@
 
 24 November 2021
 - *Financial Times*: UK enters wave of excess deaths not fully explained by Covid, "...data suggest that cardiovascular disease and strokes were the most prominent conditions contributing to the unexpectedly high mortality levels." https://www.ft.com/content/05e32f95-0e7e-4d2a-b408-6ec6035dea8e (Archive: https://archive.ph/stF1H)
+
+23 November 2021
+- South Africa starts including antigen tests in its COVID-19 case count (previously, only PCR tests were counted as cases). https://boriquagato.substack.com/p/the-omicron-absurdities-continue 
 
 22 November 2021
 - Conference abstract describes research showing that inflammatory blood markers (e.g. IL-16, a proinflammatory cytokine, soluble Fas, an inducer of apoptosis, and Hepatocyte Growth Factor (HGF) which serves as a marker for chemotaxis of T-cells into epithelium and cardiac tissue) are elevated after mRNA vaccination in 566 patients. https://www.ahajournals.org/doi/abs/10.1161/circ.144.suppl_1.10712 (Archive: https://archive.ph/RLzOw)
