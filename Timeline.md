@@ -33,6 +33,12 @@ Note: Not fully comprehensive; this is just one person's attempt to document cha
 25 December 2021
 - Study of 42,200,614 people finds that the third dose of Pfizer BNT162b2 vaccine increases risk of myocarditis for 28 days following vaccination, particularly in males < 40 years old. https://www.medrxiv.org/content/10.1101/2021.12.23.21268276v1 
 
+8 December 2021
+- FDA asks Federal Judge to have until 2096 (another 75 years) to release all their data on which it relied upon to license Pfizer's COVID-19 vaccine. https://aaronsiri.substack.com/p/fda-doubles-down-asks-federal-judge (Archive: https://archive.ph/VPzSN)
+
+7 December 2021
+- Data from the South African Medical Researh Council reveals that patients infected with the Omicron variant experience only mild disease. This is despite the fact that a majority of the patients in the study were unvaccinated. https://www.thesouthafrican.com/news/breaking-new-data-latest-omicron-infections-hospitals-tshwane-6-december (Archive: https://archive.ph/undol)
+
 1 December 2021
 - Biden COVID-19 vaccine mandate for healthcare workers is blocked by federal judge in Louisiana (joined in the lawsuit by attorneys general in 13 other states). "If human nature and history teach anything, it is that civil liberties face grave risks when governments proclaim indefinite states of emergency. During a pandemic such as this one, it is even more important to safeguard the separation of powers set forth in our Constitution to avoid erosion of our liberties." https://www.foxnews.com/us/federal-judge-blocks-biden-vaccine-mandate-for-health-care-workers-nationwide (Archive: https://archive.ph/J5nRQ)
 
