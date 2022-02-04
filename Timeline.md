@@ -7,6 +7,12 @@ Note: Not fully comprehensive; this is just one person's attempt to document cha
 4 February 2022
 - *The Independent* reports that up to 3.5 million COVID-19 vaccine doses could be thrown out in the UK due to lack of demand before their expiry dates. https://www.independent.co.uk/news/uk/nhs-england-british-government-government-medicines-and-healthcare-products-regulatory-agency-omicron-b2007028.html (Archive: https://archive.ph/K6r0S)
 
+3 February 2022
+- Research in *JAMA* published providing evidence that COVID-19 natural immunity is longer lasting compared to that from vaccination. https://jamanetwork.com/journals/jama/fullarticle/2788894 (Archive: https://archive.ph/qcHKy)
+
+2 February 2022
+- Paper with controversial findings ("Official mortality data for England suggest systematic miscategorisation of vaccine status and uncertain effects of Covid-19 vaccination") rejected from *BMJ* without any explanation. Previously this paper was also rejected from the pre-print server *medRxiv* due to the controversial subject matter. The paper is authored by Professors Martin Neil (QMUL) and Norman Fenton (Queen Mary University of London) along with other researchers and senior clinicians. https://probabilityandlaw.blogspot.com/2022/02/update-bmj-rejects-without-review-paper.html (Archive: https://archive.ph/0dRT0)
+
 26 January 2022
 - *WSJ*: The High Cost of Disparaging Natural Immunity to Covid. "Vaccines were wasted on those who didn’t need them, and people who posed no risk lost jobs." https://www.wsj.com/articles/the-high-cost-of-disparaging-natural-immunity-to-covid-vaccine-mandates-protests-fire-rehire-employment-11643214336?mod=e2two (Archive: https://archive.ph/ZuVNz)
 
