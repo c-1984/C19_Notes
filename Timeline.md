@@ -1,22 +1,38 @@
-## Apocalypse timeline
+## Apocalypse Timeline
 
 Note: Not fully comprehensive; this is just one person's attempt to document changing narratives during the COVID-19 pandemic across 2019-2022. 
 
 ---
 
+4 February 2022
+- *The Independent* reports that up to 3.5 million COVID-19 vaccine doses could be thrown out in the UK due to lack of demand before their expiry dates. https://www.independent.co.uk/news/uk/nhs-england-british-government-government-medicines-and-healthcare-products-regulatory-agency-omicron-b2007028.html (Archive: https://archive.ph/K6r0S)
+
+26 January 2022
+- *WSJ*: The High Cost of Disparaging Natural Immunity to Covid. "Vaccines were wasted on those who didn’t need them, and people who posed no risk lost jobs." https://www.wsj.com/articles/the-high-cost-of-disparaging-natural-immunity-to-covid-vaccine-mandates-protests-fire-rehire-employment-11643214336?mod=e2two (Archive: https://archive.ph/ZuVNz)
+
 23 January 2022
 - University of Northampton issues a trigger warning for George Orwell's 1984 as it contains "explicit material" which some students may find "offensive and upsetting". https://www.dailymail.co.uk/news/article-10430597/University-slaps-trigger-warning-George-Orwells-Nineteen-Eighty-Four.html (Archive: https://archive.ph/0yCF7)
 
+22 January 2022
+- 50,000 Canadian truckers called the "Freedom Convoy" depart British Columbia for Ottawa to protest the COVID-19 vaccine mandate for commercial truck drivers that came into effect 15 January in Canada. The movement has been highly supported, raising $3.5 million worth of support for food, lodgings, fuel, etc. in just 11 days. https://dailyexpose.uk/2022/01/27/50000-strong-trucker-convoy-travels-to-ottawa-canada-demanding-end-to-covid-19-vaccine-mandates/ (Archive: https://archive.ph/Taiyk)
+
 20 January 2022
+- *Science* magazine admits that, "in rare cases, coronavirus vaccines may cause Long Covid–like symptoms", and raises the possibility that the spike protein might be responsible: “We shouldn’t be averse to adverse events,” says William Murphy, an immunologist at the University of California, Davis. In November 2021 in The New England Journal of Medicine, he proposed that an autoimmune mechanism triggered by the SARS-CoV-2 spike protein might explain both Long Covid symptoms and some rare vaccine side effects, and he called for more basic research to probe possible connections. https://www.science.org/content/article/rare-cases-coronavirus-vaccines-may-cause-long-covid-symptoms (Archive: https://archive.ph/D5x4K)
+
 - UK Health Security Agency no longer includes double-vaccinated numbers in its plots of case rates, hospitalisation rates, and death rates. Now they only include the unvaccinated and triple-vaccinated, in contrast to their previously published weekly reports. This appears to be done in order to visually obscure the "negative efficacy" of the COVID-19 vaccines, particularly in the double-vaccinated. (See also, 5 November 2020). https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1049160/Vaccine-surveillance-report-week-3-2022.pdf Commentary by eugyppius: https://eugyppius.substack.com/p/unboostered-brits-infected-and-dying (Archive: https://archive.ph/2NXnF)
 
 - Australia's TGA approves Novavax COVID-19 vaccine and 2 antiviral pills (Pfizer's Paxlovid and Merck Sharp & Dohme's Lagevrio). https://www.abc.net.au/news/2022-01-20/tga-approves-antiviral-covid-pills-novavax-vaccine/100768796 Archive: https://archive.ph/qZ0Mp It is interesting that Merck's Lagevrio (Molnupiravir) was approved considering that it only showed statistically significant clinical improvements in Brazil (n=34 participants treated) and no other country (https://twitter.com/Covid19Crusher/status/1465945189646807042), and that it did not show significant efficacy in moderate COVID-19 cases in India (https://www.reuters.com/business/healthcare-pharmaceuticals/aurobindo-pharma-stop-molnupiravir-trial-moderate-covid-19-patients-2021-10-08/). 
+
+19 January 2022
+- BMJ calls for the release of raw data relating to the COVID-19 vaccines. "As the global vaccine rollout continues, it cannot be justifiable or in the best interests of patients and the public that we are left to just trust “in the system,” with the distant hope that the underlying data may become available for independent scrutiny at some point in the future. The same applies to treatments for covid-19. Transparency is the key to building trust and an important route to answering people’s legitimate questions about the efficacy and safety of vaccines and treatments and the clinical and public health policies established for their use." https://www.bmj.com/content/376/bmj.o102 (Archive: https://archive.ph/ez6EC)
 
 16 January 2022
 - Enough data has emerged to show that athlete collapses, major medical issues, and deaths have increased significantly over the past year, for athletes who received one or more COVID-19 vaccines. https://goodsciencing.com/covid/athletes-suffer-cardiac-arrest-die-after-covid-shot/ (Archive: https://archive.ph/Ou3GC)
 
 14 January 2022
 - Tennis star, Novak Djokovic, had his visa for Australia cancelled on the basis his presence could “excite anti-vaccination sentiment”, according to Immigration Minister Alex Hawke. Djokovic has already recovered from COVID-19 a month ago and has natural immunity to the disease. In Australia, natural immunity is normally accepted as a reason to obtain an exemption from COVID-19 vaccination for 6 months. However, the same rules did not apply to Djokovic due to concerns that he may influence others to become anti-vax. https://www.theguardian.com/sport/live/2022/jan/14/novak-djokovic-news-live-visa-cancelled-australia-2022-australian-open-tennis-latest-updates-immigration-minister-alex-hawke (Archive: https://archive.ph/bladR)
+
+- Alberta, Canada official data indicates that almost 56% of deaths of the vaccinated occur within 14 days of vaccination, and almost 90% within 45 days. https://metatron.substack.com/p/alberta-just-inadvertently-confessed (Archive: https://archive.ph/jnuKd)
 
 11 January 2022
 - Study from Southern California finds that Omicron is clinically very mild compared to Delta. Hospitalisation rate of Omicron was less than half of that of Delta (0.5% of Omicron cases were hospitalised, compared to 1.3% of Delta cases). "During a period with mixed Delta and Omicron variant circulation, SARS-CoV-2 infections with presumed Omicron variant infection were associated with substantially reduced risk of severe clinical endpoints and shorter durations of hospital stay. https://www.medrxiv.org/content/10.1101/2022.01.11.22269045v1
@@ -29,6 +45,8 @@ Note: Not fully comprehensive; this is just one person's attempt to document cha
 
 1 January 2022
 - Joe Rogan podcast with Dr. Robert Malone, inventor of the nine original mRNA vaccine patents released. https://open.spotify.com/episode/3SCsueX2bZdbEzRtKOCEyT?si=vK7c95NKRI2qSNW6Li2wyg&nd=1 (Full transcript was entered into the Congressional Record after the interview was removed from Twitter and YouTube: https://nehls.house.gov/posts/joe-rogan-experience-1757-dr-robert-malone-md-full-transcript) 
+
+- In Western Australia, the majority of the workforce must be fully vaccinated by today, with those who do not comply risking heavy penalties. The booster shot will also be mandatory as well, once workers are eligible. https://www.abc.net.au/news/2022-01-01/vaccine-mandate-passes-for-majority-of-workers/100729986 (Archive: https://archive.ph/fVZ89)
 
 25 December 2021
 - Study of 42,200,614 people finds that the third dose of Pfizer BNT162b2 vaccine increases risk of myocarditis for 28 days following vaccination, particularly in males < 40 years old. https://www.medrxiv.org/content/10.1101/2021.12.23.21268276v1 
@@ -737,6 +755,9 @@ https://connect.brookings.edu/register-to-origin-covid-19-regulation-prevent-pan
 
 2 May 2021
 - Research from the Salk Institute finds that the spike protein is sufficient to cause vascular effects: “In the new study, the researchers created a “pseudovirus” that was surrounded by SARS-CoV-2 classic crown of spike proteins, but did not contain any actual virus. Exposure to this pseudovirus resulted in damage to the lungs and arteries of an animal model—proving that the spike protein alone was enough to cause disease. Tissue samples showed inflammation in endothelial cells lining the pulmonary artery walls.” https://scitechdaily.com/covid-19-is-a-vascular-disease-coronavirus-spike-protein-attacks-vascular-system-on-a-cellular-level/ 
+
+May 2021 (Date unknown)
+- Report on Human Augmentation released by the UK Ministry of Defense. "We cannot wait for the ethics of human augmentation to be decided for us, we must be part of the conversation now. [...] It could be argued that treatments involving novel vaccination processes and gene and cell therapies are examples of human augmentation already in the pipeline."   https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/986301/Human_Augmentation_SIP_access2.pdf (PDF Archive: https://drive.google.com/file/d/1ptGp3u-YIPEeQ9UMkW4Rlzd37Pd3JCEl/view?usp=sharing); Also see commentary by Robet Malone here: https://rwmalonemd.substack.com/p/human-augmentation-the-dawn-of-a (Archive: https://archive.ph/MRBc7)
 
 27 April 2021
 - An open letter signed by 40+ medical practitioners from New Zealand including 13 doctors, raising concerns about the Pfizer COMINARTY mRNA vaccine. https://kti.org.nz/?p=361 
