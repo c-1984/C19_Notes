@@ -10,7 +10,7 @@ Note: Not fully comprehensive; this is just one person's attempt to document cha
 4 February 2022
 - *The Independent* reports that up to 3.5 million COVID-19 vaccine doses could be thrown out in the UK due to lack of demand before their expiry dates. https://www.independent.co.uk/news/uk/nhs-england-british-government-government-medicines-and-healthcare-products-regulatory-agency-omicron-b2007028.html (Archive: https://archive.ph/K6r0S)
 
-- Pre-print research on macaques indicates that Omicron=specific vaccine doesn't work against Omicron. In the words of the authors: “An Omicron boost may not provide greater immunity or protection compared to a boost with the current mRNA-1273 vaccine.” (The Moderna mRNA-1273 vaccine does not work against Omicron.) https://www.biorxiv.org/content/10.1101/2022.02.03.479037v1 (See also Alex Berenson commentary: https://alexberenson.substack.com/p/very-concerning-news-for-the-vaccinated; Archive: https://archive.ph/0Us4U)
+- Pre-print research on macaques indicates that Omicron-specific vaccine doesn't work against Omicron. In the words of the authors: “An Omicron boost may not provide greater immunity or protection compared to a boost with the current [Moderna] mRNA-1273 vaccine.” (The Moderna mRNA-1273 vaccine does not work against Omicron.) https://www.biorxiv.org/content/10.1101/2022.02.03.479037v1 (See also Alex Berenson commentary: https://alexberenson.substack.com/p/very-concerning-news-for-the-vaccinated; Archive: https://archive.ph/0Us4U)
 
 3 February 2022
 - Research in *JAMA* published providing evidence that COVID-19 natural immunity is longer lasting compared to that from vaccination. https://jamanetwork.com/journals/jama/fullarticle/2788894 (Archive: https://archive.ph/qcHKy)
