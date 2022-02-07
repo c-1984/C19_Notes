@@ -4,6 +4,9 @@ Note: Not fully comprehensive; this is just one person's attempt to document cha
 
 ---
 
+7 February 2022
+- Ottawa declares state of emergency. Ottawa police saying that anyone bringing truckers fuel or supplies will be arrested. https://twitter.com/mysteriouskat/status/1490472541399379972 https://palexander.substack.com/p/major-update-on-the-floor-and-a-state
+
 4 February 2022
 - *The Independent* reports that up to 3.5 million COVID-19 vaccine doses could be thrown out in the UK due to lack of demand before their expiry dates. https://www.independent.co.uk/news/uk/nhs-england-british-government-government-medicines-and-healthcare-products-regulatory-agency-omicron-b2007028.html (Archive: https://archive.ph/K6r0S)
 
