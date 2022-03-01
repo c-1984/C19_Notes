@@ -9,6 +9,9 @@ Note: Not fully comprehensive; this is just one person's attempt to document cha
 
 - US Embassy removes all Ukraine Bioweapon lab documents from its website. https://gab.com/IamTHE3percent/posts/107860785599275446 (Archive: https://archive.ph/fhABs)
 
+27 February 2022
+- 4chan screenshot from September 2020 resurfaces following the news on 25 February 2022 that the Pfizer mRNA vaccine can be reverse transcribed into human DNA via LINE-1 retrotransposons. In the screenshot, a whistleblower from Moderna who claims to be an industrial engineer is suspicious of "small quantities of additions happening in manual step" which is apparently "highly unorthodox for a continuous process production", and later finds that small amounts of *CYP19A1* and *CDKN1B* are added which upregulate LINE-1 reverse transcription activity. Apparently this may result in "mildly oncogenic effects in vaccine recipients unlikely to be noticed for many years" and potentially "premature ovarian failure" in the next generation of female offspring. Should be taken with a grain of salt until more evidence surfaces, but considering that the post was from 2020 and is now consistent with what we are finding outabout the LINE-1 retrotransposons, we should definitely be taking notice of this.  https://themariachiyears.substack.com/p/covid-vaccines-embryogenesis-and (Archive: https://archive.ph/86eUI)
+
 25 February 2022
 - Swedish research published in *Current Issues in Molecular Biology* shows that the Pfizer mRNA vaccine can be reverse transcribed into human DNA, in a human liver cell line. This happens through LINE-1 retrotransposons, and is consistent with previous findings from a paper published in *PNAS* from 6 May 2021 showing that RNA from the SARS-CoV-2 virus could be reverse transcribed through a LINE-1 retrotransposon mechanism as well. https://www.mdpi.com/1467-3045/44/3/73/htm
 
@@ -19,7 +22,7 @@ Note: Not fully comprehensive; this is just one person's attempt to document cha
 24 February 2022
 - Russia invades Ukraine and missile strikes are fired at "military installations" in Ukraine. The reason given is that Ukraine wants to join NATO and Russia does not want this to happen. This article gives some additional useful background information on the events leading up to the current events. https://www.energyintel.com/0000017f-307c-d3e7-a17f-f1fdfee40000
 
-- Thread surfaces on Twitter (currently removed but archived link below) indicating that the locations of Russian missile strikes coincide with "military installations" corresponding to US-installed biolabs ("Biological Threat Reduction Program in Ukraine"). https://web.archive.org/web/20220224103222/https://threadreaderapp.com/thread/1496745429672857602.html 
+- Thread surfaces on Twitter (currently removed but archived link below) indicating that the locations of Russian missile strikes coincide with "military installations" corresponding to US-installed biolabs ("Biological Threat Reduction Program in Ukraine"). https://web.archive.org/web/20220224103222/https://threadreaderapp.com/thread/1496745429672857602.html (See also, this thread from October 2021 that goes into more detail in these laboratories in Ukraine which were apparently built by US in 2014-17: https://archive.ph/gLb9K https://archive.ph/X5V8a)
 
 - Evidence that there is some kind of psyops going on to control information of the Ukraine "war". False footage is being rampantly circulated on social media, including video game footage and footage from past events. Some examples are documented in this twitter thread: https://mobile.twitter.com/RizviUzair/status/1496761944006668292 (Archive: https://archive.ph/Irgop)
 
@@ -35,6 +38,8 @@ Note: Not fully comprehensive; this is just one person's attempt to document cha
 7 February 2022
 - Ottawa declares state of emergency. Ottawa police saying that anyone bringing truckers fuel or supplies will be arrested. https://twitter.com/mysteriouskat/status/1490472541399379972 https://palexander.substack.com/p/major-update-on-the-floor-and-a-state
 
+- Doherty Institute admits that boosters every six months is "not a viable strategy". https://www.afr.com/policy/health-and-education/boosters-every-six-months-not-a-viable-strategy-says-doherty-chief-20220206-p59u45 (Archive: https://archive.ph/g34NB)
+
 5 February 2022
 - Pfizer drops vaccine application in India after Indian drug regulator seeks a local trial. "The drug regulator said on its website its experts did not recommend the vaccine because of side effects reported abroad were still being investigated. It also said Pfizer had not proposed any plan to generate safety and immunogenicity data in India." https://www.reuters.com/world/india/exclusive-pfizer-withdraws-application-emergency-use-its-covid-19-vaccine-india-2021-02-05/ (Archive: https://archive.ph/JhePO)
 
@@ -48,6 +53,8 @@ Note: Not fully comprehensive; this is just one person's attempt to document cha
 
 2 February 2022
 - Paper with controversial findings ("Official mortality data for England suggest systematic miscategorisation of vaccine status and uncertain effects of Covid-19 vaccination") rejected from *BMJ* without any explanation. Previously this paper was also rejected from the pre-print server *medRxiv* due to the controversial subject matter. The paper is authored by Professors Martin Neil (QMUL) and Norman Fenton (Queen Mary University of London) along with other researchers and senior clinicians. https://probabilityandlaw.blogspot.com/2022/02/update-bmj-rejects-without-review-paper.html (Archive: https://archive.ph/0dRT0)
+
+- *The New York Times* reports on development of nasal vaccines for COVID-19. It turns out that the current vaccines do not provide protection to the mucosal immune system, which is largely where the SARS-CoV-2 virus resides in the majority of infections. https://www.nytimes.com/2022/02/02/health/covid-vaccine-nasal.html (Archive: https://archive.ph/d5G2k)
 
 26 January 2022
 - *WSJ*: The High Cost of Disparaging Natural Immunity to Covid. "Vaccines were wasted on those who didn’t need them, and people who posed no risk lost jobs." https://www.wsj.com/articles/the-high-cost-of-disparaging-natural-immunity-to-covid-vaccine-mandates-protests-fire-rehire-employment-11643214336?mod=e2two (Archive: https://archive.ph/ZuVNz)
