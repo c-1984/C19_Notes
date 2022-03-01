@@ -4,8 +4,39 @@ Note: Not fully comprehensive; this is just one person's attempt to document cha
 
 ---
 
+28 February 2022
+- Korea suspends its vaccine pass nationwide. The Ministry of Health and Welfare on Monday said the passes were being scrapped for the time being “in the wake of growing discord over their necessity amid a high vaccine uptake.” http://www.koreaherald.com/view.php?ud=20220228000916 (Archive: https://archive.ph/ypqkt)
+
+- US Embassy removes all Ukraine Bioweapon lab documents from its website. https://gab.com/IamTHE3percent/posts/107860785599275446 (Archive: https://archive.ph/fhABs)
+
+25 February 2022
+- Swedish research published in *Current Issues in Molecular Biology* shows that the Pfizer mRNA vaccine can be reverse transcribed into human DNA, in a human liver cell line. This happens through LINE-1 retrotransposons, and is consistent with previous findings from a paper published in *PNAS* from 6 May 2021 showing that RNA from the SARS-CoV-2 virus could be reverse transcribed through a LINE-1 retrotransposon mechanism as well. https://www.mdpi.com/1467-3045/44/3/73/htm
+
+- Court ruling in New Zealand calls vaccine mandates unlawful as they place "unjustified limits upon fundamental rights", including "right to refuse medical treatment", "right to work", "right to manifest religion", and "right to be free from discrimination". https://www.courtsofnz.govt.nz/assets/Uploads/2022-NZHC-291.pdf (Archive: https://drive.google.com/file/d/1FJfzsYa60ZRom_m5EaDo8hRlNg52oqxx/view?usp=sharing)
+
+- Hacker collective Anonymous (likely compromised by CIA as "Anonymous" has not been active in years) declares 'cyber war' against Russia and disables their news website *Russia Today* using a DDOS attack. https://www.abc.net.au/news/science/2022-02-25/hacker-collective-anonymous-declares-cyber-war-against-russia/100861160 (Archive: https://archive.ph/5EhZX)
+
+24 February 2022
+- Russia invades Ukraine and missile strikes are fired at "military installations" in Ukraine. The reason given is that Ukraine wants to join NATO and Russia does not want this to happen. This article gives some additional useful background information on the events leading up to the current events. https://www.energyintel.com/0000017f-307c-d3e7-a17f-f1fdfee40000
+
+- Thread surfaces on Twitter (currently removed but archived link below) indicating that the locations of Russian missile strikes coincide with "military installations" corresponding to US-installed biolabs ("Biological Threat Reduction Program in Ukraine"). https://web.archive.org/web/20220224103222/https://threadreaderapp.com/thread/1496745429672857602.html 
+
+- Evidence that there is some kind of psyops going on to control information of the Ukraine "war". False footage is being rampantly circulated on social media, including video game footage and footage from past events. Some examples are documented in this twitter thread: https://mobile.twitter.com/RizviUzair/status/1496761944006668292 (Archive: https://archive.ph/Irgop)
+
+21 February 2022
+- 19-nucleotide sequence in the furin cleavage site of the SARS-CoV-2 virus perfectly matches sequence patented by Moderna from 2016. The sequence is not found in any other organism via BLAST search, providing further evidence of genetic tampering in the origins of the SARS-CoV-2 virus. https://www.frontiersin.org/articles/10.3389/fviro.2022.834808/full (Commentary by Chris Martenson here: https://odysee.com/@Chris_Martenson:2/nih-cover-up.-it-didn't-have-to-be-this:5; Commentary by Dr Been here: https://www.youtube.com/watch?app=desktop&v=zPoZTtruaB0&feature=youtu.be)
+
+15 February 2022
+- Justin Trudeau invokes the Emergencies Act to freeze bank accounts of anyone linked with the protests. https://www.bbc.com/news/world-us-canada-60383385 (Archive: https://archive.ph/8pDD5)
+
+13 February 2022
+- Moderna CEO Stephane Bancel deletes his Twitter account. https://heavy.com/news/moderna-ceo-deletes-twitter-account-stephane-bancel/amp/
+
 7 February 2022
 - Ottawa declares state of emergency. Ottawa police saying that anyone bringing truckers fuel or supplies will be arrested. https://twitter.com/mysteriouskat/status/1490472541399379972 https://palexander.substack.com/p/major-update-on-the-floor-and-a-state
+
+5 February 2022
+- Pfizer drops vaccine application in India after Indian drug regulator seeks a local trial. "The drug regulator said on its website its experts did not recommend the vaccine because of side effects reported abroad were still being investigated. It also said Pfizer had not proposed any plan to generate safety and immunogenicity data in India." https://www.reuters.com/world/india/exclusive-pfizer-withdraws-application-emergency-use-its-covid-19-vaccine-india-2021-02-05/ (Archive: https://archive.ph/JhePO)
 
 4 February 2022
 - *The Independent* reports that up to 3.5 million COVID-19 vaccine doses could be thrown out in the UK due to lack of demand before their expiry dates. https://www.independent.co.uk/news/uk/nhs-england-british-government-government-medicines-and-healthcare-products-regulatory-agency-omicron-b2007028.html (Archive: https://archive.ph/K6r0S)
@@ -79,6 +110,8 @@ Note: Not fully comprehensive; this is just one person's attempt to document cha
 
 24 November 2021
 - *Financial Times*: UK enters wave of excess deaths not fully explained by Covid, "...data suggest that cardiovascular disease and strokes were the most prominent conditions contributing to the unexpectedly high mortality levels." https://www.ft.com/content/05e32f95-0e7e-4d2a-b408-6ec6035dea8e (Archive: https://archive.ph/stF1H)
+
+- Peer reviewed research: Comparison of Pfizer's BNT162b2 mRNA COVID-19 vaccine and the Chinese Coronavac traditional inactivated vaccine indicates that long-term immunity (T cell responses) in the Chinese vaccine are superior to the mRNA technology, although the mRNA technology does appear to have a stronger short-term response: "Vaccination with BNT162b2 induces stronger humoral responses than Coronavac. Coronavax induces higher CD4+ and CD8+ T-cell responses to the structural protein than BNT162b2". https://onlinelibrary.wiley.com/doi/10.1111/resp.14191 (See also commentary by Alex Berenson: https://alexberenson.substack.com/p/no-wonder-china-isnt-using-mrna-shots?utm_source=url)
 
 23 November 2021
 - South Africa starts including antigen tests in its COVID-19 case count (previously, only PCR tests were counted as cases). https://boriquagato.substack.com/p/the-omicron-absurdities-continue 
@@ -758,6 +791,9 @@ https://connect.brookings.edu/register-to-origin-covid-19-regulation-prevent-pan
 
 11 May 2021
 - Senator Paul and Dr. Fauci spar over U.S. research funding. Senator Rand Paul accuses Anthony Fauci of the NIH’s National Institute of Allergy and Infectious Diseases, of funding “supervirus” research in the US and “making a huge mistake” by giving this technology to China. Fauci denied the accusation: “The NIH has not ever, and does not now, fund gain-of-function research in the Wuhan Institute of Virology.” https://www.technologyreview.com/2021/06/29/1027290/gain-of-function-risky-bat-virus-engineering-links-america-to-wuhan/ 
+
+6 May 2021
+- Paper published in *PNAS* shows that RNA from the SARS-CoV-2 virus can be reverse transcribed into DNA of human cells, in a human cell line. The mechanism is through LINE-1 mediated retrotransposons. https://www.pnas.org/doi/10.1073/pnas.2105968118
 
 5 May 2021
 - White House Press Secretary Jen Psaki on how the Biden administration is collaborating with Big Tech to censor “misinformation”, since apparently they think the public can’t make their own decisions based on available data: “The President’s view is that the major platforms have a responsibility related to the health and safety of all Americans to stop amplifying untrustworthy content, disinformation, and misinformation, especially related to Covid19 vaccinations and elections (…) He also supports better privacy protections and a robust anti-trust program.” https://www.getrevue.co/profile/markchangizi/issues/big-tech-censorship-is-actually-government-censorship-597190 
