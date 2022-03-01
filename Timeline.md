@@ -1,6 +1,6 @@
 ## Apocalypse Timeline
 
-Note: Not fully comprehensive; this is just one person's attempt to document changing narratives during the COVID-19 pandemic across 2019-2022. 
+Note: Not fully comprehensive; this is just one person's attempt to document changing narratives during the COVID-19 pandemic across 2019-2022. Some newer information may be from dodgier sources but I will update as more evidence surfaces. 
 
 ---
 
@@ -17,17 +17,17 @@ Note: Not fully comprehensive; this is just one person's attempt to document cha
 
 - Court ruling in New Zealand calls vaccine mandates unlawful as they place "unjustified limits upon fundamental rights", including "right to refuse medical treatment", "right to work", "right to manifest religion", and "right to be free from discrimination". https://www.courtsofnz.govt.nz/assets/Uploads/2022-NZHC-291.pdf (Archive: https://drive.google.com/file/d/1FJfzsYa60ZRom_m5EaDo8hRlNg52oqxx/view?usp=sharing)
 
-- Hacker collective Anonymous (likely compromised by CIA as "Anonymous" has not been active in years) declares 'cyber war' against Russia and disables their news website *Russia Today* using a DDOS attack. https://www.abc.net.au/news/science/2022-02-25/hacker-collective-anonymous-declares-cyber-war-against-russia/100861160 (Archive: https://archive.ph/5EhZX)
+- Hacker collective Anonymous (possibly compromised as "Anonymous" has not been active in years) declares 'cyber war' against Russia and disables their news website *Russia Today* using a DDOS attack. https://www.abc.net.au/news/science/2022-02-25/hacker-collective-anonymous-declares-cyber-war-against-russia/100861160 (Archive: https://archive.ph/5EhZX)
 
 24 February 2022
 - Russia invades Ukraine and missile strikes are fired at "military installations" in Ukraine. The reason given is that Ukraine wants to join NATO and Russia does not want this to happen. This article gives some additional useful background information on the events leading up to the current events. https://www.energyintel.com/0000017f-307c-d3e7-a17f-f1fdfee40000
 
 - Thread surfaces on Twitter (currently removed but archived link below) indicating that the locations of Russian missile strikes coincide with "military installations" corresponding to US-installed biolabs ("Biological Threat Reduction Program in Ukraine"). https://web.archive.org/web/20220224103222/https://threadreaderapp.com/thread/1496745429672857602.html (See also, this thread from October 2021 that goes into more detail in these laboratories in Ukraine which were apparently built by US in 2014-17: https://archive.ph/gLb9K https://archive.ph/X5V8a)
 
-- Evidence that there is some kind of psyops going on to control information of the Ukraine "war". False footage is being rampantly circulated on social media, including video game footage and footage from past events. Some examples are documented in this twitter thread: https://mobile.twitter.com/RizviUzair/status/1496761944006668292 (Archive: https://archive.ph/Irgop)
+- Evidence that there is some kind of psyops going on to control information of the Russia-Ukraine war. False footage is being rampantly circulated on social media, including video game footage and footage from past events. Some examples are documented in this twitter thread: https://mobile.twitter.com/RizviUzair/status/1496761944006668292 (Archive: https://archive.ph/Irgop)
 
 21 February 2022
-- 19-nucleotide sequence in the furin cleavage site of the SARS-CoV-2 virus perfectly matches sequence patented by Moderna from 2016. The sequence is not found in any other organism via BLAST search, providing further evidence of genetic tampering in the origins of the SARS-CoV-2 virus. https://www.frontiersin.org/articles/10.3389/fviro.2022.834808/full (Commentary by Chris Martenson here: https://odysee.com/@Chris_Martenson:2/nih-cover-up.-it-didn't-have-to-be-this:5; Commentary by Dr Been here: https://www.youtube.com/watch?app=desktop&v=zPoZTtruaB0&feature=youtu.be)
+- 19-nucleotide sequence in the furin cleavage site of the SARS-CoV-2 virus perfectly matches sequence patented by Moderna from 2016. The sequence is not found in any other organism via BLAST search, providing further evidence of genetic tampering in the origins of the SARS-CoV-2 virus. Upon running the sequence through BlastX, this shows it matches well with a human protein involved in DNA repair. https://www.frontiersin.org/articles/10.3389/fviro.2022.834808/full (Summary from Daily Sceptic: https://dailysceptic.org/2022/02/24/coronavirus-key-genetic-sequence-for-furin-cleavage-site-patented-by-moderna-in-2016/' Commentary by Chris Martenson here: https://odysee.com/@Chris_Martenson:2/nih-cover-up.-it-didn't-have-to-be-this:5; Commentary by Dr Been here: https://www.youtube.com/watch?app=desktop&v=zPoZTtruaB0&feature=youtu.be)
 
 15 February 2022
 - Justin Trudeau invokes the Emergencies Act to freeze bank accounts of anyone linked with the protests. https://www.bbc.com/news/world-us-canada-60383385 (Archive: https://archive.ph/8pDD5)
