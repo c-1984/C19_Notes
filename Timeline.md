@@ -141,6 +141,9 @@ Note: Not fully comprehensive; this is just one person's attempt to document cha
 
 - South Australian government orders mandatory vaccination for all school staff and volunteers. "We're following in the footsteps of other jurisdictions".  https://indaily.com.au/news/2021/11/16/govt-orders-mandatory-vaccination-for-all-sa-school-staff-and-volunteers/ (Archive: https://archive.ph/XFddY)
 
+13 November 2021
+- Study published in *Viruses* finds that the vaccine appears to interfere with the natural immunity that normally develops after COVID-19 infection. The study happened over 291 days; however, over half of those who had been vaccinated after developing natural immunity had no detectable N antibody after only 180 days. "From day 14 to day 291, more than 75% of the samples were positive for NAbs (n = 87/110, 79.1%). Interestingly, 6 months post symptoms onset, the majority of the samples (N = 44/52, 84.6%) were still positive for NAbs. **This is in sharp contrast with the results we obtained 6 months post-vaccination in our cohort of healthcare workers who have received the two-dose regimens of BNT162b2. In this cohort of vaccinated subjects, 43% (n = 25/58) of the participants no longer exhibit NAbs activity 180 days after the administration of the first dose of BNT162b2.**" https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC8621742/ This finding is consistent with earlier reporting from Alex Berenson from 22 October 2021, who noticed a similar observation from a UK government report. 
+
 12 November 2021
 - FOIA request by lawyer Aaron Siri indicates that the CDC did not have proof of a single instance of a naturally immune individual spreading the virus. In contrast, there have been many instances of vaccinated spreading the virus. https://aaronsiri.substack.com/p/cdc-admits-crushing-rights-of-naturally (Archive: https://archive.ph/BnWpX)
 
