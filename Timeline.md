@@ -4,6 +4,9 @@ Note: Not fully comprehensive; this is just one person's attempt to document cha
 
 ---
 
+1 March 2022
+- Documents released by Pfizer relating to BNT162b2 mRNA vaccine safety. There is a lot to go through but of interest there are some tables of adverse effects compared between the vaccine and placebo groups 9https://phmpt.org/wp-content/uploads/2022/03/125742_S1_M5_c4591001-T-S-updated-reacto-tlf.pdf) as well as pharmacokinetic study info in mice, rats, primates and humans showing that the lipid nanoparticle mainly localises to liver (https://phmpt.org/wp-content/uploads/2022/03/125742_S1_M2_26_pharmkin-tabulated-summary.pdf). All documents here (sort by "Date Produced"): https://phmpt.org/pfizers-documents/
+
 28 February 2022
 - Korea suspends its vaccine pass nationwide. The Ministry of Health and Welfare on Monday said the passes were being scrapped for the time being “in the wake of growing discord over their necessity amid a high vaccine uptake.” http://www.koreaherald.com/view.php?ud=20220228000916 (Archive: https://archive.ph/ypqkt)
 
