@@ -33,7 +33,7 @@ Note: Not fully comprehensive; this is just one person's attempt to document cha
 - 19-nucleotide sequence in the furin cleavage site of the SARS-CoV-2 virus perfectly matches sequence patented by Moderna from 2016. The sequence is not found in any other organism via BLAST search, providing further evidence of genetic tampering in the origins of the SARS-CoV-2 virus. Upon running the sequence through BlastX, this shows it matches well with a human protein involved in DNA repair. https://www.frontiersin.org/articles/10.3389/fviro.2022.834808/full (Summary from Daily Sceptic: https://dailysceptic.org/2022/02/24/coronavirus-key-genetic-sequence-for-furin-cleavage-site-patented-by-moderna-in-2016/' Commentary by Chris Martenson here: https://odysee.com/@Chris_Martenson:2/nih-cover-up.-it-didn't-have-to-be-this:5; Commentary by Dr Been here: https://www.youtube.com/watch?app=desktop&v=zPoZTtruaB0&feature=youtu.be)
 
 15 February 2022
-- Justin Trudeau invokes the Emergencies Act to freeze bank accounts of anyone linked with the protests. https://www.bbc.com/news/world-us-canada-60383385 (Archive: https://archive.ph/8pDD5)
+- Justin Trudeau invokes the Emergencies Act to freeze bank accounts of anyone linked with the trucker protests. https://www.bbc.com/news/world-us-canada-60383385 (Archive: https://archive.ph/8pDD5)
 
 13 February 2022
 - Moderna CEO Stephane Bancel deletes his Twitter account. https://heavy.com/news/moderna-ceo-deletes-twitter-account-stephane-bancel/amp/
@@ -41,10 +41,10 @@ Note: Not fully comprehensive; this is just one person's attempt to document cha
 7 February 2022
 - Ottawa declares state of emergency. Ottawa police saying that anyone bringing truckers fuel or supplies will be arrested. https://twitter.com/mysteriouskat/status/1490472541399379972 https://palexander.substack.com/p/major-update-on-the-floor-and-a-state
 
-- Doherty Institute admits that boosters every six months is "not a viable strategy". https://www.afr.com/policy/health-and-education/boosters-every-six-months-not-a-viable-strategy-says-doherty-chief-20220206-p59u45 (Archive: https://archive.ph/g34NB)
+- Doherty Institute now admits that boosters every six months is "not a viable strategy". https://www.afr.com/policy/health-and-education/boosters-every-six-months-not-a-viable-strategy-says-doherty-chief-20220206-p59u45 (Archive: https://archive.ph/g34NB)
 
 5 February 2022
-- Pfizer drops vaccine application in India after Indian drug regulator seeks a local trial. "The drug regulator said on its website its experts did not recommend the vaccine because of side effects reported abroad were still being investigated. It also said Pfizer had not proposed any plan to generate safety and immunogenicity data in India." https://www.reuters.com/world/india/exclusive-pfizer-withdraws-application-emergency-use-its-covid-19-vaccine-india-2021-02-05/ (Archive: https://archive.ph/JhePO)
+- Pfizer drops vaccine application in India after Indian drug regulator seeks a local trial on the Indian population. "The drug regulator said on its website its experts did not recommend the vaccine because of side effects reported abroad were still being investigated. It also said Pfizer had not proposed any plan to generate safety and immunogenicity data in India." https://www.reuters.com/world/india/exclusive-pfizer-withdraws-application-emergency-use-its-covid-19-vaccine-india-2021-02-05/ (Archive: https://archive.ph/JhePO)
 
 4 February 2022
 - *The Independent* reports that up to 3.5 million COVID-19 vaccine doses could be thrown out in the UK due to lack of demand before their expiry dates. https://www.independent.co.uk/news/uk/nhs-england-british-government-government-medicines-and-healthcare-products-regulatory-agency-omicron-b2007028.html (Archive: https://archive.ph/K6r0S)
@@ -68,7 +68,7 @@ Note: Not fully comprehensive; this is just one person's attempt to document cha
 - University of Northampton issues a trigger warning for George Orwell's 1984 as it contains "explicit material" which some students may find "offensive and upsetting". https://www.dailymail.co.uk/news/article-10430597/University-slaps-trigger-warning-George-Orwells-Nineteen-Eighty-Four.html (Archive: https://archive.ph/0yCF7)
 
 22 January 2022
-- 50,000 Canadian truckers called the "Freedom Convoy" depart British Columbia for Ottawa to protest the COVID-19 vaccine mandate for commercial truck drivers that came into effect 15 January in Canada. The movement has been highly supported, raising $3.5 million worth of support for food, lodgings, fuel, etc. in just 11 days. https://dailyexpose.uk/2022/01/27/50000-strong-trucker-convoy-travels-to-ottawa-canada-demanding-end-to-covid-19-vaccine-mandates/ (Archive: https://archive.ph/Taiyk)
+- 50,000 Canadian truckers called the Freedom Convoy depart British Columbia for Ottawa to protest the COVID-19 vaccine mandate for commercial truck drivers that came into effect 15 January in Canada. The movement has been highly supported, raising $3.5 million worth of support for food, lodgings, fuel, etc. in just 11 days. https://dailyexpose.uk/2022/01/27/50000-strong-trucker-convoy-travels-to-ottawa-canada-demanding-end-to-covid-19-vaccine-mandates/ (Archive: https://archive.ph/Taiyk)
 
 20 January 2022
 - *Science* magazine admits that, "in rare cases, coronavirus vaccines may cause Long Covid–like symptoms", and raises the possibility that the spike protein might be responsible: “We shouldn’t be averse to adverse events,” says William Murphy, an immunologist at the University of California, Davis. In November 2021 in The New England Journal of Medicine, he proposed that an autoimmune mechanism triggered by the SARS-CoV-2 spike protein might explain both Long Covid symptoms and some rare vaccine side effects, and he called for more basic research to probe possible connections. https://www.science.org/content/article/rare-cases-coronavirus-vaccines-may-cause-long-covid-symptoms (Archive: https://archive.ph/D5x4K)
