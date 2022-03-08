@@ -1,6 +1,6 @@
 ## Apocalypse Timeline
 
-**Note**: Not fully comprehensive or representative; this is just one person's attempt to document changing narratives during the COVID-19 pandemic across 2019-2022. Reads best from bottom up. Some newer information may be from dodgier sources but I will update as more evidence surfaces. Some info on overlapping events between pandemic and the current Russian offensive in Ukraine but this will likely be moved to a new document soon. 
+**Note**: Not fully comprehensive or representative; this is just one person's attempt to document changing narratives during the COVID-19 pandemic across 2019-2022. Reads best from bottom up. Some newer information may be from dodgier sources but I will update as more evidence surfaces. Some info on overlapping events between pandemic and the current Russian-Ukraine situation but this will likely be moved to a new document soon. 
 
 ---
 
