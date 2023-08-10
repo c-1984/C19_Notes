@@ -1,8 +1,11 @@
 ## Apocalypse Timeline
 
-**Note**: Not fully comprehensive or representative; this is just one person's attempt to document changing narratives during the COVID-19 pandemic across 2019-2022. Reads best from bottom up. Some newer information may be from dodgier sources but I will update as more evidence surfaces. Some info on overlapping events between pandemic and the current Russian-Ukraine situation but this will likely be moved to a new document soon. 
+**Note**: Not fully comprehensive or representative; just an attempt to document changing narratives during the COVID-19 pandemic across 2019-2022. Reads best from bottom up. 
 
 ---
+
+15 April 2022
+- Large population based study published in J Clin. Med. demonstrates that COVID-19 infection is not associated with increased incidence of myocarditis and pericarditis. This suggests that the rise in these conditions is coming from other factors... This study also contradicts earlier Fact Checks claiming that the risk of myocarditis or pericarditis from the vaccine is less than with COVID-19 (see 19 November 2021): https://pubmed.ncbi.nlm.nih.gov/35456309/
 
 22 March 2022
 - Irony that the majority of Ukrainian refugees are unvaccinated against COVID-19: “Unfortunately, we’re finding that the refugees aren’t exactly snatching the vaccines out of our hands,” says Nürnberg Mayor Marcus König. “Many new arrivals are very worried about ‘forced vaccinations’,” adds Thomas Jung, Mayor of Fürth. He says you have to approach the topic with sensitivity. …" https://www.eugyppius.com/p/in-which-bavarian-public-radio-realises
@@ -181,6 +184,9 @@
 
 22 November 2021
 - Conference abstract describes research showing that inflammatory blood markers (e.g. IL-16, a proinflammatory cytokine, soluble Fas, an inducer of apoptosis, and Hepatocyte Growth Factor (HGF) which serves as a marker for chemotaxis of T-cells into epithelium and cardiac tissue) are elevated after mRNA vaccination in 566 patients. https://www.ahajournals.org/doi/abs/10.1161/circ.144.suppl_1.10712 (Archive: https://archive.ph/RLzOw)
+
+21 November 2021
+- Fact Check by Reuters claims that risk from myocarditis and pericarditis is higher for COVID-19 than for the vaccines. They also admit that "However, we do not yet know the long-term outcomes. “Does that mean that we know what their long-term outcomes are going to be from that? We don’t,” he said. “We just don’t have that data yet.” https://www.reuters.com/article/factcheck-myocarditis-covid19-vaccine/fact-check-most-cases-of-myocarditis-after-covid-19-vaccines-are-not-irreversible-idUSL1N2S924L (see also: 25 October 2022)
 
 17 November 2021
 - Nursing shortage in Australia. Australian College of Critical Care Nurses chief executive Rand Butcher said in the last year, critical care nurses were “leaving in droves”. Professor Ward estimated there were roughly 12,200 vacant nursing positions, and she said some hospital wards were forced to close temporarily when they had been unable to fill shifts. "Other critical care nurses were opting to retire early, choosing to move to another area of nursing due to prolonged stress and burnout, or leaving the industry entirely." https://www.smh.com.au/national/pandemic-triggers-mass-exodus-of-critical-care-nurses-20211116-p5998i.html (Archive: https://archive.ph/Ibaaf)
@@ -1076,6 +1082,9 @@ https://coronacircus.com/wp-content/uploads/2020/06/Open-Letter-Covid-BLM.pdf
 
 2 June 2020
 - New York Post: “Couples should wear face masks during sex, new study insists”: https://nypost.com/2020/06/02/couples-should-wear-face-masks-during-sex-new-study-insists/ Archive: https://archive.ph/GV3gw 
+
+29 May 2020
+- Study published in Quarterly Review of Biophysics by Norwegian scientist Birger Sørensen who claimed the novel coronavirus SARS-CoV-2 is not natural in origin. "The study from Sørensen and British professor Angus Dalgleish show that the coronavirus's spike protein contains sequences that appear to be artificially inserted." https://archive.is/fQnbZ#selection-1731.0-1731.30 PDF of study: https://archive.is/dKdlU
 
 27 May 2020
 - Nature reports lab leak hypothesis as “coronavirus misinformation” and “false information.” https://www.nature.com/articles/d41586-020-01452-z 
