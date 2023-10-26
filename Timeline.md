@@ -13,6 +13,9 @@
 02 October 2023
 - #Plasmidgate scandal referring to plasmid DNA contamination in Pfizer vaccine vials is expanded to include other interesting coincidences, including SV40 sequence and spike localisation signal. https://arkmedic.substack.com/p/5-ways-to-skin-a-genetically-modified
 
+22 December 2022
+- The Israeli Ministry of Health (“MoH”) stated before the court that it was unable to locate the agreement signed with Pfizer regarding the sharing of epidemiological information on coronavirus vaccines.  He also said that he did not know if the agreement had even been signed. https://expose-news.com/2022/12/18/israeli-gov-unable-to-locate-agreement-with-pfizer/#:~:text=In%202020%2C%20Israel%20struck%20a,large%20parts%20of%20it%20redacted (See also: 6 January 2021, when the contract was first leaked). 
+
 15 April 2022
 - Large population based study published in J Clin. Med. demonstrates that COVID-19 infection is not associated with increased incidence of myocarditis and pericarditis. This suggests that the rise in these conditions is coming from other factors... This study also contradicts earlier Fact Checks claiming that the risk of myocarditis or pericarditis from the vaccine is less than with COVID-19 (see 19 November 2021): https://pubmed.ncbi.nlm.nih.gov/35456309/
 
