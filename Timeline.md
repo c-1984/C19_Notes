@@ -4,6 +4,9 @@
 
 ---
 
+26 October 2023
+- During Australian Office of the Gene Technology Regulator (OGTR) hearings, a doctor states that the mRNA vaccines were not tested for genotoxicity as they are not considered gene therapies, despite fitting the definition. The definition is twisted to say that mRNA vaccines are apparently not gene therapies because the mRNA was manufactured overseas and not in Australia. https://arkmedic.substack.com/p/genetically-modified-organons and https://twitter.com/Jikkyleaks/status/1718182829417480663
+
 22 October 2023
 - Johnson & Johnson files for bankruptcy. https://archive.vn/EcgxV
 
@@ -1332,9 +1335,6 @@ https://greatgameindia.com/dr-xiangguo-qiu-chinese-biological-warfare-agent/
 
 12 September 2019
 - A genomic database maintained by the Wuhan Institute of Virology, with information about thousands of bat samples and at least 500 recently discovered bat coronaviruses, goes offline. This is discovered by the DRASTIC group. https://www.researchgate.net/publication/349073738_An_investigation_into_the_WIV_databases_that_were_taken_offline 
-
-5 September 2019
-- Anonymous poster on 4chan /pol: "Do not accept any vaccines that will be released for a deadly virus in the winter of 2020", and "It will originate from a pharmaceutical company working with military op's in a west coast state. It will be accurately planted in major cities and It will cause flue like symptoms and may be deadly to elders and babies but the media will report it as deadly for everyone but It's a hoax, the vaccine will be the real killer packed with copious amounts of toxic metals." https://archive.4plebs.org/pol/thread/225497848/#q225499031
 
 September 2019 (unknown date) 
 - The head of Wellcome Trust, Jeremy Farrar, and Anthony Fauci, help oversee a World Health Organization report that highlighted an “increasing risk of global pandemic from a pathogen escaping after being engineered in a lab.” https://apps.who.int/gpmb/assets/annual_report/GPMB_annualreport_2019.pdf Archive1: https://archive.org/details/gpmb-annualreport-2019-a-world-at-risk Archive 2: https://drive.google.com/file/d/1n5HPRtwilL2uI7dVvAMXYpNOwBrOe15p/view?usp=drivesdk 
