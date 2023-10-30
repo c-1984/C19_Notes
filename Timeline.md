@@ -7,8 +7,14 @@
 26 October 2023
 - During Australian Office of the Gene Technology Regulator (OGTR) hearings, a doctor states that the mRNA vaccines were not tested for genotoxicity as they are not considered gene therapies, despite fitting the definition. The definition is twisted to say that mRNA vaccines are apparently not gene therapies because the mRNA was manufactured overseas and not in Australia. https://arkmedic.substack.com/p/genetically-modified-organons and https://twitter.com/Jikkyleaks/status/1718182829417480663
 
+24 October 2023
+- DNA vaccine for bird flu developed and tested on first patient in Norway. https://fackel.substack.com/p/ready-for-the-next-pandemic-norwegian
+
 22 October 2023
 - Johnson & Johnson files for bankruptcy. https://archive.vn/EcgxV
+
+20 October 2023
+- End of COVID-19 emergency response in Australia. https://www.health.gov.au/news/ahppc-statement-end-of-covid-19-emergency-response
 
 17 October 2023 
 - Independent analysis of subject deaths from Pfizer clinical trial finds "3.7-fold increase in number of deaths due to cardiac events in the BNT162b2 vaccinated individuals compared to those who received only the placebo. Delayed reporting of  the subject deaths into the Case Report Form obscured the cardiac adverse event signal and allowed the Pfizer/BioNTech Emergency Use Authorization to proceed unchallenged." https://ijvtpr.com/index.php/IJVTPR/article/view/86/224
@@ -490,7 +496,8 @@ https://trialsitenews.com/msn-showcases-the-amazing-uttar-pradesh-turnaround-the
 - A group of scientists including Peter McCullough, Byram Bridle, and others, file a federal lawsuit against the FDA for not being transparent about the data used to license the Pfizer vaccine. http://phmpt.org/wp-content/uploads/2021/10/001-Complaint-101021.pdf Archive: https://drive.google.com/file/d/1vSmWLzk0JJGeP6O3u2iIomxDfilSEmgr/view?usp=drivesdk Commentary by lawyer, Aaron Siri, here: https://aaronsiri.substack.com/p/scientists-sue-the-fda-for-data-it Archive: https://archive.ph/r3n5e
 
 18 September 2021
-- FDA panel recommends limiting Pfizer booster shots to Americans 65 and older, and those at high risk of severe COVID-19 – not for everyone. (At least someone has some common sense in the FDA! Looks like the resignation of those two FDA vaccine experts on 31 August 2021 wasn’t for nothing.) https://news.yahoo.com/fda-panel-recommends-limiting-pfizer-213030169.html 
+- FDA panel recommends limiting Pfizer booster shots to Americans 65 and older, and those at high risk of severe COVID-19 – not for everyone. (At least someone has some common sense in the FDA! Looks like the resignation of those two FDA vaccine experts on 31 August 2021 wasn’t for nothing.) https://news.yahoo.com/fda-panel-recommends-limiting-pfizer-213030169.html
+- Prof. Peter Doherty, immunologist and Nobel laureate, is confused over what natural immunity is: "They rely on what they call 'natural immunity', a term that's new to me. The idea is that having been infected with SARS-CoV-2, which may kill you or cause long term damage or Long COVID, will protect you from being infected again with SARS-CoV-2." https://archive.md/nCZ0e 
 
 17 September 2021
 - Dr. Byram Bridle, PhD (Associate Professor of Viral Immunology from the University of Guelph) writes an open letter to the President of the University of Guelph, asking them to reconsider the motivations and evidence behind vaccine mandates. He also brings attention to the accumulating evidence of adverse effects of the SARS-CoV-2 vaccinations. https://t.me/covidmedicalnetworkaus/2076 
@@ -1345,6 +1352,9 @@ https://www.blackrock.com/corporate/literature/whitepaper/bii-macro-perspectives
 
 2 August 2019
 - Defense officials from US warn that China is the world leader in toxin-based biothreats. https://www.nationaldefensemagazine.org/articles/2019/8/2/viewpoint-the-tools-and-threats-of-synthetic-bioweapon-development 
+
+23 July 2019
+- Vial containing "2019 Novel Coronavirus vaccine" in NIH promotional video has the date "7/23/2019" written on it. This is interesting that a vaccine had been supposedly in development considering the Novel Coronavirus was only "discovered" December 2019. https://www.igor-chudov.com/p/2019-novel-coronavirus-vaccine-dated
 
 7 July 2019
 - A virology researcher (Dr. Xiangguo Qiu) with ties to China is escorted out of the National Microbiology Lab (NML), Canada’s only level-4 lab. "The National Microbiology Laboratory would have some pretty sensitive biological research material that ... could be shared either with or without authorization with foreign countries," said Gordon Houlden, director of the University of Alberta's China Institute. https://www.cbc.ca/news/canada/manitoba/chinese-researcher-escorted-from-infectious-disease-lab-amid-rcmp-investigation-1.5211567 
