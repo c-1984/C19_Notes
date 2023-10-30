@@ -11,7 +11,7 @@
 - Johnson & Johnson files for bankruptcy. https://archive.vn/EcgxV
 
 17 October 2023 
-- Independent analysis of subject deaths from Pfizer clinical trial finds "3.7-fold increase in number of deaths due to cardiac events in the BNT162b2 vaccinated individuals compared to those who received only the placebo. Delayed reporting of  the subject deaths into the Case Report For mobscured the cardiac adverse event signal and allowed the Pfizer/BioNTech Emergency Use Authorization to proceed unchallenged." https://ijvtpr.com/index.php/IJVTPR/article/view/86/224
+- Independent analysis of subject deaths from Pfizer clinical trial finds "3.7-fold increase in number of deaths due to cardiac events in the BNT162b2 vaccinated individuals compared to those who received only the placebo. Delayed reporting of  the subject deaths into the Case Report Form obscured the cardiac adverse event signal and allowed the Pfizer/BioNTech Emergency Use Authorization to proceed unchallenged." https://ijvtpr.com/index.php/IJVTPR/article/view/86/224
 
 02 October 2023
 - #Plasmidgate scandal referring to plasmid DNA contamination in Pfizer vaccine vials is expanded to include other interesting coincidences, including SV40 sequence and spike localisation signal. https://arkmedic.substack.com/p/5-ways-to-skin-a-genetically-modified
