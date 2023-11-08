@@ -1,6 +1,6 @@
 ## Apocalypse Timeline
 
-**Note**: Not fully comprehensive or representative; just an attempt to document changing narratives during the COVID-19 pandemic across 2019-2022. Reads best from bottom up. 
+**Note**: Not fully comprehensive or representative; just an attempt to document changing narratives during the COVID-19 pandemic over the past few years. Reads best from bottom up. 
 
 ---
 
