@@ -6,6 +6,7 @@
 
 8 November 2023
 - Whistleblower reveals that Australian government paid $100M+ in a contract to an obscure online retailer to source 46M masks, which are now unusable. The retailer subcontracted the supply of the PPE to two companies registered in Cyprus, which sourced the masks from factories in China which are now known to be noncompliant for medical purposes. https://www.theguardian.com/australia-news/2023/nov/08/australian-government-paid-millions-for-unusable-covid-face-masks-from-obscure-online-retailer-ntwnfb
+- Landmark legal case against AstraZeneca by individuals who developed VITT as a result of the vaccine. https://archive.md/kADgj
 
 26 October 2023
 - During Australian Office of the Gene Technology Regulator (OGTR) hearings, a doctor states that the mRNA vaccines were not tested for genotoxicity as they are not considered gene therapies, despite fitting the definition. The definition is twisted to say that mRNA vaccines are apparently not gene therapies because the mRNA was manufactured overseas and not in Australia. https://arkmedic.substack.com/p/genetically-modified-organons and https://twitter.com/Jikkyleaks/status/1718182829417480663
