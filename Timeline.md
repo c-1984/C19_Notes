@@ -25,6 +25,9 @@
 02 October 2023
 - #Plasmidgate scandal referring to plasmid DNA contamination in Pfizer vaccine vials is expanded to include other interesting coincidences, including SV40 sequence and spike localisation signal. https://arkmedic.substack.com/p/5-ways-to-skin-a-genetically-modified
 
+27 September 2023
+- Article published showing presence of vaccine mRNA in heart tissue and lymph nodes of recently deceased vaccinated patients. This is another piece of evidence that supports that the mRNA vaccine contents do not stay at the site of injection, and the first time the mRNA itself (not LNPs or spike proteins) has been detected in other organs. https://joomi.substack.com/p/mrna-vaccine-found-in-human-hearts https://www.nature.com/articles/s41541-023-00742-7
+
 22 December 2022
 - The Israeli Ministry of Health (“MoH”) stated before the court that it was unable to locate the agreement signed with Pfizer regarding the sharing of epidemiological information on coronavirus vaccines.  He also said that he did not know if the agreement had even been signed. https://expose-news.com/2022/12/18/israeli-gov-unable-to-locate-agreement-with-pfizer/#:~:text=In%202020%2C%20Israel%20struck%20a,large%20parts%20of%20it%20redacted (See also: 6 January 2021, when the contract was first leaked). 
 
