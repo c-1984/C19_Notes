@@ -4,6 +4,9 @@
 
 ---
 
+22 November 2023
+- Mystery pneumonia tearing through China: "Hospitals in Beijing and 500 miles northeast in Liaoning are among those 'overwhelmed with sick children,' while school classes were 'on the verge of suspension', according to local news reports." https://archive.md/rHywZ
+
 8 November 2023
 - Whistleblower reveals that Australian government paid $100M+ in a contract to an obscure online retailer to source 46M masks, which are now unusable. The retailer subcontracted the supply of the PPE to two companies registered in Cyprus, which sourced the masks from factories in China which are now known to be noncompliant for medical purposes. https://www.theguardian.com/australia-news/2023/nov/08/australian-government-paid-millions-for-unusable-covid-face-masks-from-obscure-online-retailer-ntwnfb
 - Landmark legal case against AstraZeneca by individuals who developed VITT as a result of the vaccine. https://archive.md/kADgj
