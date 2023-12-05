@@ -8,7 +8,7 @@
 - New Zealand database admin arrested and charged for leaking vaccine data showing excess mortality. Attempts to discredit him by saying he is spreading vaccine misinformation and that he does npt have the correct credentials. https://archive.md/0B9Vs 
 
 1 December 2023
-- Whistleblower who is a database admin working at New Zealand's Ministry of Health leaks record-level public health data on the COVID-19 vaccines (no country has ever released this). Data has been anonymized and analysed by Steve Kirsch, finding excess mortality. https://kirschsubstack.com/p/data-from-us-medicare-and-the-new
+- Whistleblower who is a database admin working at New Zealand's Ministry of Health leaks record-level public health data on the COVID-19 vaccines (no country has ever released this). Data has been anonymized and analysed by Steve Kirsch, confirming excess mortality amongst vaccine recipients. https://kirschsubstack.com/p/data-from-us-medicare-and-the-new
 
 22 November 2023
 - Mystery pneumonia tearing through China: "Hospitals in Beijing and 500 miles northeast in Liaoning are among those 'overwhelmed with sick children,' while school classes were 'on the verge of suspension', according to local news reports." https://archive.md/rHywZ
