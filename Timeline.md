@@ -4,6 +4,9 @@
 
 ---
 
+12 December 2023
+- Review article published summarizing issues with COVID-19 gene vaccines in an Australian context. Authored by two Australian university researchers. "Gene-based COVID-19 vaccines: Australian perspectives in a corporate and global context" https://www.sciencedirect.com/science/article/pii/S0344033823007318
+
 5 December 2023
 - New Zealand database admin arrested and charged for leaking vaccine data showing excess mortality. Attempts to discredit him by saying he is spreading vaccine misinformation and that he does npt have the correct credentials. https://archive.md/0B9Vs 
 
