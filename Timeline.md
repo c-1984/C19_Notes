@@ -4,6 +4,15 @@
 
 ---
 
+28 February 2024
+- CDC recommends 9th (!!!) COVID-19 vaccine booster. https://www.washingtonpost.com/health/2024/02/28/covid-vaccine-booster/ https://www.dossier.today/p/dose-number-nine-cdc-panel-green?r=q2k5v&utm_medium=ios&utm_campaign=post&triedRedirect=true
+
+27 February 2024
+- Supreme Court bombshell: Qld’s mandatory Covid vaccine orders for police and healthcare workers ‘unlawful’: In a 115-page decision handed down by Justice Glenn Martin on Tuesday he declared police commissioner Katarina Carroll’s direction for mandatory Covid-19 vaccination issued in December 2021 was unlawful under the Human Rights Act and banned her from taking any steps to enforce the direction. https://archive.is/AFf7x#selection-1703.0-1707.127
+
+19 February 2024
+- Trend of COVID-19 vaccine side effects coming into mainstream news. Daily Mail: "Largest Covid vaccine study ever finds shots are linked to small increased risk of neurological, blood and heart disorders - but they are still extremely rare" https://archive.md/h4jVA#selection-1115.0-1115.158
+
 12 December 2023
 - Review article published summarizing issues with COVID-19 gene vaccines in an Australian context. Authored by two Australian university researchers. "Gene-based COVID-19 vaccines: Australian perspectives in a corporate and global context" https://www.sciencedirect.com/science/article/pii/S0344033823007318
 
