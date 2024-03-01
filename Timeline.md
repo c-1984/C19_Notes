@@ -16,8 +16,14 @@
 19 February 2024
 - Trend of COVID-19 vaccine side effects coming into mainstream news. Daily Mail: "Largest Covid vaccine study ever finds shots are linked to small increased risk of neurological, blood and heart disorders - but they are still extremely rare" https://archive.md/h4jVA#selection-1115.0-1115.158 (note similarities to SPARS pandemic exercise - see: 23 October 2017)
 
+14 February 2024
+- Inhalable self-spreading vaccines may be a thing. https://icandecide.org/press-release/ican-uncovers-a-potential-next-level-threat-inhalable-self-spreading-vaccines-that-spread-like-a-virus/
+
 4 February 2024
 - Paper published on mechanisms by which adjuvants in the COVID-19 vaccines could be contributing to adverse effects. https://journals.sagepub.com/doi/10.1177/25151355241228439
+
+11 January 2024
+- Results of survey of 269 embalmers across United States, Canada, UK, Australia released. >75% embalmers seeing white fibrous clots. https://kirschsubstack.com/p/embalmer-survey-2023-over-75-are https://www.skirsch.com/covid/EmbalmerSurvey2023.pdf
 
 12 December 2023
 - Review article published summarizing issues with COVID-19 gene vaccines in an Australian context. Authored by two Australian university researchers. "Gene-based COVID-19 vaccines: Australian perspectives in a corporate and global context" https://www.sciencedirect.com/science/article/pii/S0344033823007318
