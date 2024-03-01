@@ -5,7 +5,7 @@
 ---
 
 28 February 2024
-- CDC recommends 9th (!!!) COVID-19 vaccine booster. https://www.washingtonpost.com/health/2024/02/28/covid-vaccine-booster/ https://www.dossier.today/p/dose-number-nine-cdc-panel-green?r=q2k5v&utm_medium=ios&utm_campaign=post&triedRedirect=true
+- CDC recommends 9th (!!!) COVID-19 vaccine booster. https://www.washingtonpost.com/health/2024/02/28/covid-vaccine-booster/ https://www.dossier.today/p/dose-number-nine-cdc-panel-green
 
 27 February 2024
 - Supreme Court bombshell: Qld’s mandatory Covid vaccine orders for police and healthcare workers ‘unlawful’: In a 115-page decision handed down by Justice Glenn Martin on Tuesday he declared police commissioner Katarina Carroll’s direction for mandatory Covid-19 vaccination issued in December 2021 was unlawful under the Human Rights Act and banned her from taking any steps to enforce the direction. https://archive.is/AFf7x#selection-1703.0-1707.127
