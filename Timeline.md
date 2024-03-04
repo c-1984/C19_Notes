@@ -4,6 +4,9 @@
 
 ---
 
+1 March 2024
+- Unconfirmed, but anonymous source from China claims that government is instructing all COVID-19-related data, including vaccinations, to be deleted from hospital systems. https://www.theepochtimes.com/article/ccp-demands-nationwide-destruction-of-all-covid-19-data-source-5598239
+
 28 February 2024
 - CDC recommends 9th (!!!) COVID-19 vaccine booster. Note headline by Washington Post which attempts to obscure the fact that it is number 9 of the total jabs. https://www.washingtonpost.com/health/2024/02/28/covid-vaccine-booster/ https://www.dossier.today/p/dose-number-nine-cdc-panel-green
 
