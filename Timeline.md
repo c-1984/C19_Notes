@@ -4,6 +4,12 @@
 
 ---
 
+4 May 2024
+- The Telegraph publishes article admitting that the lab leak theory is likely true, with leaked files supporting the theory. These files were shared by Mike Pompeo with UK Foreign Secretary and representatives from Canada, New Zealand and Australia in January 2021 but were apparently ignored. https://archive.md/jrj3M
+
+3 May 2024
+- The New York Times publishes article admitting to severe and underreported side effects of the COVID-19 vaccines: "Thousands Believe Covid Vaccines Harmed Them. Is Anyone Listening?", casting the vaccine-injured in a sympathetic light. https://archive.md/wacCc and https://archive.md/Mce9H 
+
 1 March 2024
 - Unconfirmed, but anonymous source from China claims that government is instructing all COVID-19-related data, including vaccinations, to be deleted from hospital systems. https://www.theepochtimes.com/article/ccp-demands-nationwide-destruction-of-all-covid-19-data-source-5598239
 
