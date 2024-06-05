@@ -4,6 +4,12 @@
 
 ---
 
+3 June 2024
+- Excess mortality study published in BMJ Public Health acknowledges excess mortality: "Excess mortality has remained high in the Western World for three consecutive years, despite the implementation of containment measures and COVID-19 vaccines. This raises serious concerns. Government leaders and policymakers need to thoroughly investigate underlying causes of persistent excess mortality." https://bmjpublichealth.bmj.com/content/2/1/e000282
+
+1 June 2024
+- Fauci questioned in Congressional Hearing, no scientific basis for 6-foot distancing rule, downplaying the lab leak, amongst other claims, https://thehill.com/policy/healthcare/4701274-anthony-fauci-hearing-takeaways/
+
 4 May 2024
 - The Telegraph publishes article admitting that the lab leak theory is likely true, with leaked files supporting the theory. These files were shared by Mike Pompeo with UK Foreign Secretary and representatives from Canada, New Zealand and Australia in January 2021 but were apparently ignored. https://archive.md/jrj3M
 
