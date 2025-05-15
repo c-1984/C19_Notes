@@ -4,6 +4,9 @@
 
 ---
 
+24 March 2025
+- Mouse study published in MDPI showing that the Pfizer mRNA vaccine reduces ovarian reserve compared to saline control. https://www.mdpi.com/2076-393X/13/4/345
+
 3 June 2024
 - Excess mortality study published in BMJ Public Health acknowledges excess mortality: "Excess mortality has remained high in the Western World for three consecutive years, despite the implementation of containment measures and COVID-19 vaccines. This raises serious concerns. Government leaders and policymakers need to thoroughly investigate underlying causes of persistent excess mortality." https://bmjpublichealth.bmj.com/content/2/1/e000282
 
