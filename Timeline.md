@@ -4,6 +4,9 @@
 
 ---
 
+17 April 2025
+- FDA notifies Pfizer that safety information of the Pfizer vaccine must be updated to reflect increased risk of myocarditis and pericarditis, including new results from a study showing "abnormal cardiac magnetic resonance imaging findings" 5 months after vaccination. https://www.fda.gov/media/186581/download?attachment (Archive: https://archive.md/kMvux)
+
 24 March 2025
 - Mouse study published in MDPI showing that the Pfizer mRNA vaccine reduces ovarian reserve compared to saline control. https://www.mdpi.com/2076-393X/13/4/345
 
