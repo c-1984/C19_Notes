@@ -25,6 +25,9 @@
 3 May 2024
 - The New York Times publishes article admitting to severe and underreported side effects of the COVID-19 vaccines: "Thousands Believe Covid Vaccines Harmed Them. Is Anyone Listening?", casting the vaccine-injured in a sympathetic light. https://archive.md/wacCc and https://archive.md/Mce9H 
 
+13 March 2024
+- Australian government updates official website to say that there is no test that provides proof of COVID-19 immunity, including antibody tests, and that testing for immunity after vaccination is not recommended. https://immunisationhandbook.health.gov.au/recommendations/serological-testing-for-immunity-to-sars-cov-2-is-not-recommended-before-or-after-receiving-a-covid-19-vaccine (Archive: https://archive.md/JJlbK)
+
 1 March 2024
 - Unconfirmed, but anonymous source from China claims that government is instructing all COVID-19-related data, including vaccinations, to be deleted from hospital systems. https://www.theepochtimes.com/article/ccp-demands-nationwide-destruction-of-all-covid-19-data-source-5598239
 
