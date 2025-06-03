@@ -4,6 +4,9 @@
 
 ---
 
+2 May 2025
+- Australian government updates official website to say that COVID-19 vaccination is no longer required for those aged 18 and younger as "benefits of vaccination are not considered to outweigh the potential harms". https://immunisationhandbook.health.gov.au/recommendations/healthy-infants-children-and-adolescents-aged (Archive: https://archive.md/1fYQg)
+
 17 April 2025
 - FDA notifies Pfizer that safety information of the Pfizer vaccine must be updated to reflect increased risk of myocarditis and pericarditis, including new results from a study showing "abnormal cardiac magnetic resonance imaging findings" 5 months after vaccination. https://www.fda.gov/media/186581/download?attachment (Archive: https://archive.md/kMvux)
 
